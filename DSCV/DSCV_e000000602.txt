@@ -1,0 +1,1444 @@
+Ple de les Corts Valencianes realitzat el dia 21 d'abril de 2010. Comença la sessió a les 10 hores i 39 minuts. Presideix la presidenta de les Corts Valencianes, senyora María Milagrosa Martínez Navarro. Sessió plenària número 67. Primera reunió.
+
+Projecte de llei d'administració electrònica de la Comunitat Valenciana. Debat i votació del dictamen de la Comissió de Coordinació, Organització i Règim de les Institucions de La Generalitat (BOC número 222)
+
+La senyora presidenta:
+
+S'obri la sessió.
+
+La senyora presidenta:
+
+La senyora Catalá Pérez:
+
+El proyecto de ley fue presentado ante la cámara el pasado día 11 de diciembre de 2009, y tramitado por la Mesa de Les Corts el 22 del mismo de diciembre, publicándose en el Boletín Oficial
+
+de Les Corts
+
+Boletín Oficial de Les Corts
+
+Boletín Oficial de Les Corts
+
+(Aplaudiments)
+
+La senyora presidenta:
+
+La senyora Albiol Guzmán:
+
+En primer lloc, considerem des d'Esquerra Unida necessari felicitar els grups pel gran treball que s'ha fet per tal de millorar aquesta llei, encara que, lamentablement, l'esperit de consens no ha arribat del tot fins a les esmenes d'Esquerra Unida.
+
+Una de les nostres esmenes que hem presentat és per tal de potenciar el
+
+lliure. En la llei, quan es parla dels principis, quan parla del principi de llibertat d'elecció tecnològica, nosaltres, evidentment, sense renunciar a la llibertat d'elecció tecnològica, el que proposem és que es parle del respecte a la llibertat d'elecció tecnològica, però que parle també del foment al
+
+lliure, perquè pensem que La Generalitat ha d'utilitzar i fomentar preferentment el
+
+lliure i ha d'afavorir el seu ús per als ciutadans i ciutadanes no només perquè siga més eficient i més econòmic al no haver de pagar els drets de propietari, sinó a més perquè ja sabem que tindre el codi font dels programes informàtics és una garantia front a les intrusions de tercers.
+
+El
+
+lliure és una demostració que la cooperació és més efectiva que la competència. Potenciar el
+
+lliure seria potenciar els informàtics valencians, seria desenvolupar el sector de la informàtica al País Valencià i seria potenciar la innovació. De l'altra manera, amb Microsoft, l'únic que estem fent és potenciar l'empresa Microsoft, la seua innovació, etcètera, etcètera, però no als informàtics valencians, a la indústria informàtica valenciana, que ens ajudarien a desenvolupar aquest sector.
+
+Per tant, llibertat d'elecció tecnològica, sí, però també prioritzar el
+
+lliure.
+
+A més, cal apuntar que la llibertat es dóna només a l'hora d'utilitzar un programa lliurement. El programa propietari l'has de pagar, no tens dret a distribuir-lo, no tens dret a modificar-lo, no tens dret a millorar-lo. L'únic que tens és una llicència d'us.
+
+Per tant, quan parlem de llibertat, parlem de programes lliures. Això pel que fa al
+
+lliure.
+
+Després hi ha una esmena a l'article 10. 2, quan parla que serà La Generalitat qui ajude a prestar assistència tècnica per a la creació, manteniment i actualització de les seus electròniques de les entitats locals que no puguen atendre, pel seus mateixos mitjans, aquesta obligació i ha de ser La Generalitat qui ho faça.
+
+(Pausa i remors)
+
+La senyora presidenta:
+
+La senyora Albiol Guzmán:
+
+Com deia, hi ha un article que diu que «La Generalitat es farà càrrec de mantindre les seus electròniques dels municipis que no puguen atendre aquestes necessitats». El que passa és que, com sempre, amb les lleis del Partit Popular, posa «sempre que ho permeten les disponibilitats pressupostàries».
+
+Per tant, açò és com deixar aquest article sense contingut, açò és absolutament paper mullat, sobretot quan tenim en compte que en aquests moments els municipis estan passant una situació de crisi econòmica més acusada que altres administracions per la falta de finançament que tenim en estos moments.
+
+Per tant, volem, des d'Esquerra Unida, que aquesta llei siga una llei de compromisos, i una llei de, bé, si hi han diners, ho farem; si ens va bé, endavant; ja vorem. Per això, el que demanem és eixa modificació, que no es quede la frase de si hi han diners, se farà; i si no hi han diners, no es farà.
+
+Per a nosaltres aquestes són dos esmenes molt important, tant la del
+
+lliure com la de poder atendre les seus electròniques dels municipis que no poden fer-se càrrec d'elles.
+
+Per tant, esperem que la voluntat de consens arribe també en aquest plenari a aquestes dos esmenes. Jo crec que açò seria un pas important.
+
+De totes formes, com dic, agrair el treball realitzat.
+
+Res més.
+
+La senyora presidenta:
+
+Senyor Morera.
+
+El senyor Morera Català:
+
+Bon dia, senyora presidenta, encara que amb una miqueta de retard, deu minuts de retard d'inici de la sessió.
+
+I encetem la sessió amb un tema que no és baladí. És un tema molt important la llei d'administració electrònica. Com vostés saben, el nostre grup parlamentari ha intentat treballar d'una forma seriosa, responsable, introduint esmenes en el que nosaltres considerem que és una necessitat peremptòria que l'administració es dote d'una administració electrònica ràpida, una oficina de tràmits virtuals que puga estar connectada amb les administracions locals. I en eixe sentit hem treballat i hem presentat esmenes per a millorar el text que ens ha presentat el Grup Popular.
+
+Nosaltres considerem que s'han produït una sèrie d'esdeveniments que marquen. uns elements que ens preocupen. I això, junt amb la no acceptació d'algunes esmenes del nostre grup parlamentari, ens veiem en l'obligació de no poder donar el nostre vot favorable a esta proposta de llei, si no és que el Grup Popular diu ací fefaentment que va a apostar pel software lliure.
+
+Ens ha preocupat moltíssim vore que amb els diners de tots els valencians, el president Camps se'n va anar a Seattle, va recórrer mig món per fer-se una foto amb el senyor Bill Gates. I ens vam preguntar: què ens ha costat eixa foto? Eixa foto no ens ha costat només els 800. 000 euros que ens va a costar lla instal·lació d'una oficina de Microsoft a Torrevella, sinó el que nosaltres entenem com a més preocupant és que la Generalitat valenciana, el govern valencià s'ha entregat a Microsoft en tot el que és l'administració electrònica. Estem parlant d'un muntant de negoci de milers, centenars de milions d'euros.
+
+Entregar tots els tràmits administratius a un únic canal com Microsoft és vendre els interessos del poble valencià per a fer pagar als valencians i les valencianes per la utilització d'un únic canal. I això ho pot remeiar esta llei, si s'accepten les esmenes que hem plantejat sobre el
+
+lliure. Fer pagar els usuaris que treballen amb l'administració valenciana per a entrar pel canal que marca Microsoft és penalitzar els usuaris, a les administracions, als ajuntaments, que es voran obligats a treballar només amb un operador, i regalarem un monopoli de treball d'administració electrònica a tots els operadors i deixarem al marge la competència. Eixe és el preu de la foto del senyor Camps a Seattle.
+
+Ens ha preocupat moltíssim que Microsoft pagara un viatge a diputats d'estes Corts Valencianes a Bilbao, ens ha preocupat moltíssim, perquè el que indica està molt clar: és que Microsoft vol aconseguir una posició de domini. I davant un president dèbil, un president que no està en el que toca, que està més preocupat per fer-se la foto, el que ens temem és que esta llei siga la porta d'entrada al monopoli de Microsoft al nostre país. I això ens preocupa, perquè s'estan carregant vostés el que tantes vegades han dit sobre el
+
+lliure.
+
+Volem, des del Grup Compris,
+
+lliure per a tots els usuaris de La Generalitat valenciana. I és més, els diré que hi ha una enorme preocupació pel sector de les noves tecnologies, les empreses TIC, que veuen com els pot passar una competència deslleial enorme per afavorir a un operador, Microsoft, al qual no només La Generalitat tindrà de pagar per la utilització dels seus programes, sinó que tots els usuaris que vullguen connectar-se amb l'administració valenciana tindran de pagar. Eixe és el preu de la foto, senyories.
+
+Per tant, jo els faig una oferta, dos ofertes per a incorporar-nos a este consens. Una, que esta llei incorpore, com és factible i és possible, que se va a propiciar el
+
+lliure, que se va a deixar en igualtat de concurrència, en llibertat d'accés a tots els operadors, que ho diga la llei. Barrem el pas al monopoli d'un sol operador, siga Microsoft o en siga un altre, barrem el pas.
+
+I per altra banda, que La Generalitat va a fer una cosa molt important i que no ha recollit en les nostres esmenes. I és que perquè tingam una identitat, un domini en el món, que els valencians i valencianes estigam en el món de forma seriosa, que s'impulse per part de La Generalitat el domini «. val». Vostés han proposat en el projecte de llei, en el text, que anaven a impulsar el domini «. cva», Comunidad Valenciana.
+
+Bé. Jo crec que n'hi ha un altre que ens identifica a tots, que es el «. val». Jo ja he presentat una iniciativa en eixe sentit, de proposar que la Generalitat valenciana pot. no un domini, com plantejaren vostés erròniament, un domini estatal, no ho poden fer, però sí que poden fer una cosa més interessant, i és una domini significatiu, d'acord amb el que han fet altres entitats per aconseguir una identitat tecnològica en el nostre territori. Jo els he proposat que en el preàmbul figure el que vostés van dir en el preàmbul per obrir pas que La Generalitat se pose les piles i demane un domini. jo propose el «. val». Podia demanar el País Valencià. Ja sé que no m'ho van a acceptar. Jo ho acceptaria. No sé si per part del Grup Socialista estarien disposats a proposar el domini «. pv».
+
+Però, en tot cas, jo crec que hi ha un punt de consens.
+
+El rebutgen? No sé si ho. Però, en tot cas, jo els propose que caminem junts per a demanar de la Generalitat valenciana, com han fet altres regions europees o en altres àmbits interessants, i és perfectament possible, que treballem plegats per aconseguir el domini «. val».
+
+Eixes dos coses, eixes dos coses són les que vull que està llei reculla en el preàmbul, en l'esmena que els hem plantejat. I sobretot que se quede molt clar que l'administració electrònica valenciana va a estar oberta la
+
+lliure, a tots els operadors, des d'IBM, des d'Apple, a tots
+
+lliure, que puguen funcionar tots els operadors.
+
+I els diré paraules que va dir el que va ser el nostre síndic, -han passat molts síndics en este període de sessions- el senyor Esteban González Pons sobre el
+
+lliure, i va dir el següent. ,
+
+aleshores era conseller d'Educació i Cultura de la Generalitat valenciana, va dir que les administracions públiques que no utilitzen el
+
+lliure no són democràtiques completament, ja que deuen pagar recursos que poden obtindre gratuïtament.
+
+Aleshores, ¿per què hem de pagar per recursos que podem obtindre gratuïtament a través del
+
+lliure i per què vostés no es comprometen hui ací? Tenen l'oportunitat. Jo estic convençut que el Grup Socialista hi estaria d'acord. ¿Per què no es comprometen hui ací a que aprovem l'esmena que deixa clar que l'administració electrònica valenciana va a poder treballar amb
+
+lliure? Perquè si vostés no accepten eixa esmena, obriran la sospita que se van a tancar acords amb un únic operador perquè la Generalitat valenciana pague el que pot obtindre gratuïtament, segons el senyor Esteban
+
+(ininte l·ligible)
+
+. , que hi estic completament d'acord, i crear un monopoli perquè tots aquells que tinguen de treballar, d'operar, de fer tràmits amb l'oficina virtual de la Generalitat valenciana, ¡tinguen de pagar! Obligaran vostés, previsiblement, i ja ho vorem, a pagar a ciutadans, ajuntaments, empreses, a tots aquells que vullguen operar amb l'administració valenciana, a pagar, perquè tindran de fer sistemes compatibles amb l'
+
+que vostés contractaran, segurament, amb Microsoft. Si no, ¿per què eixa foto? , si no, ¿per què eixa foto? Eixa és la trampa.
+
+Senyories, si vostés volen evitar qualsevol tipus de sospita, si vostés volen donar una resposta clara al que els estem plantejant hui ací, tenen l'oportunitat de fer-ho encara, i és pactar d'acord amb les esmenes que el grup Compromís ha plantejat ací, a estes Corts, dos esmenes perquè el nostre grup s'incline a favor del vot favorable.
+
+Una, que s'impulsarà per part de La Generalitat l'obtenció del domini «. val», i, dos, que esta llei d'administració electrònica treballarà sobre la base del
+
+lliure i, per tant, no privilegiarem cap operador, encara ens haja concedit una foto allà a les antípodes, allà en Seattle.
+
+Eixos dos requisits, un, té a vore amb la nostra identitat, amb la presència del valencià en el món, amb la presència de la nostra identitat en el ciberespai, que encara no s'ha fet res a eixe respecte. I, dos, té a vore amb el que suposa una demanda per milers d'usuaris, i és que el que podem tindre gratuïtament, que no faça pagant, que no pague La Generalitat, que, per desgràcia, no té un duro, i que no ho paguen els usuaris. Amb eixes dos condicions el nostre grup parlamentari estaria en condicions de sumar-se al consens. Ara n'hi ha un consens entre els dos grups majoritaris. Nosaltres, si eixes dos condicions estan damunt la taula i les podem transaccionar, no tindríem obstacle a votar a favor. Si no és així, el nostre grup parlamentari no pot donar-hi un vot favorable.
+
+Moltes gràcies.
+
+La senyora presidenta:
+
+Senyora Gay.
+
+La senyora Gay Bódalo:
+
+(Aplaudiments)
+
+La senyora presidenta:
+
+Senyor Ovejero.
+
+El senyor Ovejero Adelantado:
+
+Vamos a iniciar una era totalmente diferente, vamos a fijar el antes y el después de la relación entre las valencianas y valencianos y sus administraciones. No sé, concretamente, el sentido del voto final de los grupos de la cámara; sí conozco el trabajo que a lo largo de estas semanas han realizado los ponentes, en especial la señora Gay. Les comunico, señora Gay, que, hoy, en este pleno, le aceptamos dos enmiendas, la número 36 y la 45.
+
+Fruto de esta nueva situación, los ciudadanos podrán demandar mejores servicios, mayor seguridad y participación, y las empresas, menos burocracia y más eficiencia. Además, les va a permitir relacionarse con ella sin colas ni esperas. Desde hoy, ese servicio al ciudadano consagra su derecho a comunicarse con las administraciones por medios electrónicos. Esa es una de las grandes novedades, pasar de la hasta ahora simple posibilidad de que algunas administraciones o algunos de sus órganos permitan las comunicaciones por medios electrónicos a que estén obligadas a hacerlo, porque esta ley así lo reconoce, obligando a estas, a las administraciones, a dotarse de los sistemas para que ese derecho pueda ejercerse.
+
+(Aplaudiments)
+
+La senyora presidenta:
+
+La senyora Albiol Guzmán:
+
+Senyor Ovejero, no estem parlant de diferències mínimes, això és el que li vull explicar. Triar entre el
+
+lliure i el
+
+propietari, en este cas, de Microsoft, no és una diferència mínima. Val? I tampoc estem parlant de la llibertat individual que cadascú a sa casa trie el programari que vullga. Evidentment, cada ciutadà i cada ciutadana del País Valencià, a sa casa faran el que vullguen, però no estem parlant d'això. Ací s'està parlant, en esta llei, del que s'ha de fer a la Generalitat valenciana, és una llei d'administració electrònica de la Generalitat valenciana, no de cadascú de sa casa, que cadascú a sa casa trie el que vullga. Estem parlant de per què aposta i per què tria la Generalitat valenciana. Per tant, quan parlem de la llibertat d'elecció tecnològica, el que estem parlant és de per què decideix la Generalitat valenciana.
+
+Nosaltres apostem i pensem que la Generalitat valenciana ha d'apostar pel
+
+lliure perquè la llibertat es troba -com he dit abans- en el programari lliure. És l'únic que permet distribuir, millorar i modificar; l'altre no li dóna ninguna llibertat, a més que el
+
+lliure és més econòmic i més eficient. Si triem el programari lliure, el programari propietari, estem parlant de la llibertat de la Generalitat valenciana d'engreixar els comptes bancaris de Microsoft. Això és del que estem parlant, d'eixe tipus de llibertat, de la llibertat que Microsoft tinga un acord amb la Generalitat valenciana. La llibertat que el senyor Camps se'n vaja a fer-se al foto amb el de Microsoft per a fer-se propaganda, eixa propaganda fotogràfica a què tant acostumats ens té ja el senyor Camps i que tants diners ens està costat als valencians i valencianes, cada foto que se fa el senyor Camps per a fer-se la campanya electoral.
+
+Per tant, no estem parlant de diferències mínimes, com tampoc són diferències mínimes que en esta llei es quede tancant, o no es quede tancat, que serà La Generalitat qui done suport als ajuntaments per a les seues seus electròniques. Perquè, una cosa són les paraules, i pot quedar molt bé dir que La Generalitat ajudarà els ajuntaments que posen en marxa les seues seus, però si el que hi ha és una frase, entre cometes, que diu «sempre que n'hi hagen diners», això no servix absolutament per a res.
+
+Per tant, estem parlant, per una part, de la importància del
+
+lliure, i, per altra part, que els ajuntaments no van poder posar en marxa tota aquesta revolució tecnològica, de la qual vosté parla, no van a poder posar-la en marxa perquè en estos moments la Generalitat valenciana, que està absolutament ofegada, que està pràcticament en fallida, no em diguen ara vostés que els ajuntaments van a tindre eixos diners per a posar les seus electròniques en marxa, perquè no és cert.
+
+Per tant, un projecte de llei que podria ser molt beneficiós per als ciutadans i ciutadanes del País Valencià, que podria ser un gran avanç, si no es tanquen aquestes coses -com dic- es quedarà en paper mullat.
+
+La senyora presidenta:
+
+Senyor Morera.
+
+El senyor Morera Català:
+
+Moltes gràcies, senyora presidenta.
+
+Senyories.
+
+Quan el senyor Ovejero ha parlat de la màquina de vapor i les revolucions industrials que van tindre lloc, he pensat que el senyor Ovejero, el Grupo Popular, i, en companyia del Grup Socialista, el que vol és mantenir l'esclavitud tecnològica. Sí, senyor Ovejero, perquè, després, tot el que ha dit vosté està molt bé. És cert que el govern valencià arriba tard al que és la revolució tecnològica, és cert que arribem tard al que és l'oficina de tràmits virtuals, és cert que hi ha altres comunitats que avancen i és cert que necessitem esta llei. Però, també necessitem treballar amb
+
+lliure, necessitem llibertat tecnològica, perquè el problema que tenim és que vostés ací han sembrat la sospita en no acceptar les nostres esmenes perquè estan preparant una cosa molt evident. I la sospita és certa. I és que van a obligar tots els usuaris, amb l'administració valenciana, a passar pel tub, van a obligar-los a passar pel tub. Perquè si els sistemes que utilitza la Generalitat valenciana, pagant-los a un operador, en este cas, Microsoft, obligarà tots els usuaris a haver de pagar per fer compatible la seua forma de treballar amb l'administració de la Generalitat valenciana. Eixe és el preu que anem a pagar tots. Com que no n'hi ha un duro, anem a fer pagar el que a altres comunitats autònomes és gratuït. Anem a obligar a utilitzar un sistema incompatible amb altres sistemes.
+
+I, en eixe sentit, a mi m'agradaria preguntar-li: per què no accepten les nostres propostes perquè en esta llei, que és la primera llei important que es fa després del viatge del president Camps a Seattle? Per cert, hem de recordar que el senyor Bill Gates està apartat de Microsoft i que se dedica a causes benèfiques, entre altres coses, a investigar i a combatre la malària a l'Àfrica. Què ens ha costat eixa foto? Perquè alguns diners haurem d'haver pagat per als fons de solidaritat i d'accions que té el senyor Bill Gates. No va contractar La Generalitat una empresa amb 49. 000 euros per a la seua acció de promoció exterior? Això no és el més greu! Si està molt bé donar-li un òbol al senyor Bill Gates perquè faça les seus obres benèfiques. Però, el que no està bé és obligar -el que pot preveure esta llei- els usuaris que hagen de treballar amb l'administració virtual de la Generalitat valenciana a pagar per fer compatibles els seus sistemes amb els sistemes que, sense cap mena de dubte, vostés van adjudicar a Microsoft. Si és que ahir mateix se n'anaren de viatge a Bilbao, en un viatge pagat per Microsoft! No passa res! Si està molt bé tot això! Si em pareix moltíssim que estes Corts valencianes investiguen i viatgen els seus diputats! Però, sap què li dic? Que estaria molt bé que hui pactàrem ací una esmena per a dir que l'administració electrònica valenciana treballarà sobre els sistemes de Linux, és a dir
+
+lliure. I si vostés no volen que transaccionem això, hauran d'explicar-ho als seus electors, perquè ens ha citat vosté a Baltasar Gracià, a la màquina de vapor. Però, escolte! , ací fa pudor. I açò és la real política.
+
+I, clar, quan veiem -
+
+-, i quan veiem que hi ha declaracions per part d'alguns responsables, alguns consellers que, per exemple, en l'àmbit d'educació estan dient que és compatible el sistema de Microsoft amb el
+
+lliure, doncs, ja veiem per a on van les coses. Quan veiem que Microsoft va a treballar per a implantar sistemes informàtics en els sistemes sanitaris, ja veiem per a on va anar el tema. I, clar, una cosa tan senzilla, que està a les nostres mans, que està a les mans de les Corts valencianes, que és el que s'està fent de forma molt correcta a Extremadura, i és l'aplicació per part de l'administració que té l'obligació de vetllar pels interessos del nostre poble, aprovar hui i ací una esmena transaccionada per tots els grups perquè els usuaris futurs de l'administració electrònica valenciana no hagen de pagar per operar en eixa administració, perquè l'administració valenciana tot indica que va a ser tutelada per Microsoft per a pagar la foto que es va fer el nostre president, quan això ho podem arreglar hui, ací i ara -i vosté diu que no-, un poc de pudor fa tot açò. Fa molta pudor. Fa molta pudor.
+
+I està a les nostres mans obrir les finestres i que s'airege l'hemicicle, perquè si és clar que vosté -com ha dit- no vol acceptar la nostra esmena per a caminar en eixe procés, nosaltres no podem de cap de les maneres votar a favor d'una llei.
+
+La senyora presidenta:
+
+El senyor Morera Català:
+
+. que no deixa clar que anem a operar amb el
+
+lliure.
+
+La senyora presidenta:
+
+El senyor Ovejero Adelantado:
+
+Miren, señorías, lo más importante para nosotros son las personas, por lo que nunca vamos a adoptar decisiones generales que impidan a cada uno decidir en cada momento cuál es la mejor solución. Además, les recuerdo a ambos -al señor Morera y a la señora Albiol- que el
+
+(Aplaudiments)
+
+La senyora presidenta:
+
+Y ahora, señorías, pasamos a la votación del articulado. Si les parece a ustedes, excepto los artículos que mantienen la enmienda, los votamos conjuntamente. Votamos los artículos 1, 2 y 3. Comienza la votación. ¿Votos a favor? 85. ¿Votos en contra? 3. Quedan aprobados los artículos 1, 2 y 3.
+
+Y ahora, si les parece a sus señorías, respecto a las disposiciones hacemos lo mismo, solamente votaremos de forma separada las que mantienen enmienda. Así que ahora vamos a votar la disposición adicional. , de la primera a la quinta, ambas incluidas. Comienza la votación. ¿Votos a favor? 86. ¿Votos en contra? 3. Quedan aprobadas las disposiciones adicionales referidas.
+
+Informe de fiscalització del Compte General de La Generalitat corresponent a l'exercici 2008. Debat del dictamen de la Comissió d'Economia, Pressupostos i Hisenda (BOC número 217)
+
+a senyora presidenta:
+
+El senyor Marí Olano:
+
+(Aplaudiments)
+
+(Ocupa la presidència el vicepresident primer, senyor Rafael Maluenda Verdú)
+
+El senyor vicepresident primer:
+
+Gràcies a vosté, senyor Marí.
+
+Per al torn en contra, la il·lustre diputada senyora Cristina Moreno, en representació del Grup Parlamentari Socialista, té la paraula.
+
+La senyora Moreno Fernández:
+
+En septiembre del 2009 se hizo público un informe policial en el que se leían cosas del estilo que decía: «Existe un conjunto de elementos objetivos que permiten definir al conjunto de personas vinculadas al entramado empresarial creado por Correa, como una organización de carácter delictivo dedicado a la comisión de hechos encuadrados en delitos de corrupción y otros conexos en el ámbito de las comunidades públicas». Y decía: «Las buenas relaciones con personas que ocupan cargos de responsabilidad en el partido y en el gobierno valenciano, le permite -a la trama corrupta- mantener un nivel de negocio que se concreta tanto en eventos de partido como en adjudicaciones de contratos públicos». Todo eso se ha ido haciendo público en el año 2009 y resulta que la Sindicatura de Cuentas, el órgano responsable de la fiscalización externa de la Generalitat valenciana, hace como que no se entera, hace como que no existe en esta comunidad, y no fiscaliza la Agencia Valenciana de Turismo y no fiscaliza la sociedad de eventos de gestores, la del señor Rambla que. , la Sociedad Gestora de Imagen Promocional se llama en concreto, que sabemos que tenía contratos de la trama Gürtel, que estaba en todos los periódicos, y no fiscaliza VAERSA -que hemos visto lo que ha ocurrido con tres contratos iguales, tres propuestas iguales, para un contrato que luego nunca se dio- y no fiscaliza ninguna de las empresas públicas que, sabíamos por todos los periódicos y hemos visto y hemos ido viendo avergonzados lo que estaba ocurriendo, lo que estaba ocurriendo.
+
+No es verdad, nos lo acaba de decir usted aquí. Usted le ha dicho a sus representantes en la sindicatura que no lo fiscalice, lo acaba de decir usted. Porque, según usted acaba de decir, los síndicos de la Sindicatura de Cuentas que ustedes ponen hacen lo que ustedes les dicen, lo acaba de decir. Es más, les ha dicho: «Y si no, no les pondremos porque en junio es la renovación», eso es lo que acaba de decir usted. ¿Eso es el respeto a las instituciones que tiene usted? Y lo ha dicho claramente. Por eso decía que casi no hacía ni falta que diese los argumentos en contra porque los ha dado usted todos. Ha dicho: «Los que están ahí los pongo yo, y hacen lo que yo les digo, y faltaría más, se iban a atrever, se iban a atrever a hacer una auditoría de la Agencia Valenciana de Turismo. » Faltaría más, se iban a atrever ellos. La han hecho siempre.
+
+(Aplaudiments)
+
+Lo decía la Agencia Valenciana de Turismo durante muchos años y este año no se ha hecho. Porque miren, cuando sí se hace la Agencia Valenciana de Turismo no dice que hay responsabilidad contable -porque ya le digo que es un elemento difícil- pero sí anuncia y pone encima de la mesa las irregularidades, los incumplimientos significativos, como lo hizo en Radiotelevisión Valenciana. Porque si ahora sabemos, y está también en los juzgados, que ustedes sacaron dinero hasta de la visita de su santidad el Papa -tanto respeto que le tienen pero se llevaron unos cuantos millones-, si ahora lo sabemos, si ahora sabemos que hay un contrato de más de seis millones cuestionado y en los juzgados, por la trama corrupta -sólo uno, más aparte unas cuantas más-, si ahora lo sabemos, también es verdad que la Sindicatura de Cuentas lo levantó. Y la Sindicatura de Cuentas ahí sí, porque ahí sí que ustedes les dejaron -se ve que les parecía un poco escandaloso que no se fiscalizara la Televisión Valenciana.
+
+Porque usted dice. Y yo me siento orgullosa de la institución de la Sindicatura de Cuentas. Y usted dice «porque somos los primeros, porque ya ahora mismo vamos a acabar el trámite y somos los más rápidos. » ¡Oiga! Pero es que eso no es voluntad política, ni suya ni de la Sindicatura de Cuentas. Es que la Ley de la Sindicatura de Cuentas, que no se aprobó con esa mayoría, que no se aprobó con esa mayoría, la Ley de la Sindicatura de Cuentas obliga a que la Sindicatura de Cuentas presente el informe antes de fin de año, del año anterior. ¡Es que les obligan! ¡No es voluntad política!
+
+Pero, segundo, igual de grave o más grave en esta situación económica es que esos que tienen sus facturas en el cajón no cobran. Es que esos que tienen los 1. 837 millones de facturas en el cajón son empresarios grandes y pequeños, son empresarios que tienen la soga al cuello y que la administración valenciana les debe 1. 837 millones de euros de facturas en el cajón. Y eso sí que es un problema estructural de esta Generalitat valenciana. Es un problema estructural grave, que habría que empezar a solucionar, que de hecho ustedes dijeron que encontraban una fórmula de solucionarlo. Era una fórmula, la de siempre, la que hacen ustedes: pasarlo a deuda. Vamos a. La deuda de las facturas en el cajón vamos a pasarlo a deuda y ya se irá pagando año tras año.
+
+(Aplaudiments)
+
+(Ocupa la presidència la presidenta, senyora María Milagrosa Martínez Navarro)
+
+La senyora presidenta:
+
+El senyor Marí Olano:
+
+La senyora presidenta:
+
+El senyor Marí Olano:
+
+(Aplaudiments)
+
+La senyora presidenta:
+
+La senyora Moreno Fernández:
+
+(Aplaudiments)
+
+, el síndico o ex síndico, que es una vergüenza, señor Marí. Yo no sé si todos esos serán o no serán juzgados, será o no será un delito. Lo que sí sé es que la Sindicatura de Cuentas, la institución que fiscaliza las cuentas, sí es una vergüenza que esas cuentas no las haya fiscalizado. Sí es una vergüenza. Ya veremos si es o no delito, ya veremos si cada uno paga lo que tiene que pagar o se queda como regalo. Porque lo que es evidente es que sabemos que las mentiras se han hecho, que el señor Camps no se ha pagado sus trajes, que todos ustedes han tenido regalos. Será delito o no será delito si se demuestra o no se demuestra y si la justicia demuestra o no demuestra que esos regalos. y que por esos regalos ustedes han dado dinero público.
+
+Y la Sindicatura de Cuentas no ha hecho la auditoría porque era incapaz de hacerla, porque la institución no le permitía. Porque ustedes no se lo permitieron el año pasado y porque ustedes les habrán insinuado o les habrán dejado caer que «mejor que no lo hagáis, porque si lo hacéis, a ver qué decís». Eso lo ha dicho usted bien claro en la primera, lo sigue diciendo usted en la segunda. Porque usted claramente ha dicho que «el que pone a uno, ya sabe para qué lo pone y el que está puesto ya sabe lo que tiene que hacer. » Lo ha dicho usted en su primera, el
+
+(Aplaudiments)
+
+La senyora presidenta:
+
+La senyora Sanz Alonso:
+
+Pese a que se ha pedido, el informe no aborda auditorías completas y en profundidad que permitan analizar la gestión de las empresas públicas. Y empresas públicas, algunas de ellas que están ligadas, como ahora conocemos perfectamente, ya teníamos indicios entonces, al sumario Gürtel y en relación a la empresa Orange Market.
+
+Miren, yo creo que a ustedes les interesa que precisamente estas auditorías no entren en ese campo, les interesa que la opacidad sea permanente en la gestión de la administración pública valenciana, no arriesgarse a que resulten coincidentes en sus conclusiones con las pruebas de los informes que supuestamente apuntan a una financiación ilícita de su partido en esa relación preferente que ha mantenido la administración valenciana que ustedes dirigen con la empresa Orange Market y las empresas superpuestas. Eso es, si hay alguna intencionalidad política, la intencionalidad del Partido Popular.
+
+La senyora presidenta:
+
+Señora Mollà.
+
+La senyora Mollà Herrera:
+
+Gràcies, senyora presidenta.
+
+Senyores diputades, senyors diputats.
+
+El Grup Parlamentari Compromís no recolzarà aquest dictamen, i ja vam exposar en la comissió reiterades vegades el nostre posicionament.
+
+Nosaltres creguem que hi han coses que no podem recolzar. I és, per exemple, que aquí se facen arguments falsos sobre inclús, inclús el que diu. Nosaltres estem en contra del que no diu, perquè no ho diu, però és que del que diu, s'han dit arguments falsos.
+
+Se diu que s'expressa en este informe una millora en la gestió administrativa i econòmica per part del govern valencià. I no és veritat. Literalment, com a molt, el que diu és que «no se plantea la emisión de ninguna opinión global» per la manca d'accés a poder emetre aquesta opinió.
+
+Se diu també que se deixa clar que hi ha una deficiència estructural que arrosseguem i se posa com a exemple el tema de la sanitat. Però crec que ja s'ha deixat ben clar que aquestes factures, que representen milions d'euros, això és una deficiència estructural provocada pel Partit Popular.
+
+I més encara quan es diu, literalment, que «se hace indebidamente por todas las administraciones el tema de fraccionar els contractes. » A mi em sembla, doncs, una afirmació prou preocupant, perquè vostés ja de per sí, el Partit Popular, estan admetent que indegudament estan fent una gestió de les contractacions que no hauria de ser la que imperara.
+
+Què passa. ? També diu l'informe i denuncia la proliferació constant d'aquests contractes menors i d'aquests fraccionaments. I, per tant, nosaltres creem que això també és una deficiència estructural.
+
+Què dir de l'apartat del deute públic? Això ja ho hem denunciat moltes vegades, que el que farà és hipotecar no solament a aquest govern que tenim en l'actualitat, sinó els futuribles.
+
+Se diu que és un informe pioner i que de fet és pel que s'ha votat per tres síndics. Però, clar, podria ser votable si no anara encaminat a un univers paral·lel, que és el que nosaltres denunciem. I tracta d'un univers paral·lel per dues raons fonamentals.
+
+Nosaltres vam discrepar. -no crec que faltàrem al respecte del síndic- però vam discrepar sobre la seva manca d'ambició, la de la sindicatura, a l'hora de maximitzar la fiscalització i, per tant, donar-li major transparència a la gestió administrativa i econòmica del govern valencià. I vam discrepar perquè fins i tot la funció per llei d'aquesta sindicatura li atorga mecanismes suficients per a, des d'una manera objectiva, poder, poder, ampliar la iniciativa que tenen per a fiscalitzar la gestió del govern.
+
+Però és que també podem dir que camina en un univers paral·lel perquè tampoc la sindicatura -i per tant, no cal mitificar-la-, tampoc la sindicatura, i això ho sap el Partit Popular, no té accés a tota la documentació, no té accés a tots els contractes, no té accés a tota la informació sobre les contractacions, sobre la gestió administrativa i econòmica del Consell.
+
+I, per tant, i per tant, nosaltres creguem que no solament per la poca ambició -perquè aquest informe hauria d'haver sigut l'informe Gürtel i no ho ha sigut, i això per la manca d'ambició de la sindicatura-, i també perquè la mateixa sindicatura no té accés cent per cent a la informació, doncs camina este informe per un univers paral·lel.
+
+Se diu que nosaltres no vam respectar en aquell moment al síndic, que no respectem la sindicatura, però jo entenc que quan la màxima institució del País Valencià, com és el senyor Camps, el president de govern, com a càrrec públic, dóna lloc que se l'impute en un cas de corrupció, és ell el que posa el llistó del respecte cap a les institucions democràtiques del País Valencià. És ell el que comença faltant al respecte a les institucions democràtiques del País Valencià, perquè ell és el que ha de posar el llistó del respecte.
+
+I, per tant, nosaltres entenem que és el Partit Popular el que hauria de començar a respectar.
+
+Gürtel existeix, i vostés no poden negar-ho, és una evidencia. I és una evidència que caminaren al jutjat els membres del govern o els representants del Partit Popular. És una evidència les declaracions del senyor Cotino dient que «el Bigotes es un delincuente y un caradura. » Això és una evidència, i ho féu. És un evidència que vostés han sacrificat el seu secretari general, el tresorer a nivell nacional. Tot això és una evidència. I això quan passa? Passa en un moment determinat, durant un determinat temps.
+
+I l'informe ha de reflectir totes estes qüestions. Per què? Perquè són incògnites de la ciutadania, són preocupacions, són qüestions que llasten la qualitat democràtica de les institucions valencians.
+
+I nosaltres, quan vostés diuen: «I li exigixen, no independència. ». Doncs, no és això el que li estem exigint, la no independència a la sindicatura. El que li exigim és que responga, responga a les inquietuds i a les preocupacions i a les incògnites de la gent, perquè esta institució, per damunt de tot, deuria vetlar perquè la transparència fóra visible i palpable per tots els ciutadans valencians. I Gürtel és una preocupació dels ciutadans, i l'informe hauria de parlar de Gürtel per a donar resposta als ciutadans. Ni per als senyors del Partit Popular, ni del Partit Socialista ni de Compromís.
+
+No se va deixar clar en les compareixences algunes de les qüestions que a nosaltres ens vam preocupar. Per exemple, quan el lletrat Robert Cortell, va manifestar que existeixen ambigüitats quant a la concessió de subvencions públiques, i particularment en la il·legalitat que s'incorre en les subvenciones dels contractes de patrocinis. Açò foren manifestacions d'un lletrat en cap de la Sindicatura de Comptes.
+
+Per tant, també hi han declaracions, no en l'informe políticament correcte d'univers paral·lel sinó a nivell públic, sobre preocupants gestions del Partit Popular.
+
+Tampoc se va aclarir, per exemple, per què determinades fundacions realitzen activitats llunyanes a l'activitat que justifica la seva existència o els forats milionaris que generen. Tampoc en això l'informe aprofundix. Sí que deixa clar, dintre del políticament correcte, la incapacitat de gestionar una maquinària que vostés han inventat, el Partit Popular, quant a les fundacions i les empreses públiques.
+
+No va saber respondre el senyor síndic per què aquest informe no responia les incògnites no solament de l'oposició sinó de la ciutadania. No va saber respondre a açò, però va respondre una cosa que nosaltres volem almenys posar en evidència i que jo crec que deuria causar-los, a vostés, preocupació. El síndic sí que va «reconéixer» explícitament que si ell estiguera en el nostre posicionament, estaria denunciant el mateix, que fins i tot en el seu propi informe, i això ho poden llegir vostés en el diari de sessió de la comissió, ell estaria dient el mateix, ell estaria preguntant-se el mateix, ell estaria dient per què estan eixe irregularitats, estaria denunciant el mateix que nosaltres, però com que el seu posicionament és encotillat, no ho pot fer i, per tant, no sé qui li va faltar al respecte a este home, quan este home ho va dir claríssimament davant de tots, que en el nostre lloc estaria dient exactament el mateix que nosaltres.
+
+Esta afirmació els deuria preocupar, perquè, ell, que coneix el procediment pel qual s'ha fet aquest informe políticament correcte, que ha de defensar ell des d'una postura encotillada, des de la llibertat de l'oposició estaria denunciant les mateixes qüestions. , les mateixes qüestions i, per tant, jo crec que és de reflexionar.
+
+Vostés no responen a les, per exemple, afirmacions que se fan sobre els principis d'eficiència, eficàcia i economia, dels quals es deixa clar com no se pot en cap moment donar resposta a si se complixen d'acord amb les lleis. Tampoc contesten sobre per què les contractacions s'han multiplicat. , les contractacions menors s'han multiplicat durant estos anys i que són justament les que l'informe no arreplega. Nosaltres creguem que l'informe que deuria donar resposta a totes estes qüestions de gestió administrativa i econòmica, però, sobretot, a les qüestions que se plantegen a nivell civil, a nivell de societat, tenen d'estar en este informe, i, per tant, és pel que creguem que aquesta institució deuria almenys donar-li una capacitat màxima a una labor de la sindicatura, que en la seva. , fins i tot en els seus objectius de creació, ja diu que pot actuar.
+
+La senyora presidenta:
+
+La senyora Mollà Herrera:
+
+. amb esta llibertat. Deixem d'encotillar, com ho estem fent.
+
+(La senyora presidenta desconnecta el micròfon de la diputada)
+
+La senyora presidenta:
+
+Proposició no de llei, de tramitació especial d'urgència, sobre la problemàtica de l'aigua a Espanya i a la Comunitat Valenciana, presentada pel Grup Parlamentari Popular (Re número 51. 039, BOC número 209)
+
+La senyora presidenta:
+
+El senyor Clemente Olivert:
+
+Pero al suprimir esta obra fundamental, no solamente se suprimió el trasvase del Ebro, se suprimió la solidaridad, la solidaridad hídrica que se había establecido entre todas las comunidades autónomas. En aquel momento, los socialistas de Castilla-La Mancha la apoyaron; en este momento están a punto de dinamitar esa solidaridad al querer eliminar el trasvase Tajo-Segura. Por eso, desde el Grupo Parlamentario Popular les pedimos responsabilidad, responsabilidad al emitir su voto.
+
+Pedimos agua porque es una necesidad expresada por los regantes, pedimos, señorías, como ya les he dicho, que voten a favor de este acuerdo de la junta directiva de regantes. Queda muy bien el, de vez en cuando, y sobre todo recientemente, ir y hacerse una foto con los regantes prometiendo que se va a defender el Tajo-Segura, pero yo creo que las necesidades de nuestros regantes y las necesidades de nuestros agricultores no se alimentan de fotos, lo que necesitan es agua, ¡agua! , y, desde luego, ustedes saben, señorías, que nuestra comunidad ha hecho los deberes, ha hecho los deberes, porque la Comunidad Valenciana, en el uso del agua, está realizando un uso sostenible y responsable, es la primera comunidad en reutilización de aguas, es un ejemplo de tiempo inmemorial de administración y utilización eficaz del agua, se han realizado obras de riego localizado, de optimización de recursos y innumerables balsas de acumulación. Hace quince años existían solo 50. 000 hectáreas, el 13% de nuestra superficie se podía regar de forma de riego localizado. En este momento, 250. 000 hectáreas, señorías, prácticamente el 70% de nuestra superficie.
+
+Señorías, como les decía antes, solamente pedimos absoluta igualdad para todas las comunidades, solamente pedimos respeto constitucional e igualdad para todos los españoles. Lo pedimos en algo tan básico y tan importante como el agua.
+
+(Aplaudiments)
+
+Yo, señorías, les recuerdo que, recientemente, el gobierno de Zapatero tuvo la ocurrencia de aprobar trasvases a cuatro municipios catalanes fuera del área de influencia del Ebro a través del canal Segarra-Garrigues. También el canal Xerta-Sénia se corta a doscientos metros de la provincia de Castellón, y recordarán, señorías, cuando en el año 2008 estuvieron a punto de aprobar, o, de hecho, aprobaron, lo que pasa es que no fue necesario realizarlo, un trasvase de Ebro a Barcelona.
+
+Señorías, les digo, solamente pedimos lo mismo que otras comunidades autónomas, y lo pedimos no solamente para la Comunidad Valenciana, lo pedimos también para Murcia y para Almería, solamente estamos reclamando 350 hectómetros cúbicos, 350 hectómetros cúbicos de los 12. 000 hectómetros cúbicos que el Ebro tira al mar.
+
+Desde el Grupo Parlamentario Popular, insisto, vamos a defender siempre una política nacional de agua. Y así lo hacemos en la proposición que les hemos presentado. Apostamos, evidentemente, por el mantenimiento de los caudales que se vienen utilizando en el río Júcar, así como el trasvase Júcar-Turia-Sagunt. También por la defensa de los usuarios del Segura, los usuarios, por supuesto, de la Vega Baja del Segura y de la zona meridional de Alicante. Apostamos, evidentemente, como ya les he dicho, por retomar el trasvase del Ebro. Y, al mismo tiempo, hemos presentado una enmienda para que sustituya el punto quinto de nuestra proposición no de ley, donde dice: «Las Cortes acuerdan respaldar la política hídrica del Consell basada en los principios de solidaridad, eficacia y responsabilidad e instan al Consell a continuar realizando los esfuerzos necesarios para impedir que se establezca reserva hídrica alguna que no esté contemplada o legitimada en un plan hidrológico nacional. »
+
+(Aplaudiments)
+
+El senyor president:
+
+El senyor Morera Català:
+
+Moltes gràcies, senyora presidenta.
+
+Benvinguts els representants de les comunitats de regants. Jo crec que vostés hui volen solucions, que se'ls informe del que passa en la realitat hídrica, i volen eixir amb una idea clara del que passa i quines solucions com a diputats de les Corts Valencianes es poden donar.
+
+Al meu poble, jo sóc d'Oliva, però estic casat amb una dona de Biar, dien que el més pecador sempre volia dur l'
+
+, l'
+
+de la processó. I jo, ja trobava a faltar que el Partit Popular no ens portara novament una nova iniciativa sobre matèria hídrica, perquè ja trobem a faltar eixa utilització partidista de l'aigua com un element d'explotació electoral.
+
+Ara, ha passat una cosa molt nova respecte al que ens van portar ja fa dos mesos. I és que hui, hui, al Congrés dels Diputats, a Madrid, se va a decidir l'estatut de Castella-la Manxa; i allà, en l'estatut, el PP i el PSOE van pactar la caducitat del transvasament Tajo-Segura. En el text figura que va a desaparéixer el transvasament Tajo-Segura. Ho va fer el Partit Popular de Castella-la Manxa, la senyora Cospedal, que mana molt -només cal vore els bancs de la bancada popular on se seu el senyor Ricardo Costa-, i el Partit Socialista que governa a Castella-la Manxa.
+
+I la pregunta és: per què hem d'assumir que desaparega el transvasament Tajo-Segura? Per què? Els ho diré molt clar: per la demagògia del govern valencià en matèria hídrica, per no defendre bé els interessos del poble valencià. I el que ens hauria de preocupar és que alguns estan més interessats a traure vots, a manipular, que a resoldre els problemes hídrics, els problemes d'aigua, que tenim al conjunt de les nostres comarques.
+
+I jo, ja els dic, des del Grup Compromís volem solucions en matèria hídrica i estem disposats a arribar a una transaccional amb vostés, perquè vostés ens han presentat una proposta per a no arribar a cap tipus d'acord. Hui se decidirà al Congrés dels Diputats a Madrid, esta vesprada, si l'estatut de Castella-la Manxa contempla una reserva hídrica en el seu preàmbul. I el senyor Cotino ha dit que sí, que «el preámbulo no pasa nada». Ho ha dit públicament. I ens va preocupar. Tant ens va preocupar que li ho preguntàrem al nostre president. Perquè sap el que passarà? Saben vostés el que pot passar si se contempla eixa reserva hídrica en el
+
+? Que quan una autoritat nacional en matèria d'aigua haja de decidir les necessitats de cada comunitat autònoma: senyors de Castella-la Manxa, jo vull 4. 000 hectòmetres cúbics. I això es pot fer? Sí. I saben vostés per què es pot fer? Per culpa d'aquells que van aprovar l'Estatut d'autonomia valencià.
+
+Eixe Estatut d'autonomia té molts errors. És un estatut que no aprofita quasi per a res. És un estatut que va obrir la caixa de Pandora, perquè en l'article 17 de l'estatut parla del «derecho inalienable del pueblo valenciano a tener el agua». I què va passar? Doncs, que els aragonesos el van recórrer. I en estos moments, el Tribunal Constitucional va a dir: «sí, poden fer vostés una reserva». I l'estatut de Aragó té una reserva hídrica. Saben de quant? De 6. 200 hectòmetres cúbics, per a regar tots els Monegros, no aigua per als agricultors. Volen aigua per a la construcció urbanística i el desenvolupament desordenat a la nostra terra. L'estatut d'Aragó, pactat pel PP i pel PSOE, té una reserva hídrica, una reserva hídrica per a regar tots els Monegros. Per cert, en el
+
+de Los Monegros, que vostés estan d'acord. Un altre desficaci urbanístic al territori espanyol. I això pot passar esta vesprada.
+
+Per tant, jo el que els propose és que diguem hui ací, per unanimitat, que manifestem la preocupació de les Corts Valencianes respecte del que pot passar hui a Madrid. És una oferta que el Grup Compromís fa. I jo el que crec és que Les Corts -i ho ha dit el ponent del Grup Parlamentari Popular, el senyor Antonio Clemente, ho ha dit: «L'aigua ha de ser per a unir les comunitats autònomes, ha de servir para
+
+. », per tot el que ha dit. I té raó! Aleshores, per què no ens posem d'acord en un acord estratègic valencià en matèria hídrica? Per què? Si ho podem fer ara! Ara, podem afirmar un acord en un punt, i és manifestar la nostra preocupació pel que pot passar hui a Madrid. En eixe punt. I comencem a encetar un procés diferent del que ha suposat el procés a què ens ha dut el govern valencià.
+
+Miren vostés si la cosa està tan malament, que l'engany que ha suposat la gestió en matèria hídrica per part del govern valencià, en estos moments està recorregut fins pels usuaris de la Ribera del Xúquer, que s'han sentit enganyats pel govern valencià, no pel govern valencià, pel pacte de la conca del Xúquer entre el senyor Zaplana -per cert, el vaig vore al senyor Zaplana en la Santa Faz, no vaig vore al president Camps- i el senyor Bono, a l'actual president del Congreso de los Diputados i l'aleshores president de Castella-la Manxa. Un engany per als agricultors i per als interessos estratègics del poble valencià, perquè es van assignar uns cabals que no tenia el riu per al reg dels latifundistes, capitalistes de la Manxa oriental. I eixa és la trista història de la gestió de l'aigua.
+
+Aleshores, què volem? Manipulació en matèria d'aigua per rèdits electorals, per partidisme, o volem posar solucions i encetar un nou procés en matèria de l'aigua perquè l'aigua no pot ser un element de manipulació massiva, un instrument de manipulació constant i sistemàtica en mans d'un govern irresponsable? Jo els faig eixa oferta, una oferta sensata. Ens jugarem molt si hui, Castella-la Manxa, en la comissió constitucional del Congreso de los Diputados a Madrid aprova, en el seu preàmbul, una reserva hídrica en eixe estatut. Això serà terrible per als nostres interessos. I si vostés volen l'acord, el que han de fer és encetar un nou procés, perquè el que està en estos moments és l'esmena, la transaccional que ha oferit el Grup Socialista de Castella-la Manxa, bé, del Congreso de los Diputados, que diu així -i la tinc ací, perquè és el que han oferit, i si el Partit Popular diu que sí. , malament: «Finalmente, recordando la prioridad de las cuencas cedentes. » Efectivament, senyories, com vam anar en pla prepotent i
+
+en l'article 17 de l'estatut, si mosatros som conca receptora? És que la vam pifiar, perquè a partir d'ahí ha vingut tot açò, a partir de l'article 17 de l'Estatut d'autonomia que vostés van pactar, el que mosatros, des del Bloc i des de Compromís diguérem que era un estatut de vergonya. I diu més: «Se estima necesaria la existencia de una reserva de agua que garantice el cumplimiento de estos objetivos ambientales y para atender las necesidades de Castilla-La Mancha de 4. 000 hectómetros cúbicos y la participación efectiva de la junta de comunidades en los órganos permanentes de gestión y control del trasvase Tajo-Segura mientras subsista. » Això ho han presentat els seus homòlegs al Congrés dels Diputats.
+
+Jo crec que els socialistes valencians hui haurien d'alçar la seua veu, com ha dit el senyor Alarte, el senyor Alarte ho ha dit: «Hui tenim l'ocasió de posar-nos d'acord sobre un punt que ens unisca com a poble valencià per a defensar els interessos estratègics del nostre poble. » Hui tenim l'ocasió. Ara, no emboliquem la cosa, no l'emboliquen, perquè vostés han fet una proposició no de llei per a no arribar a acords, per a embolicar més la troca. I això no pot ser, no pot ser. Els felicite perquè han esmenat la seua pròpia proposició no de llei, perquè em vaig estranyar en el punt cinqué quan diu: «Les Corts acorden abonar la política hídrica del Consell». Crec que
+
+són els camps. Però, bé, abonar la política hídrica, jo no ho entenia -he vist que ho ha rectificat-, però no ho claven tot en un mateix embolic.
+
+Comencem a fer les coses bé, comencem a posar els ciments del que hauria de ser una nova política hídrica, i jo, els he suggerit algunes propostes en eixe nou camí. Primer, una posició valenciana en matèria del que pot passar hui al Congrés dels Diputats; segon, consens; i, tercer, compliment de la llei, que és com a pilar fonamental en una nova política hídrica de tots, compartida, que hauria de ser la Directiva marc d'aigües, la directiva que és llei, l'informe Camps és una opinió molt interessant que se pot tindre en compte, però la llei, que és la Directiva marc d'aigües. Eixa és la meua proposta, la proposta del nostre grup, la proposta sensata que evitarà que continuem amb la debacle i amb la deriva que ens porten les seus gestions.
+
+Jo entenc que el govern valencià estiga alarmat. He vist reaccions molt alarmants, però si hui el Grup Popular no accepta la nostra posició i marquem una esmena transaccional perquè a Madrid que se sàpiga hui el que pensen les Corts valencianes, malament. Un govern dèbil que ha de rectificar per a defendre els interessos estratègics del nostre poble. Si vostés continuen amb el tema de sempre, malament.
+
+La senyora presidenta:
+
+El senyor Clemente Olivert:
+
+Usted dice que existe el peligro de que exista una reserva hídrica. Ese peligro, desde luego, no lo ha generado el Partido Popular. Recordará que en la ponencia que se reunió en el Congreso de los Diputados no fue el Partido Popular el que votó a favor de que existiera esa reserva hídrica. Allí hubo una negociación posiblemente entre el Partido Socialista de Castilla-La Mancha y una negociación entre el otro partido socialista, el partido socialista madre de todos los partidos socialistas, y les obligaron a llegar a este acuerdo.
+
+Hasta ahora, yo no le había oído pronunciarse sobre este tema. Tampoco le he oído pronunciarse sobre la alternativa que propugna el Partido Socialista de las desaladoras. Ustedes, que son supuestamente un partido ecologista, tampoco les he oído mencionar si están a favor de que el agua, como les decía antes, se mezcle con la salada y, luego, se desale, aunque eso nos genere problemas medioambientales, problemas energéticos, problemas de efecto salmuera. No le he oído nunca nada de críticas a las desaladoras, y ésa es la alternativa que defiende el Partido Socialista, aunque sea una alternativa fantasma, porque, como decía antes, de doce desaladoras, solamente han hecho una.
+
+(Aplaudiments)
+
+a senyora presidenta:
+
+El senyor Morera Català:
+
+Moltes gràcies, senyora presidenta.
+
+La postura del nostre grup parlamentari en matèria hídrica és molt clara: un gran acord valencià en matèria hídrica, començant des de hui, amb una esmena que podem pactar, per a dir al Congrés dels Diputats que no autoritzarem, que no tolerarem, que és negatiu per als nostres interessos i per al conjunt dels espanyols que hi haja una reserva hídrica en Castella-la Manxa. Vostés la van aprovar en Aragó, vostés la van aprovar en Aragó. Per tant, posem-nos d'acord en eixe punt i comencem a construir sobre la base dels consensos possibles.
+
+El nostre grup parlamentari el que vol és una nova política hídrica que deixe enrere la demagògia, la manipulació de qui siga, i que posem els fonaments per a construir un futur sostenible amb recursos, amb aigua per a tots.
+
+Jo estic a favor, i el nostre grup parlamentari ha estat a favor, per exemple, del transvasament Xúquer-Vinalopó -hem estat a favor- des de l'assut de la Marquesa. I lamentem que el Grup Popular i el Grup Socialista. , el Partit Socialista i el Partit Popular estiguen d'acord a transvasar aigua de boca. Això vulnera les disposicions de la Unió Europea.
+
+Creiem que l'aigua ha de ser per a recarregar els aqüífers i per als agricultors; no per a continuar amb un model econòmic i urbanístic que mos ha portat al desastre com a poble i com a societat. No podem consentir els usos que se li ha donat a l'aigua. Li ho diré més clar:
+
+. Perquè l'aigua és un recurs escàs que s'ha d'articular d'una forma correcta i positiva. Ens podem posar d'acord hui mateixa. Ens podem posar d'acord i començar a construir un altre camí positiu per a articular i defendre els nostres interessos. Ens podem posar d'acord tota la cambra, en la seua mà està.
+
+I jo li propose que el meu primer punt, que emmarca el que és una política hídrica, jo canviaria allò de la mala gestió del govern valencià, que nosaltres considerem que ha segut una gestió incorrecta; fins i tot ho estan diguent els usuaris de la Séquia Reial del Xúquer, -ací està l'escrit que ha presentat a la confederació- que es senten enganyats pel govern valencià, enganyats -ací està-. Però comencem a enviar un missatge a la comissió constitucional d'esta vesprada. Comencem a fer les coses bé. No fem la casa per la teulada.
+
+Nosaltres volem solucions en matèria hídrica. I podem fer de la Universitat d'Alacant el centre de referència internacional en matèria de gestió, reutilització, canalització de recursos hídrics. S'estan fent coses molt importants, en combinació amb els llauradors i els agricultors i els propietaris agrícoles. Podem fer moltes coses. Estem a favor de les dessaladores.
+
+Per desgràcia, malgrat que el govern central va dir que les dessaladores també serien per a reg, ¡ni una! , ni una fanecada o hectàrea s'ha regat amb aigua de dessaladores. Només cal anar a la memòria del mateix ministeri.
+
+Estem a favor que s'acabe la guerra de l'aigua, i estem a favor que se done seguretat als agricultors que van a poder tindre eixe recurs per sempre. Estem a favor del manteniment del transvasament ja existent Tajo-Segura. I per això ens preocupa que hui el PP i el PSOE, en la comissió constitucional, voten a favor d'una reserva hídrica en l'Estatut d'autonomia de Castella-la Manxa. ¡És que això pot passar! ¡És que ja ha passat en l'Estatut d'Aragó! , per culpa que no van fer bé les coses en l'Estatut d'autonomia valencià, i vam obrir l'estampida a les altres comunitats autònomes, perquè vam anar de superbs.
+
+Comencem a fer bé les coses, senyor Clemente. Eixa és l'oferta que li faig. I comencem a llançar un missatge perquè esta vesprada -hui- la pretensió del Grup Socialista de Castella-la Manxa, o de la comissió constitucional de Castella-la Manxa, que vol que s'aprove una reserva hídrica, malgrat els esforços que han fet els socialistes valencians, que han fet esforços, però sembla que insuficients, malgrat això, pugam hui fer arribar a les Corts espanyoles, que les Corts Valencianes, unànimement, s'han pronunciat perquè encetem una nova dinàmica en matèria hídrica i que no acceptem -considerem negatiu- que se puga aprovar eixa reserva hídrica hui. Comencem a fer les coses ben fetes, amb trellat, amb rigor, com fan els llauradors. Eixa és la nostra proposta.
+
+I si vol que li explique més de la nostra proposta, ací té el que diguem hui sobre això. És que eixa és la novetat actual respecte a allò que tantes vegades hem aprovat ja en estes Corts. Una nova proposició del Partit Popular en matèria hídrica no aporta res a la solució del problema, no aporta res. Una posició d'unanimitat per part de tota la cambra en estos moments, amb l'espasa de Damocles que tenim per a esta vesprada.
+
+a senyora presidenta:
+
+El senyor Morera Català:
+
+. seria molt útil per a defendre els interessos del poble valencià. Eixa és la política que des de Compromís estem defensant.
+
+a senyora presidenta:
+
+El senyor Clemente Olivert:
+
+(aplaudiments)
+
+(Aplaudiments)
+
+La senyora presidenta:
+
+Senyor Torró.
+
+El senyor Torró Gil:
+
+Senyora presidenta.
+
+Bé, ací tenim una altra proposició no de llei sobre qüestions d'aigua i ja en van, bé, no sé quantes en van perquè crec que ja hem perdut el compte ací de quantes voltes hem parlat d'açò ací.
+
+Si usaren una petita fracció, una petita fracció de l'energia que malbaraten planyent-se permanentment davant del govern de Madrid d'estes coses, en resoldre els problemes de l'aigua, probablement estaríem parlant d'altres coses ací.
+
+Perquè jo em pregunte, què és el que han fet les institucions valencianes per resoldre el problema de l'aigua? Res. Parlen, vostés, se'ls ompli la boca parlant d'eficiència, de reutilització. Però miren, d'eficiència no podem parlar perquè si alguna cosa s'ha fet en termes d'eficiència ho han fet les administracions locals, i de reutilització encara menys perquè jo els diria allò que diuen en castellà de
+
+, perquè no han fet pràcticament res, i les poques coses que han fet no han fet reutilització per a substituir demandes, sinó que han fet reutilització per a ampliar l'oferta, val? I això, ací mateixa, ho acaba de dir el representant del Partit Popular, en unes xifres, a més, que -eixa és l'altra-, que quan vostés ací diuen xifres, si la gestió que fan es basa en les xifres que donen ací, només els puc dir una cosa: mare, tape'm; mare, tape'm
+
+A la declaració institucional que vostés volen que ací ens adherim, perquè això és l'essència del que vostés proposen que, per cert, ja m'explicaran per què han tardat tres mesos i mig en parlar d'això ací, tres mesos i mig.
+
+Tenen la barra d'afirmar que el model social, econòmic i ambiental necessita aportacions externes d'aigua per a garantir la seua sostenibilitat. Miren, barregen el que els ve de gust sense tindre un mínim criteri de racionalitat.
+
+és un terme molt maltractat per vostés, molt maltractat i és molt maltractat en general, però vostés s'emporten la grossa en això.
+
+Precisament el model social, econòmic i ambiental és insostenible, el d'ací, per altres coses, perquè depén d'aportacions externes d'aigua. Per això és insostenible. Unes aportacions que, a més, vostés, sembla que consideren que poden ser il·limitades -eixa és l'altra, no?
+
+Estem d'acord en una cosa, ens oposem, nosaltres, ens oposem que l'estatut de Castella-la Manxa establisca reserves hídriques, no tenen dret a fer-ho. I no és una qüestió de sobirania o de domini sobre un recurs, ni tampoc el fet que castellans i valencians compartim el mateix estat, perquè si es tractara d'estats absolutament independents també ens trobaríem en el mateix cas. L'aigua no té ni amo ni senyor -bé, almenys no ho deuria tindre, que a voltes això també és pot dubtar-. És un recurs natural, i aquest principi, el de recurs natural, s'hauria de situar per damunt de qualsevol altra consideració. Si volem disposar d'ell, l'hem de preservar i, per això, hem de comprendre i respectar el seu cicle i ens hem d'adaptar a la seua disponibilitat. Per això creiem que en el cas de les conques intercomunitàries l'establiment de regles d'ús i gestió haurien de fer-se a través de l'acord entre les diferents parts, tutelats si es vol pels poders de l'estat central que és qui té les competències. I estem d'acord en crear fòrum per dissenyar línies de forma consensuada.
+
+Ara bé, quin és el principal problema? El principal problema són els criteris. Quins criteris? Cal adaptar la Directiva marc de l'aigua, i en això estem massa endarrerits, no podem parlar de reserves estratègiques, ni molt menys encara quantificar com han de ser, sense redactar, debatre i aprovar prèviament els plans de conca que han d'adaptar la directiva marc de l'aigua. Una directiva que té força legal i que és un despropòsit tractar -com volen fer vostés en esta proposició no de llei- de modificar-la sobre la base al dictamen del Comité de les Regions, perquè l'únic que pretenen amb això és clavar-li per la porta de darrere el tema dels transvasaments com una solució, pretesa solució, als problemes de l'aigua.
+
+La Directiva marc de l'aigua -i ho he dit ací en alguna ocasió- introduïx dos elements fonamentals: el respecte pel cicle hídric i les funcions ecològiques de l'aigua i, d'altra banda, la conciliació de la qualitat de l'aigua. Vostés ací parlen de la transparència i fan una comparació amb l'aigua. Tant de bo fóra tota l'aigua transparent, però no ho és. Vosatros, en ningun moment, des d'ací, el Partit Popular els he sentit parlar del recurs que és un dels elements fonamentals d'això, perquè es basen en una política de transvasaments com única qüestió.
+
+Bé, afirmen que cal defensar el Pla hidrològic nacional de 2001 per evitar tensions territorials i l'han presentat com un acord entre no sé qui, val! Això és un oxímoron, això és una contradicció en els seus termes. Són els transvasaments i és eixe pla hidrològic que contemplava els transvasaments com única solució, precisament, el que provoca els conflictes interterritorials de l'aigua, sinó, de què vénen els conflictes? Expliquen això. Són eixos els problemes? Estan defensant el regadiu del Xúquer, que està patint un espoli consentit per vostés, pel pacte Zaplana-Bono, perquè el que volien era justificar amb això el transvasament de l'Ebre i canviar l'aigua bona del Xúquer per l'aigua en mal estat de l'Ebre, això és el que volien fer vostés. I això és el que haurien de dir ací i explicar.
+
+La senyora presidenta:
+
+El senyor Sanmartín Besalduch:
+
+Gràcies, presidenta.
+
+Em permetrà dir-li que l'escrit que vostés han presentat, més que una proposició no de llei -li ho dic sincerament-, és un pamflet, un pamflet que mescla tota una sèrie de qüestions de forma premeditada. Un tótum revolútum on es parla del Xúquer-Vinalopó, del Tajo-Segura, del transvasament de l'Ebre, d'una autoritat nacional de l'aigua, d'una directiva marc de l'aigua però, clar, me preocupa, me preocupa de forma significativa que ho hagen fet de forma premeditada i de forma deliberada perquè vostés mesclen tots aquests temes perquè en esta cambra no pugam arribar a un acord en el tema de l'aigua.
+
+Jo li ho dic sincerament, si vostés trauen el Tajo-Segura d'aquí jo no tinc cap problema, el meu grup parlamentari no té cap problema d'aprovar el mateix que vostés estan dient en aquesta proposició no de llei.
+
+El problema és que vostés únicament utilitzen l'aigua com excusa, com arma electoral, per a traure rendiments polítics.
+
+(Aplaudiments)
+
+Ho dic sincerament. Vostés -que ho sàpiguen els regants que hi han aquí, avui, en aquesta cambra- solament busquen la confrontació, la confrontació per a traure rendiment electoral, la confrontació per a enfrontar uns territoris de l'estat espanyol amb uns altres i, sobretot, la confrontació per a enfrontar els mateixos valencians.
+
+Els espere i, de veres, desitge que mai no tinguen de penedir-se d'aquesta política tan sectària i partidista. Però bé, si vol que parlem del Tajo-Segura, mire, jo ja no sé què més podem dir els socialistes valencians al respecte, li asseguro, i parlo en nom del Grup Parlamentari i del Partit Socialista d'aquesta Comunitat Valenciana, li asseguro tres coses: en primer lloc, que si alguna cosa tenim clar els socialistes, independentment del que puga pensar altra comunitat autònoma, és que l'aigua és patrimoni de tots i, en conseqüència, els socialistes valencians
+
+(aplaudiments)
+
+no anem a acceptar mai, mai, ni cap regulació, absolutament, cap reserva de cabal, ni molt menys cap data de caducitat que, alerta! , alerta! , vaja en contra dels interessos dels valencians, ni estiga al preàmbul, ni estiga a l'articulat.
+
+En segon lloc, que quede rotundament clar que l'article 149. 1 de la Constitució espanyola diu de forma molt rotunda que la concessió, l'ordenació i l'aprofitament dels recursos hídrics que vagen d'una conca a l'altra o, d'una comunitat a l'altra, és competència exclusiva de l'estat i mai de les comunitats autònomes. Per tant, qui vullga utilitzar les reserves de cabal que vaja als plans hidrològics de conca, que vaja als plans hidrològics nacionals però mai als estatuts d'autonomia.
+
+En conseqüència, que quede rotundament clar, els socialistes de la Comunitat Valenciana tenim rotundament claríssim que mai anem a acceptar ni cap reserva de cabal, ni cap data de caducitat. Encara més, encara més, utilitzarem com socialistes valencians, tots els mitjans orgànics i institucionals perquè no prospere una iniciativa com la que pretén la veïna comunitat de Castella-la Manxa.
+
+Ara bé, mentrestant, jo li faig una pregunta, què ha fet el senyor Camps en defensa dels interessos generals de la Comunitat Valenciana?
+
+(Aplaudiments)
+
+Per què ha tardat tant, per què ha tardat tant en trencar el seu silenci? Per què ha tardat tant? Mire, en lloc de reunir-se tantes vegades el senyor Camps en el president de la regió de Múrcia, el que ha de fer és parlar directament amb la senyora De Cospedal, però no per res sinó perquè és secretària general del Partit Popular a nivell nacional -la segona autoritat- però també perquè és presidenta del PP en la seua comunitat autònoma Castella-la Manxa. Com és possible que vostés no trenquen la disciplina orgànica? Com és possible que vostés recolzen una secretària nacional del Partit Popular que a penes fa uns mesos, en la reforma de l'estatut de Castella-la Manxa no solament es va posicionar a favor sinó que va votar a favor -alerta!
+
+de l'any 2015 com a data de caducitat per al transvasament Tajo-Segura? Com és possible que vostés això no s'hagen posicionat en contra? Com és possible que no es posicionen en contra d'una secretària general del Partit Popular nacional que a penes fa uns mesos assenyalava respecte a l'estatut d'Aragó que li pareixia correctíssim i tremendament constitucional que els aragonesos establiren una reserva de cabal estratègica de 6. 000 hectòmetres cúbics? Com és possible que vostés recolzen això? El que hagueren tingut de fer, si realment recolzen els interessos de tots els valencians, és presentar un recurs al Tribunal Constitucional, cosa que vostés no han fet.
+
+La pregunta que se'ns queda és, a quin pacte ha pogut arribar el president de la Generalitat valenciana, el PP de la comunitat autònoma de València, amb la senyora De Cospedal perquè incórrega en un deixament de funcions tan greu com el que ha fet el president de la Comunitat Valenciana al respecte? Li ho dic sincerament: si el preu que tenim de pagar els valencians pel cas Gürtel ha de ser aquest, a mosatros no mos trobaran al seu costat.
+
+(Aplaudiments)
+
+Parlen de crear una autoritat nacional de l'aigua. Com és possible que vostés introduïsquen una PNL, la creació d'una autoritat nacional de l'aigua, quan són vostés mateixos els que han renunciat, han claudicat, a assumir les competències hídriques de les conques internes de la Comunitat Valenciana a través d'una agencia valenciana de l'aigua tal com reflectix la reforma del nostre Estatut d'autonomia? Com és possible que entren en estes condicions? Clar, el que no val és jugar amb dos baralles a la vegada. Per una banda diuen «no podem aprovar això», «no podem aprovar una agencia valenciana de l'aigua perquè encara no ha sortit el decret ministerial de la delimitació de conques», però el que no diuen és que el secretari d'estat de l'Aigua els ha donat ja més de set esborranys d'este decret perquè puguen aprovar la delimitació de conques i, en definitiva, la competència en recursos hídrics en les conques internes.
+
+El problema és que vostés no volen assumir les competències, per què? Perquè el que estan dient de boqueta no serien capaços d'aplicar-ho a través de les competències estrictament valencianes.
+
+Per últim, com vosté m'està parlant del Xúquer-Vinalopó, aquí, quan a penes fa cinc mesos ha aparegut una decisió judicial de l'Audiència Nacional en la qual els desautoritza a vostés per partida doble, els desautoritza en el sentit que dóna la raó al govern central respecte a la modificació del traçat Xúquer-Vinalopó, de l'assut de la Marquesa enfront de Cortes de Pallàs, però és que també els desautoritza quan confirma la inviabilitat tècnica, ambiental i econòmica d'aquest transvasament.
+
+Per a parlar vostés del Xúquer-Vinalopó el que han de fer és complir els acords que firmen, perquè, mentre el govern central ha finalitzat les obres de transvasament, els 30 milions d'euros que ha de posar la Generalitat valenciana per a portar les aigües des de l'embassament de San Diego, a Villena, fins a les explotacions agràries, 30 milions d'euros, han fet molt poquet, mentre que el govern central ha finalitzat ja les conduccions principals. Sí, sí, senyor conseller, ho sap perfectament.
+
+Per últim -estos dos minuts-, introduir l'Ebre contínuament? Mire, jo els avanço una cosa: ressuscitar una política de transvasaments com la que pretenia, i pretén, el Partit Popular és impensable governe qui governe. Li ho dic sincerament, els socialistes van modificar, varen modificar, el Pla hidrològic nacional del 2001, per què? Perquè no era un pla hidrològic nacional, era un pla nacional de transvasaments que no ponderava opcions alternatives i, sobretot, amb unes solucions ambientals de difícil justificació legalista.
+
+Mire, si parlem pròpiament del transvasament, l'aigua que havia de vindre aquí, a la comunitat, els 315 hectòmetres cúbics a la conca del Xúquer o els 450 a la conca del Segura, vostés saben millor que jo que aquest projecte era inviable, des d'un punt de vista social, perquè no tenia el beneplàcit de la conca cedent; era inviable, des d'un punt de vista econòmic, perquè depenia del finançament zero per part de la Unió Europea, però sobretot era inviable, des d'un punt de vista mediambiental, perquè no tenia cap tipus d'autorització per part de la Unió Europea.
+
+I acabe, i acabe. Esperar, fer esperar, com vostés pretenien en el tema de l'Ebre, els valencians, fer esperar a l'any 2015 per a vore si sobrava aigua als aragonesos i portar-la aquí, li dic sincerament, comprendran vostés, que és una simple ocurrència, era un disbarat, sense ordre, planificació ni concert.
+
+Moltes gràcies.
+
+(Aplaudiments)
+
+La senyora presidenta:
+
+El senyor Clemente Olivert:
+
+La senyora presidenta:
+
+El senyor Clemente Olivert:
+
+Me llama la atención que, ustedes que son tan partidarios de la memoria histórica, mucho adelante, pero a ustedes les gusta eso, pero si nos remontáramos. , ya en la segunda república se hablaba de la necesidad de un trasvase del Ebro a la Comunidad Valenciana.
+
+(Aplaudiments)
+
+La senyora presidenta:
+
+El senyor Sanmartín Besalduch:
+
+Gràcies, presidenta.
+
+A vore, senyor Clemente, vosté no es dóna compte que una política de confrontació, que és el que vostés de forma reiterada i sistemàtica estan propiciant aquí, a la Comunitat Valenciana en el tema de l'aigua, no porta a cap lloc. ¿Quantes vegades hem d'aprovar més en estes Cors que els socialistes valencians anteposem els interessos comuns, els interessos dels valencians als interessos partidistes? Recorde que en l'últim debat de l'estat de la comunitat, setembre de 2009, se va aprovar una proposta de resolució presentada pel nostre grup perquè deixàrem el Tajo-Segura igual que està, és a dir, sense reserva estratègica de cabal, ni molt menys ni dates de caducitat. Quantes vegades ho hem d'aprovar més?
+
+Li recorde que fa quasi un any Compromís va presentar a la comissió pertinent una PNL al respecte, Tajo-Segura, i ho vam aprovar per unanimitat. El problema, insistisc, és que vostés utilitzen l'aigua com a excusa, com a excusa per a què? Per a enfrontar els valencians i per a enfrontar estos grups parlamentaris.
+
+Jo li he fet una proposta molt concreta. Conteste'm. Separem allò del Tajo-Segura i aquí arribem a un acord, igual que s'ha arribat, i seria la tercera vegada en aquestes Corts.
+
+No vaig a insistir-li. Quin és el plantejament, el posicionament d'este grup parlamentari, d'este partit polític, aquí, a la Comunitat Valenciana? Li torne a insistir, l'aigua no és patrimoni de ningú i, en conseqüència, els socialistes valencians, i entre ells, i el primer, i davant de tots el secretari general del Partit Socialista del País Valencià, té claríssim que mai anem a acceptar ni cap reserva estratègica de cabal, siguen 4. 000, 5. 000 o 6. 000 hectòmetres cúbics, els que siguen. I tampoc mai anem a acceptar cap data de caducitat per al transvasament Tajo-Segura. Com li ho he de dir d'una altra manera?
+
+El problema és que a vostés no els interessa que els regants, que avui estan aquí, en este hemicicle, s'enteren d'això, perquè desvirtuen de tal forma la realitat que intenten crear, intenten crear una realitat nova.
+
+Mire, si una cosa tenim clara al respecte, insistisc, per damunt dels interessos de qualsevol altra comunitat autònoma, cosa que vostés no és així, és que, com a socialistes, anem a posar tots els esforços possibles perquè ningú no puga violentar els interessos generals de la Comunitat Valenciana, cosa que vostés no han demostrat.
+
+Perquè, insistisc, inviten, inviten -jo aniré amb vostés, aniré amb vostés-, inviten la senyora De Cospedal, com a secretària general del PP nacional, tan nacionals que vostés són, inviten-la aquí, a la Comunitat Valenciana. A la primera de les paelles que fan jo els acompanyaré també. Però inviten la senyora De Cospedal. I que la senyora De Cospedal diga a tots els comensals dos cosetes molt simples, dos cosetes molt simples. Primera: que va a recolzar en l'estatut de Castella-la Manxa, l'any 2015 per a donar caducitat al transvasament Tajo-Segura. Aixina és de simple. O no ho va dir? No solament ho va dir, és que ho va aprovar i ho va vendre. Que ho diga als comensals d'estes paelles que vostés fan.
+
+I que esta mateixa senyora De Cospedal que diga als mateixos comensals que a penes fa dos mesos va afirmar i es va ratificar dient que li pareix lògic, de sentit comú i a més plenament constitucional que en l'estatut d'Aragó s'establesca una reserva estratègica de cabal de 6. 000 hectòmetres cúbics. Com poden aguantar vostés a una secretària general del PP que vulnera de forma tan sistemàtica els interessos generals dels valencians?
+
+Clar! El problema que vostés tenen és que tenen un president de la Generalitat valenciana desaparegut, tenen un president de la Generalitat valenciana que encara no ha vullgut fixar postura, encara no ha vullgut posicionar-se, i per això no s'han d'ofendre quan jo els pregunte: a quin pacte secret han arribat amb la senyora De Cospedal?
+
+(Aplaudiments)
+
+Per a què? Per a sacrificar els interessos dels valencians al respecte? Són vostés.
+
+Per tant, que quede rotundament clar, no me vagen a mi amb històries, avui estan els regants, i els regants saben que tenen al Partit Socialista de la Comunitat Valenciana al seu costat perquè arribe més aigua, més barata i en millor temps; no de boqueta, de boqueta, com fan vostés.
+
+Gràcies.
+
+(Aplaudiments i remors)
+
+La senyora presidenta:
+
+(Aplaudiments)
+
+Proposició no de llei, de tramitació especial d'urgència, sobre la posició del Consell de La Generalitat respecte a l'arriba de l'AVE a la ciutat de València, presentada pel Grup Parlamentari Socialista (RE número 51. 405, BOC número 210)
+
+La senyora presidenta:
+
+El senyor Signes Núñez:
+
+Gràcies, senyora presidenta.
+
+Vull començar esta intervenció, a part de per a expressar la protesta del nostre grup per la seua inacció davant dels aplaudiments produïts en la trona d'invitats
+
+(aplaudiments)
+
+La senyora presidenta:
+
+(Aplaudiments)
+
+El senyor Signes Núñez:
+
+M'ha cridat a l'ordre.
+
+La senyora presidenta:
+
+El senyor Signes Nuñez:
+
+Expressar la meua satisfacció
+
+La senyora presidenta:
+
+El senyor Signes Núñez:
+
+. la del meu grup.
+
+La senyora presidenta:
+
+El senyor Signes Núñez:
+
+Gràcies, presidenta.
+
+La meua satisfacció personal, la del meu grup i supose que també la de tots els grups de la cambra pel pla de rodalies per a la Comunitat Valenciana 2010-2020 presentat ahir i que suposarà una inversió de quasi quatre mil milions d'euros per a potenciar el servei ferroviari de rodalia a la nostra comunitat: 3. 400 milions invertits pel Govern d'Espanya, pel Ministeri de Foment, i 555 per banda de La Generalitat. Un pla de rodalies, senyories, al nivell d'inversions del de Madrid o del de Catalunya.
+
+Senyories, esta proposició no de llei pretén que tots els grups parlamentaris instem el Consell a complir els compromisos econòmics adquirits per a l'arribada de l'AVE a València. Uns compromisos adquirits arran del conveni signat en abril de 2003 pel Ministeri de Foment, l'Ajuntament de València, Renfe i GIF, hui Renfe operadora, i ADIF, per a la remodelació de la xarxa arterial ferroviària de la ciutat de València, i pel qual es creà la Societat Valenciana Parc Central Alta Velocitat 2003.
+
+L'objectiu fonamental d'esta societat és gestionar l'obtenció dels recursos econòmics necessaris per a l'arribada, penetració i pas de l'AVE a València ciutat. Unes actuacions amb una inversió total prevista en obra ferroviària que ascendix a 804,5 milions, dels quals el Ministeri de Foment n'aporta 419, La Generalitat hauria d'aportar-ne 75 milions i uns altres 310,5 milions a càrrec de les plusvàlues urbanístiques dels sòls ferroviaris i d'altres aprofitaments urbanístics.
+
+Segons el pla d'etapes i balanç econòmic aprovat pel consell d'administració de la societat, els 75 milions que ha d'aportar La Generalitat a Parc Central han de destinar-se a sufragar les obres del canal d'accés. , dos actuacions: les obres del canal d'accés i l'obra de l'estació central. Una aportació que a proposta de la Conselleria d'Infraestructures i Transport, s'acordà fer en les següents anualitats: 100. 000 euros en 2009, 9 milions en 2010, 13,9 milions en 2011 i 13 milions en cadascun dels anys següents, fins l'any 2015.
+
+I quina és, senyories, la situació a dia de hui? A dia de hui, La Generalitat no ha fet efectiva l'aportació a la societat dels 100. 000 euros de l'any 2009. Encara no ha fet efectiva l'aportació. Dels 9 milions compromesos per als pressupostos de 2010, la Conselleria d'Infraestructures i Transport solament en va pressupostar 65. 000, que després d'una esmena transaccional, quedà en 300. 000 euros, és a dir, el 3,3% dels 9 milions compromesos per La Generalitat.
+
+Senyories, els suggerisc la reflexió sobre el valor que dóna el president Camps i el Consell als compromisos firmats per l'aleshores president de La Generalitat, senyor Olivas, i el ministre de Foment d'Aznar, senyor Cascos. Els ho suggerisc, sobretot, a la bancada de la dreta.
+
+És més, este incompliment està llançant un missatge molt, molt clar de la falta de prioritat que el Consell Camps dóna a l'arribada de l'alta velocitat a la Comunitat Valenciana, després d'anys i anys intentant colar un fals missatge d'agravi comparatiu del govern socialista d'Espanya, quan analitzant dades objectives, dades objectives, el govern d'Aznar deixà l'AVE Madrid-Comunitat Valenciana executat únicament i exclusivament en un 1,56%. I a més, i a més, ara La Generalitat no aporta allò al que es va comprometre.
+
+Este incompliment, senyories, de La Generalitat fa que el govern central estiga assumint el soterrament de les vies en solitari, i inclús estiga fent front a la totalitat del préstec sol·licitat per cobrir la part de les plusvàlues que encara no s'han materialitzat.
+
+Davant estos incompliments de Camps amb l'AVE, incompliments de Camps amb l'alta velocitat a la Comunitat Valenciana, que afecten negativament els interessos de la ciutat de València, l'alcaldessa, tan reivindicativa sempre amb el govern central, però tan submisa amb La Generalitat, no ha dit ni mu, ni mu. I no és que no haja exigit el compliment del compromís del Consell amb el cap i casal, no, sinó que inclús, com a diputada autonòmica, ha avalat amb el seu vot favorable als pressupostos de 2010 una consignació pressupostària que perjudica la ciutat que, com a alcaldessa, hauria de defensar i que no defensa.
+
+Hui, senyories, ni tan sols s'ha dignat a fer acte de presència en este hemicicle per a, amb el seu vot, avalar esta proposició no de llei que beneficia la seua ciutat, ni tan sols s'ha dignat. No ha vullgut retratar-se davant els veïns i veïnes de València ciutat, però, senyories, el retrat ja se l'ha fet l'alcaldessa de València amb la seua absència hui ací en el seu escó.
+
+Senyories, des que en 1999 el govern d'Aznar va encarregar al GIF, hui ADIF, l'execució de la línia Madrid-Comunitat Valenciana ja han passat deu anys, dels qual cinc corresponen a executius presidits per Aznar i altres cinc a governs presidits per Zapatero.
+
+I saben quina ha estat l'actuació de cada president per portar l'alta velocitat a la Comunitat Valenciana? Jo els ho diré. Quan en març de 2004, el PSOE accedí al Govern d'Espanya, el percentatge d'execució de l'AVE era d'un -repetisc- 1,56%, 376 milions d'euros era, en la data de març de 2004, el que s'havia gastat el govern d'Aznar. 376 milions, l'1,56% del projecte en cinc anys.
+
+Saben en cinc anys de govern socialista a Espanya quina ha estat l'actuació? 12. 365 milions. L'AVE Madrid-València estarà en funcionament abans d'acabar este any, com molt bé saben. El Madrid-Alacant està en marxa en el 98%, i només falta licitar una fase del nuc de l'Encina i la penetració a Alacant ciutat, on arribarà, com sabem molt bé també, en 2012. El Madrid-Castelló, el 97% en marxa, amb data compromesa de finalització en l'any 2014, com saben molt bé que anuncià el ministre de Foment fa pocs dies.
+
+Tot en marxa, excepte el túnel passant de València, que està inclòs en el pla de rodalies que s'aprovà ahir. La qual cosa, i açò és important, no impedirà que l'arribada de l'AVE a Castelló s'avance a 2010 gràcies a d'intercanviador d'ample de via a València, amb trens de rodament variable, que permetrà que els AVE de Madrid continuen fins a Castelló reduint el temps de viatge Madrid-Castelló en pocs mesos, abans de final d'any, de 4,40 hores a menys de tres hores.
+
+Per tot açò, senyories. No és tot. Hi han més coses. L'alta velocitat Alacant-València-Castelló es troba en marxa en un 93%. S'està actuant en el corredor mediterrani amb obres entre Vandellós i la línia d'alta velocitat Madrid-Barcelona, que beneficiarà el corredor mediterrani; s'estan redactant els estudis informatius del tram del corredor Castelló-Tarragona i s'estan redactant també els estudis informatius de l'AVE mediterrani i cantàbric, a la presentació del qual no es va dignar assistir el president Camps, i que permetrà transportar mercaderies connectant els ports de València, Sagunt i Castelló amb els de Pasajes i Santander. I que, a més, també, senyories, com saben molt bé, reduirà el temps de viatge entre València i Saragossa i València i Bilbao d'una forma substancial.
+
+No s'avergonyixen, senyors del Partit Popular, no s'avergonyixen que en cinc anys només licitaren l'alta velocitat valenciana per 376 milions, enfront dels prop de 15. 000 milions en els cinc anys de Zapatero? Pel que es veu, no s'avergonyixen d'aquella foto de Camps en les autonòmiques de 2003 davant d'un AVE Madrid-Sevilla, no s'avergonyixen? Ni s'avergonyixen que Aznar castigara la Comunitat Valenciana encarregant l'alta velocitat a Barcelona, Valladolid i Màlaga abans que a la nostra comunitat, no s'avergonyixen? Eixa era la prioritat que tenia el seu partit i eixa era la prioritat que tenia Aznar per la Comunitat Valenciana, Barcelona, Valladolid i Màlaga abans que Comunitat Valenciana?
+
+No s'avergonyixen de no haver aportat encara els 100. 000 euros de 2009 al nostre AVE? No s'avergonyixen, senyors del Partit Popular, d'incomplir els compromisos adquirits i firmats d'aportar els raquítics 9 milions en este any 2010, no s'avergonyixen?
+
+Miren, senyors del Partit Popular, no els demane que facen examen de consciència públic, no, ni que proclamen la contrició dels seus pecats, que en són molts, tampoc els ho demane, tampoc. Solament els demane que tinguen la dignitat i un poquet de vergonya d'aportar el que varen comprometre,encara que siga només per no sentir-se ruboritzats quan dins de pocs mesos pugnen, pugnen, el president Camps, l'alcaldessa i molts d'eixa bancada, pugnen per eixir en la foto de la inauguració d'un tren d'alta velocitat, del qual tan poc hauran fet ni des del govern central quan governava Aznar, ni des de La Generalitat amb cap dels presidents autonòmics del Partit Popular que ha tingut esta comunitat.
+
+Moltes gràcies.
+
+(Aplaudiments)
+
+(Ocupa la presidència el vicepresident primer, senyor Rafael Maluenda Verdú)
+
+El senyor vicepresident primer:
+
+Gràcies a vosté, senyor Signes.
+
+Per a fixar posició, per part de l'Agrupació de Diputats No Adscrits, la il·lustre senyora diputada Marina Albiol té la paraula.
+
+La senyora Albiol Guzmán:
+
+El Partit Popular i el Partit socialista vau decidir lligar el projecte del parc central i el projecte de l'AVE, però cal dir que la reivindicació del soterrament de les vies i fer una gran zona verda és una reivindicació veïnal des dels anys huitanta, quan encara això de l'alta velocitat no estava de moda, quan no sabíem ni el que era això de l'alta velocitat.
+
+Per tant, són dos projectes que en un principi podrien haver anat per separat, però que Partit Popular i Partit Socialista els van lligar.
+
+Esquerra Unida sempre ha sigut una gran defensora del parc central com a gran zona verda a la ciutat de València, perquè aquest és l'únic espai que permetria cobrir l'enorme dèficit de zones verdes que hi ha a aquesta ciutat.
+
+Ara bé, el projecte de parc central té cada dia menys zona verda, menys habitatges protegits, menys equipaments públics i més torres de vint-i-cinc pisos. L'excusa és que l'increment de l'edificabilitat generarà les plusvàlues necessàries per absorbir els costos de la zona verda, dels equipaments i del soterrament de les vies.
+
+Diuen que per a poder fer tot açò, han de fer estes torres, estes quatre torres de més de vint-i-cinc pisos. Des d'Esquerra Unida el que diem és que traguen els diners d'un altre lloc, que no es carreguen un projecte de tindre una gran zona verda a València i. Que si no tenen diners per a fer-ho, és perquè se'ls han gastat en altres coses absolutament innecessàries i absolutament supèrflues, tant l'ajuntament com La Generalitat. I podem parlar de Copa de l'
+
+, de fórmula 1. , però jo crec que ja ho sabem tots com s'han gastat els diners ací al País Valencià.
+
+Quant als habitatges de protecció oficial, no arriben ni tan sols al 10%.
+
+Per tant, Esquerra Unida ens hem oposat, amb els veïns i veïnes, a aquest projecte de parc central, que és una perversió de la idea original.
+
+Aquesta proposició no de llei del Grup Socialista no qüestiona tot açò en ningun moment, no qüestiona el model de parc central de Rita, del Partit Popular, que sembla que estan d'acord. El que sí que fa és demanar un increment de les aportacions de la Generalitat valenciana.
+
+Esperem nosaltres, des d'Esquerra Unida, que aquest compliment d'allò que ja està signat, es produïsca i que açò servisca, entre altres coses, per a no tindre de fer eixes quatre torres enormes que destruïxen la idea de parc central, ¿no?
+
+Quant a l'AVE, ja és més coneguda la nostra postura. Considerem que, a més del seu impacte, és negatiu en tant que s'ha menjat i es continua menjant els recursos que tindrien d'haver anat a millorar la xarxa de rodalies, de regionals i de mercaderies.
+
+El Partit Popular i el Partit Socialista no discrepen en absolut en la política d'Infraestructures. Almenys no discrepen en el fons, potser sí en la forma, potser en el temps, en els diners, en determinades coses, però no en el fons de la qüestió, i jo crec que una bona mostra és aquesta proposició no de llei que únicament el que sol·licita és el tema dels recursos econòmics, ¿no?
+
+Des d'Esquerra Unida volem denunciar també el malbaratament que suposa la construcció d'una estació provisional de l'AVE a la ciutat de València, per tal que els dos partits majoritaris se facen la foto abans de les properes eleccions, perquè estem parlant de fer dos voltes la mateixa infraestructura. És una bonica manera de tirar els diners, la veritat.
+
+Nosaltres, per tant, no podem recolzar aquesta proposició no de llei, però sí esperem que eixos diners, eixes aportacions de La Generalitat, es complisquen, sobretot tenint en compte que no tindrien per què estar lligats, ¿eh? , el tema de l'AVE i del parc central. Nosaltres el que volem és que siga un parc central de de veres, sense gratacels. A més, només fent aquesta zona verda aconseguiríem assolir les recomanacions de Nacions Unides d'arbres. , de la ràtio d'arbres per habitants, i, per tant, esperem que la zona verda continue endavant, independentment, com dic, del que és la nostra postura sobre l'AVE.
+
+Esperem que siga un projecte que compte amb l'acord i amb la participació de totes les associacions de veïns de València, principalment de les dels barris més pròxims. Per tant, la postura d'Esquerra Unida serà l'abstenció en aquesta proposició no de llei.
+
+Gràcies.
+
+El senyor vicepresident primer:
+
+Moltes gràcies, senyora Albiol.
+
+Per a fixar posició, en representació del Grup Parlamentari Esquerra Unida-Bloc-Verds-IR: Compromís, la il·lustre senyora diputada Mónica Oltra té la paraula.
+
+La senyora Oltra Jarque:
+
+Gràcies, senyor president.
+
+Senyories, és conegut el nostre posicionament crític enfront de l'AVE. En primer lloc, per suposar una despesa econòmica desproporcionada amb l'escàs benefici per a la majoria de ciutadans, que, la majoria de ciutadans, dic, obtindran un servei de transport que no utilitzaran, per ser massa car, a més del greu impacte ambiental que suposa. Tot açò en un context d'abandonament dels serveis de trens de rodalies. I açò ho dic malgrat que ahir se fera en un gran acte mediàtic una presentació d'un nou pla de rodalies per al nostre territori.
+
+Un pla que, en una altra ocasió, entrarem a analitzar amb més profunditat, perquè hui no és el tema, però que considerem insuficient, en qualsevol cas. Un pla de rodalies que arriba amb molts anys de retard i que, a més, se'ns refia per a 2015, ¿eh? , i, a més, que oblida parts del nostre territori, com pot ser la part nord i les comarques de Baix Maestrat, ¿no?
+
+Si ací s'escometeren les inversions en infraestructures d'una manera lògica, racional i en benefici de l'interés general, s'hauria realitzat este pla de rodalies molt abans que tots els plans de l'AVE. I és que després de tot el que s'ha parlat del tren Gandia-Dénia, de tantes promeses incomplides durant tants anys, ahir es fa una gran presentació, com dic, més encarada, jo crec, als mitjans de comunicació que a la realitat, en què el màxim que s'assegura és que per a 2015,
+
+començaran les obres d'esta infraestructura clau per a la vertebració del nostre país. No han segut capaços ni d'anunciar la data en què previsiblement podrà estar en funcionament.
+
+Però esta proposició no de llei que hui ens presenta el Grup Socialista parla. , en realitat no sé si parla de l'AVE per a denunciar els incompliments del Consell, o parla dels incompliments del Consell per a parlar, de pas, de l'AVE. I, a més, me té igual que siga d'una manera o altra, ¿no? , perquè, en el fons, el que hi subjau, i jo estic d'acord amb el que abans plantejava el diputat Sanmartín respecte que l'aigua és un element recorregut per a fer discurs per part del Partit Popular, però l'AVE també és un element recorregut, en este cas, per part del Grup Socialista, per a parlar del que li interessa parlar, i és de recordar-li a la gent, si no és que ja ho recorda, l'impacte que suposa el formigó que s'anuncia per les comarques de la Foia de Bunyol, com si la gent no sabera que l'AVE ja està aplegant. hem de recordar ací, en seu parlamentària, que l'AVE està aplegant gràcies al govern del senyor Rodríguez Zapatero.
+
+Com que jo no crec que Les Corts siguen un lloc per a fer açò, doncs, me permetran. , me permetran que, en tot cas, qüestione tots els debats que se fan de cara a la galeria i de cara a construir discurs, tant el de l'aigua com ara este de l'AVE, este discurs propaganda.
+
+En tot cas, se parla dels incompliments, efectivament, del Consell, sobre un conveni firmat amb el ministeri de foment, l'Ajuntament de València, Renfe i ADIF, com si açò no fóra també conegut. Vull dir, el Consell no paga, però no paga ni en el tema del parc central ni paga els proveïdors ¡ni paga a ningú! Vull dir, això és cosa coneguda, que el Consell no paga, i, en tot cas, jo crec que hauria segut molt més efectiu que, en tot cas, el govern central li faça un requeriment a La Generalitat perquè complixca els seus compromisos. Per a això se governa en altres llocs.
+
+En qualsevol cas, una infraestructura que consideren tan imprescindible i a la que no posen tots els diners que hi pertoca, i en este cas, evidentment, estem parlant del cinisme del Partit Popular. ¿Com s'explica açò? , ¿ha deixat el Partit Popular de creure en l'AVE? , almenys com a discurs, ¿considera com nosaltres que és massa car respecte dels profits socials que té? . Bé, jo no crec que siga això, ¿no? Seguim també, evidentment, fent discurs, però ara no toca, perquè ara qui governa al govern central no és el Partit Popular i, llavors, és incòmode parlar d'AVE.
+
+El que passa és que no tenen ni un cèntim, ¿eh? , i ho han malgastat en fastos improductius, abans la senyora Albiol ja parlava d'ells, i en repartir entre els amiguets de l'ànima, perquè després ells ajuden el seu partit a guanyar eleccions d'estes maneres tan irregulars que guanyen. I, clar, han decidit retallar d'ahí a on puguen, i si el govern socialista s'ha compromés a l'arribada de l'AVE a valència en el 2010, han pensat que, si el Consell no posa els diners a què s'ha compromés, serà Zapatero qui els pose. I, si no, ja s'encarregaran que els mitjans de comunicació que controlen carreguen al govern central la culpa de l'incompliment.
+
+En fi, una manera, si me permeten l'expressió, molt fastigosa de governar i, a més, de fer públic allò que creuen.
+
+Després se sumaran al govern central a la carrera publicitària,
+
+(ininte l·ligible)
+
+. d'ella, a vore, pugnaran per la foto, qui ix millor parat en la foto, per vore qui trau més rèdit partidista de l'arribada de l'AVE, una cursa per a enganyar la gent sobre els beneficis que suposadament ens portarà l'AVE. ¿A qui beneficiarà realment? Doncs, a una minoria, a la gent amb major poder adquisitiu o que els paguen el viatge l'empresa o l'administració. Evidentment, també a les grans empreses constructores que fan el traçat i les que fabriquen els trens. No beneficiarà la majoria dels ciutadans i ciutadanes, que mai no podran utilitzar estos trens, per ser molt cars, després d'haver patit els impactes de les obres i després d'haver rebutjat la possibilitat d'haver fet una gran velocitat espanyola amb tecnologia molt més barata, amb tecnologia de tren Talgo i per vies convencionals, evidentment, modernitzades i arreglades, que hagueren tret pràcticament la mateixa velocitat que l'AVE, a la que anirà l'AVE real, amb molta menys inversió, inversions que s'estan menjant, evidentment, altres inversions necessàries, com déiem, en rodalies o en tren que empra la gent diàriament.
+
+Si totes les promeses electorals de fer AVE s'acompliren, tindríem a Espanya més línies d'alta velocitat que cap altre país del món. És més, tindríem totes les línies de velocitat de la resta del món, si se compliren les promeses d'AVE que se fan, electorals. Açò és un despropòsit, senyories, ¿no? Però, en canvi, seguirem tenint una xarxa ferroviària impròpia d'un país avançat, sense manteniment adequat, sense posar al dia, i cada volta amb més línies tancades, perquè, com dic, la inversió de l'AVE s'ho menja tot.
+
+Els transports de viatgers i mercaderies col·lapsarà encara més les carreteres, amb gravíssims impactes mediambientals i gravíssimes conseqüències en les emissions de CO
+
+. El mapa d'alta velocitat que proposa el govern espanyol i al qual dóna suport el PP, unirà totes les capitals de província amb Madrid, això, sí, però serà complicat segurament anar de València a Saragossa, ni a Bilbao, ni a Sevilla, sense passar per Madrid. ¿Del corredor mediterrani? Doncs, això ho deixem per a un altre dia.
+
+Doncs, miren, a mi em sembla que no és rigorós, que s'ha de tindre vergonya, com deia el senyor Signes, efectivament, però la vergonya també està en no utilitzar el discurs partidista d'estes maneres.
+
+Ahir, el ministre José Blanco i el president Camps se feien publicitat i autobombo per unes millores en les rodalies, que ja vorem si en el 2015 comencen i que s'havien d'haver fet fa almenys vint anys, un pla al qual La Generalitat haurà d'aportar 555 milions d'euros. Imagine, senyor Signes, si no paguen els 9 milions que tenen de pagar enguany per a la infraestructura de què estem parlant hui, si van a posar els 555 milions d'euros.
+
+En fi, si ha passat com en este cas, doncs, segurament tindrem de refiar la infraestructura, però no al 2015 sinó potser algun mil·lenni més enllà. En tot cas, si hem de dependre del Consell, les infraestructures, anem apanyats, però nosaltres anem a abstindre en la seua proposició pels motius que hem dit, perquè pensem, a més, que tenien vostés altres mecanismes per a reivindicar el pagament a què s'han compromés i el compliment d'un acord del Consell, i, en tot cas, nosaltres mantenim la nostra postura crítica, lògicament, en este cas, ja que l'AVE ja està a les portes de València, i això és una evidència, però haguérem esperat que fóra d'una altra manera, i creiem encara que n'hi han més inversions a fer en infraestructures, però d'eixes que utilitza la gent i empra la gent diàriament, no d'eixes que se mengen quasi tot el pressupost i, al final beneficien uns pocs.
+
+Moltíssimes gràcies.
+
+(Ocupa la presidència la presidenta, senyora María Milagrosa Martínez Navarro)
+
+La senyora presidenta:
+
+Senyor Serra.
+
+El senyor Serra Cervera:
+
+Amb la vènia de la presidència, senyories, les protestes del Grup Parlamentari Socialista pels aplaudiments dels representants dels regants no demostren més que políticament a on està posicionat cada u i quina és la postura que tenen en un tema tan clau com l'auia.
+
+(Aplaudiments)
+
+Senyories, ha començat el senyor Signes, el portaveu del Grup Parlamentari Socialista parlant de les rodalies, de l'acord que ahir se presentà en el palau de La Generalitat, en la casa a on residix el govern valencià, a on parla d'un gran acord, un gran acord que ha impulsat el govern de la Generalitat valenciana, que ha concertat i que ha pogut tancar amb el govern de Madrid.
+
+Senyories, però, hui, la proposta que tenim ací és una proposta que és molt poc seriosa, molt poc rigorosa i que formulada com l'ha formulada, l'única cosa que està posant damunt de la taula. , quina és la voluntat política dels socialistes valencians. I vaig a llegir una frase clau d'ella. ¿Algú se pot creure que en una proposta de resolució, que en una PNL d'estes Corts, li demanem al Consell «afianzar con hechos su compromiso de no entorpecer la llegada del AVE a la ciudad de Valencia»? «Afianzar con hechos».
+
+Senyories, hui fa díhuit anys que se va inaugurar l'AVE Madrid-Sevilla i l'únic refermament que podem fer després de díhuit anys sense AVE és dir-li al govern socialista que pare ja de continuar castigant esta terra i la Comunitat Valenciana. ¡Eixa és la realitat, senyories!
+
+(Aplaudiments)
+
+Eixa és la realitat, eixe és el nostre compromís de demanar-li i reivindicar-li al govern socialista que complixca amb les seues obligacions, que complixca amb una cosa molt important com era l'AVE, que vostés, quan arribaren al Govern d'Espanya tenien projectat, tenien redactat i estava única i exclusivament per a licitar, i eixe AVE s'ha retardat tres anys, senyories, un AVE que en el 2007 tenia d'haver arribat a la ciutat de València, un AVE que ha anat a marxa lenta, a marxa molt lenta per part del Govern d'Espanya.
+
+I estaven dient vostés els compromisos econòmics. Els compromisos econòmics que té el govern de la Generalitat valenciana i totes les institucions en la societat de la qual formen part, com és València Parc Central, se van a complir tots.
+
+I, senyor Signes, li dic, és que durant estos anys eixa societat no ha fet res? És que durant estos anys la societat València Parc Central, quan vostés estan governant, no han menejat res perquè l'estació central ja poguera estar amb els nivells d'execució que havia d'estar? I tots els milions d'euros que s'han previst en els pressupostos de La Generalitat des de l'any 2004 cap ací? Que no hem trobat resposta per part del govern central en res, en res -i vostés ho saben-, i han estat posant totes les pegues possibles perquè eixe projecte no anara endavant, perquè eixe projecte tinguera tots els problemes del món, i, vostés, vindre ací a evidenciar que l'Ajuntament de València no ha estat a l'altura de les circumstàncies, quan la realitat és ben distinta i ben diferent. Vostés saben que anem a complir. Vostés saben que La Generalitat va a complir amb totes les aportacions en esta societat.
+
+I li dic més, vosté ve al terreny polític i diu: «En deu anys, des de 1999 fins al 2010». En cinc anys de govern del Partit Popular i cinc anys del govern socialista, senyories, en cinc anys de govern del Partit Popular se projectà, se redactà tot i se planificà perquè poguera ser una realitat. I clar que vostés se trobaren l'obra començada! I dia: «És que sols s'havien gastat vora quatre-cents milions d'euros». I si haguera continuat governant el Partit Popular, fa tres anys que haguera arribat ja l'AVE a esta ciutat! I vostés ho saben! I vostés ho saben!
+
+I això és una cosa que va en el deure que tenen vostés amb la societat de la Comunitat Valenciana. I això és una cosa que quan vostés diuen en esta proposta, «compromisos de no entorpecer la llegada del AVE», els hauria de caure la cara de vergonya a vostés, a vostés. I això és aixina i ho saben molt bé. I, ara, arribarà amb els soterraments de les vies sense estar fets. I ara arribarà amb moltes mancances. I estem disposats a suportar-ho. I aplaudirem lealment i institucionalment l'arribada encara que siga tard. Però, vostés, senyories, hui, esta proposició que han dut ací -com ja li han dit tots- demostren la soledat en què viuen.
+
+Senyor Signes, vosté no va ser capaç d'obtindre el recolzament de ningú, ni dels grups de l'esquerra ni del grup majoritari que representa a la majoria de la societat valenciana. Vostés van a estar tan a soles com estan sempre. No són capaços els socialistes valencians de concertar el més mínim amb ningú! Vostés no estan preparats per al diàleg! Vostés no estan preparats per a concertar i traure programes en comú! No se n'adonen d'eixes coses que, al final, el que estan demostrant és que vostés no estan preparats ni capacitats per a governar en cap àmbit institucional! Ahir, ho dien. I ahí era un exemple: el president Camps i el ministre Blanco. I encara alguns de vostés hui dien que si tal, que si les quantitats. !
+
+Miren, són les quantitats que creíem que li pertocaven a la Comunitat Valenciana. És el que hem reivindicat. I és un pla que anem a posar endavant amb absoluta coherència política, en funció de la ideologia que estem representant! I vostés, vostés, amb la més absoluta soledat política -que cap grup parlamentari de l'esquerra va a acompanyar-los- van a estar a soles mantenint una postura numantina contra la Generalitat valenciana, contra els valencians. Eixa és la realitat. Eixa és la realitat.
+
+I vostés havien vingut a parlar amb absolut
+
+de quin serà l'interés d'estar en la foto de l'arribada. Doncs, li ho dic. L'interés d'estar en la foto el dia de l'arribada serà el que diguen els ciutadans de la Comunitat Valenciana, que han dit que Rita Barberá és l'alcaldessa de València i que el president Camps és el president de La Generalitat. I clar que estaran el dia de l'arribada!
+
+Però, jo em pregunte: I els milions d'euros? I la campanya que està preparant el ministre de Foment per a vendre l'AVE? I els milers de milions de les antigues pessetes que se van a destinar perquè la gent veja que l'obra de l'AVE ja s'ha fet? Clar que ho dia molt bé la senyora Oltra quan parlava, que l'AVE se veu, que la pantalla de formigó se veu! Clar que se veu! Perquè l'obra està fent-se! I la gent ho va a gaudir. I anem a donar un servici als ciutadans. I va a ser beneficiós per a tots. Però no patisquen que, milions, milions i milions de les antigues pessetes i molts milions d'euros van a dedicar-se a la propaganda d'una cosa que estem veient que s'ha pogut construir en base al treball de totes les administracions, en base al treball de totes les institucions. I eixa és la realitat.
+
+I, senyor Signes, estarem i estarem molt a gust el dia de l'arribada. I criticarem les mancances. I criticarem el que falte. Però, sí que li puc dir a vosté que la Generalitat valenciana ha estat treballant i ha estat traient moltes obres que són clau per a això, com puga ser l'estació de Bailén del metro de València, una obra clau i que va absolutament coordinada amb eixa; o com puga ser l'estació del metro del carrer Alacant. Són obres que van totalment coordinades i que ja estan previstes en la futura estació del parc central. O, potser ja, la primera actuació que s'ha fet en l'edifici número 7 de l'estació València Nord perquè estiga per al gaudiment dels veïns i del barri.
+
+Senyories, mosatros hem estat treballant preveient l'arribada de l'AVE. El govern de la Generalitat valenciana ha fet esforços econòmics terribles, i va a continuar fent-los. I hui li puc a vosté assegurar que l'esmena que vostés presentaren -que, per cert, tenia un error de partida, tenia un error que el vam solucionar des del Grup Parlamentari Popular, i vam consensuar amb tots els grups parlamentaris-, vostés demanaven 300. 000 euros, que hi hagueren en el pressupostos de La Generalitat. Senyories, i ho varem aprovar! No vam dir que no! Ens va paréixer raonable! I que estiga a la partida pressupostària!
+
+I, ara, vosté ve a que mosatros li diguem al govern que faça una modificació per a complir en un conveni. El govern va a complir el conveni, el govern posarà els diners, s'executarà -i esperem que amb absoluta lleialtat- per part del govern central en la part fonamental, que és a la ciutat de València, el soterrament, l'estació central, el parc central de València i donar una solució als veïns que tant de temps han reclamat un acord, un consens i que haguera una capacitat d'enteniment, però que hui, per sort per a mosatros, i, per a desgràcia, per a vostés, per als socialistes valencians, va a quedar molt evidenciada la soledat amb què estan en este parlament, que és idèntica i igual que la soledat a què estan condemnant-los electoralment els ciutadans de la Comunitat Valenciana.
+
+Moltes gràcies.
+
+(Aplaudiments)
+
+La senyora presidenta:
+
+El senyor Signes Núñez:
+
+Senyor Serra, van a pagar o no van a pagar? Van a pagar o no van a pagar? Eixe era el tema. Perquè, vosté diu: «El Consell farà el que haja de fer i pagarà. » Però, si el Consell encara no ha pagat els 100. 000 euros de l'any 2009!
+
+(Aplaudiments)
+
+I no tenen pressupostat el de 2010! Van a pagar o no van a pagar? Van a col·laborar que l'AVE arribe a València ciutat o no van a col·laborar i van només que a pegar-se colzades per a fer-se la foto en el mes de novembre? Eixa és la qüestió, senyor Serra. Eixa és la qüestió.
+
+I, mire, Rita Barberá, l'alcaldessa de València, no defensa els interessos dels veïns i veïnes de la seua ciutat en este tema perquè, si ho fera, hui estaria ací votant a favor d'esta proposició no de llei, estaria ací votant a favor que La Generalitat pose diners perquè l'AVE arribe abans de 2010 -que arribarà, de totes formes- a la ciutat de València, i no absent del seu escó. Rita no defensa els interessos dels seus ciutadans. Rita -ho he dit abans- molt reivindicativa davant de Zapatero, però molt submisa davant de Camps
+
+(aplaudiments)
+
+, molt submisa davant de Camps. I això, els veïns i veïnes de la ciutat de València li ho tindran en compte en les pròximes eleccions, senyor Serra.
+
+Vosté diu : «L'AVE estava projectat i redactat al 2004 quan el Partit Socialista arribà al govern». Sí, projectat i redactat. Vostés havien començat el tram Xàtiva-València i havien començat 6,8 quilòmetres del Madrid directe per Cuenca-València, el tram Requena-Set Aigües. Res més! Res més! La majoria d'estudis informatius ni estaven aprovats, ni tenien declaració d'impacte ambiental. Tots ells tenien problemes seriosos de viabilitat. Alguns d'ells ni tan sols estaven redactats. Ni s'estaven redactant tampoc! Com el Madrid-Torrejón, Albacete-Xàtiva, la xarxa
+
+(inintel·ligible)
+
+. , etcètera, etcètera. La redacció del projecte d'un gran nombre de trams no estava ni licitat. Vostés no havien fet res! Només havien invertit 300 milions d'euros en cinc anys i Zapatero n'ha invertit 12. 000 milions en cinc anys. Vostés no havien fet res!
+
+I si l'AVE arriba a València ciutat a final de 2010; a Alacant al 2012; i, a Castelló, al 2014, senyor Serra, sap perfectament que és gràcies a l'esforç i a l'interés
+
+(aplaudiments)
+
+d'un govern que creu en esta comunitat, que vol que esta comunitat prospere, que vol que esta comunitat tire endavant i no com vostés, que no sé si volen, però, en qualsevol cas, el que sí que és cert és que no poden, no poden perquè no tenen ni un duro, perquè estan endeutats. Perquè jo sé -com vosté sap- que en el fons del debat que estem tenint hui el que està passant és que no tenen ni 100. 000 euros per a invertir en el parc central i que no tenen ni huit milions en pressupostos de 2010, 700. 000 euros, per a invertir en parc central, perquè estan greument endeutats. I, per què ho estan? Doncs, mire, perquè tenen un problema molt greu, i és que dins del Consell en este moment, els dos consellers que tenen potència política dins del Consell, que són el conseller Cotino i el conseller Blasco, són els que estan enduguent-se tots els diners dels pressupostos de cada any. I estan deixant al conseller Flores sense un
+
+. Eix és el problema de fons. I eixa és una llàstima perquè les infraestructures són un tema vital per al desenvolupament d'esta comunitat, per a pal·liar l'atur que vostés han creat a esta comunitat. Això és vital. Però, ni Cotino ni Blasco estan deixant al conseller Flores fer al que s'ha compromés i fer el que hauria de fer, que és fer una política important per a traure de la crisi econòmica a esta comunitat. Eixe és el fons de la qüestió. Eixe és el tema polític de la qüestió i el conseller Flores, lògicament, no pot dir-ho, però jo sí que puc dir-ho ací en esta trona, perquè això és de veritat el que està passant, senyor Serra.
+
+Però, mire, senyor Serra, en la situació actual del Consell de La Generalitat, que és una situació de tots contra tots, en este moment en el Consell, a l'igual que en el Partit Popular de la Comunitat Valenciana, van tots contra tots, com els indis, tirant-se fletxes uns contra altres, i ajupir-se a vore qui esquiva quina fletxa. Davant d'eixa situació, que està passant en el Consell i en el Partit Popular de la Comunitat Valenciana, en este moment provoca que ara la Comunitat Valenciana siga el que menys els importa a vostés. El que els importa és ajupir-se perquè la fletxa no els pegue al cap.
+
+La senyora presidenta:
+
+El senyor Signes Núñez:
+
+Això és el que els importa i no la Comunitat Valenciana, que és el que hauria d'importar-los -i acabe presidenta-. L'única cosa que he demandat amb la meua primera intervenció és que la presidenta de Les Corts no fera res només que.
+
+(La senyora presidenta desconnecta el micròfon de la trona)
+
+La senyora presidenta:
+
+(Aplaudiments)
+
+El senyor Serra Cervera:
+
+Amb la vènia de la presidència.
+
+Senyories, ni una sola paraula a la soledat parlamentària i política dels socialistes. Ni una sola paraula a no tindre el recolzament mínim de ningun diputat que no siga del seu grup. I això significa, una vegada més, que vostés, amb la seua estratègia d'anar frontalment contra La Generalitat amb qualsevol excusa, se queden a soles i se queden completament aïllats.
+
+Senyories, se pagarà i se farà, a pesar de vostés, i se complirà. I a pesar del model de finançament que ens han condemnat els socialistes espanyols a la Comunitat Valenciana. Se farà i se pagarà.
+
+Senyories, clar que anem a col·laborar mosatros en l'arribada de l'AVE! És que el problema que vostés tenen, que per moltes campanyes institucionals o polítiques que vullguen posar en marxa, ningú se creu en el carrer que des de la Comunitat Valenciana el Partit Popular no ha segut el que ha estat el primer dia impulsant un projecte com el de l'AVE.
+
+(Aplaudiments)
+
+És que això no s'ho creu ningú, senyor Signes! És que no s'ho creu ningú!
+
+És que quan puja a esta tribuna i diu que l'alcaldessa de València no defensa els interessos dels valencians, no s'ho creu ningú! No s'ho creu ningú, senyor Signes! No s'ho creuen ni els que vostés són capaços de mobilitzar en el Cabanyal de forma esporàdica o en qualsevol altra qüestió que instrumentalitzen, ni eixos s'ho creuen.
+
+Saben el que passarà d'ací un any i mig quan la senyora Rita Barberá torne a presentar-se per a alcaldessa de la ciutat de València, saben el que va a dir la gent. Clar que vostés ho saben!
+
+Mire, l'AVE estava planificat, l'AVE estava programat, l'AVE havia començat, i vostés l'únic que han fet ha segut, amb retard, amb lentitud i amb poc compromís en esta terra perquè no van ser exigents, retardar tres anys l'arribada de l'AVE. Eixa és la realitat de l'AVE que vostés coneixen, senyor Signes. Eixa és la realitat.
+
+Però mire com són les coses. En estes Corts hem tingut ocasions al llarg d'esta legislatura, el 14 de novembre de l'any 2007, el 24 de setembre de l'any 2008 o el 13 de maig de l'any 2009, siga amb propostes de resolució després del debat de política general, o siga amb proposicions no de llei a instància del Grup Parlamentari Popular, de vore com vostés li donaven l'esquena contínuament a les reivindicacions que li féiem al govern central.
+
+I vostés vénen i anuncien a so de bombo i platerets que l'AVE arribarà en l'any 2014 a Castelló, i en l'any 2012 a Alacant. És que mos hem de sentir orgullosos d'eixe retard? Si hui se complixen 18 anys de l'arribada de l'AVE a Sevilla, i eixe és el gran agravi d'esta terra, que 18 anys després
+
+(aplaudiments)
+
+hem d'estar dient que en l'any 2014 arribarà a Castelló, que en l'any 2012 arribarà a Alacant. Eixe és el motiu per a sentir-mos orgullosos? Eixa és la vergonya que tindran els socialistes valencians.
+
+Senyories, vostés estan en la més completa soledat. A vostés no els recolza ningú. Com molt bé diuen alguns membres del seu grup parlamentari, estan pensant ja més en l'hora de dinar que en l'AVE, perquè saben que arribarà molt abans esta que l'altra.
+
+Però jo li dic, el govern de la Generalitat valenciana, el Grup Parlamentari Popular i tot el Partit Popular de la Comunitat Valenciana estaran treballant amb absoluta lleialtat institucional, reclamant i reivindicant el que toque en una infraestructura tan necessària com és l'AVE. Ho han fet igual en una altra com és l'aigua, que tindrem ocasió de vore què fa cada un i com se retrata cada un, i amb tantes reivindicacions que hem fet al llarg d'estos anys, perquè el govern de Madrid, el govern socialista no ha complit en la Comunitat Valenciana.
+
+I vostés, que vénen a fer en estos moments decor per a vendre, decor per a voler
+
+tot el que estan fent, en este cas, en la Comunitat Valenciana, que sàpiguen que les dones i homes de la Comunitat Valenciana entenen que el que està fent-se és un deute amb esta terra. No s'està regalant res. S'està complint amb una obligació en la Comunitat Valenciana. I menys mal que alguns planificaren i programaren perquè se poguera executar, perquè si no, passarien díhuit anys més, com han passat des que s'inaugurà la línia Madrid-Sevilla, sense AVE per a esta terra.
+
+Moltes gràcies.
+
+(Aplaudiments)
+
+a senyora presidenta:
+
+(Se suspén la sessió a les 14 hores i 28 minuts)
+
+(Es reprén la sessió a les 17 hores i 3 minuts)
+
+La senyora presidenta:
+
+Es reprén la sessió.
+
+Pregunta 691 al conseller de Sanitat, senyor Manuel Cervera Taulet, sobre la seguretat del pacient, que formula la diputada senyora Esther Franco Aliaga (GP Popular) (RE número 51. 381).
+
+La senyora presidenta:
+
+Pregunta que formula la senyora Franco.
+
+La senyora Franco Aliaga:
+
+La senyora presidenta:
+
+La senyora Franco Aliaga:
+
+(Aplaudiments)
+
+La senyora presidenta:
+
+El senyor conseller de Sanitat:
+
+La senyora presidenta:
+
+El senyor conseller de Sanitat:
+
+La senyora presidenta:
+
+El senyor conseller de Sanitat:
+
+(Aplaudiments)
+
+Pregunta 700 al conseller de Sanitat, senyor Manuel Cervera Taulet, sobre la carrera professional, que formula la diputada senyora Alicia de Miguel García (GP Popular) (RE número 51. 390).
+
+La senyora presidenta:
+
+La senyora De Miguel García:
+
+El senyor conseller de Sanitat:
+
+(Aplaudiments)
+
+La senyora presidenta:
+
+Pregunta 688 al conseller d'Infraestructures i Transport, senyor Mario Flores Lanuza, sobre aeroports, que formula el diputat senyor Rafael Ferraro Sebastià (GP Popular) (RE número 51. 378).
+
+El senyor Ferraro Sebastiá:
+
+Gràcies, senyora presidenta.
+
+de Infraestructuras y Transporte, que los aeropuertos de L'Altet y Manises deberán tener una gestión singularizada en la que participe La Generalitat?
+
+La senyora presidenta:
+
+El senyor conseller d'Infraestructures i Transport:
+
+Pregunta 703 al conseller d'Infraestructures i Transport, senyor Mario Flores Lanuza, sobre mobilitat ciutadana, que formula el diputat senyor Jaime Mundo Alberto (GP Popular) (RE número 51. 393).
+
+La senyora presidenta:
+
+El senyor Mundo Alberto:
+
+Gràcies, senyora presidenta.
+
+Senyores i senyors diputats.
+
+La mobilitat per als ciutadans de la nostra comunitat ha sigut una constant preocupació per part de la conselleria i part del govern de La Generalitat, i durant estos anys hem assistit a constants inversions per part de La Generalitat, concretament per FGV, sobretot en els trams que representa la mobilitat en les grans ciutats de la nostra comunitat.
+
+Assistim, com no, i en repetides ocasions hem parlat, tant del TRAM de Castelló, hem parlat de l'ampliació de Metrovalencia i estem parlant del TRAM d'Alacant, en noves línies, noves opcions, noves propostes. Hem arribat a l'aeroport. Ara hi ha unes noves actuacions per a poder arribar també, com no? , a la nova Fe i altres construccions a l'Oceanogràfic i altres zones de València. La millora també en allò que ha sigut la inversió del que són els trens també ha sigut constant. I la inversió, indubtablement, ha sigut de les més importants de la seua conselleria.
+
+Per tant, eixa aposta per millorar la mobilitat sostenible dins de la nostra comunitat és una constant i una inversió directa que fan des de La Generalitat per a millorar, no tan sols ja les ciutats, sinó l'entorn de les ciutats, arribar amb unes noves propostes a ciutats perifèriques i altres nuclis de població importants és una constant.
+
+Per això, a més que ahir assistíem, i voldria manifestar-ho aquí, a una firma d'un protocol per al tema de rodalies, en què, una vegada més, voldria manifestar aquí la nostra insatisfacció per haver vist com no ha arribat a quallar el que són les rodalies de la zona nord de la província de Castelló, en una. solament un estudi de viabilitat, el que no correspon realment en una petició constant d'esta cambra, que en moltes ocasions ha demanat que arribe el tren de rodalies fins a Vinaròs, fins al límit de la província de Castelló. Ara simplement un estudi de viabilitat, això
+
+(inintel·ligible)
+
+. una gran insatisfacció. I considerem que realment, realment això, eixe pla de rodalies, també milloraria, com no, la mobilitat dels ciutadans, i les opcions que presenten són positives.
+
+Per tant, nosaltres, des d'aquí, jo li voldria formular la següent pregunta: quines són les actuacions directes que està realitzant la Conselleria d'Infraestructures i Transports per a facilitar la mobilitat dels ciutadans?
+
+Moltes gràcies.
+
+(Aplaudiments)
+
+La senyora presidenta:
+
+El senyor conseller d'Infraestructures i Transport:
+
+, se publicó la creación del ámbito integrado del transporte de Alicante, compuesto por cinco municipios, que eran en concreto: Alicante, Sant Joan d'Alacant, Mutxamel, El Campello y San Vicente del Raspeig.
+
+(Aplaudiments)
+
+Pregunta 656 al conseller d'Educació, senyor Alejandro Font de Mora Turón, sobre la rescissió de subvencions a l'STEPV, que formula la diputada senyora Ana Isabel Noguera Montagud (GP Socialista) (RE número 51. 059).
+
+La senyora presidenta:
+
+La senyora Noguera Montagud:
+
+La senyora presidenta:
+
+El senyor conseller d'Educació:
+
+La senyora presidenta:
+
+En segundo lugar, se les olvidó poner el STEPV. Usted dice ahora que puede ser un error administrativo, ya veremos quién tiene la culpa y quién paga por ello. Pero se les olvidó poner al principal sindicato representativo en estas ayudas. Podría haber sido un error si no fuera porque también les había anulado las ayudas a fomento en el valenciano en los convenios que usted firmó con ellos en el 2004. Supongo que usted entiendo eso de «yo los di, yo los quité»
+
+Pero tuvo también un error mucho más grave, que ese me parece que no lo ha corregido. Estas ayudas se basaban en una orden en la que los sindicatos se presentaban y se les asignaba la ayuda en función del número de delegados y de votos. No era una ayuda ni una subvención graciable que se premiara o se castigara o que la concediera usted cuando usted quisiera, sino que se hacía por objetividad y representatividad del número de delegados. Y usted eso lo ha cambiado.
+
+Y eso solo puede ocurrir en un gobierno donde se permiten las bravuconadas de Rus, las censuras de exposiciones por un diputado que es más oscuro que culto, el matonismo de Fabra o los amigos del Gürtel, porque si fuera.
+
+La senyora presidenta:
+
+La senyora Noguera Montagud:
+
+y estoy en mi tiempo, estoy en mi tiempo. Si usted estuviera en un gobierno democráticamente normal, probablemente por imposición, por negligencia, por torpeza, por soberbia, o todo junto, que es un cóctel explosivo, hubiera estado cesado. Pero, ¡Dios mío, quién lo va a cesar! , si el que lo nombró está pendiente de una cuestión judicial. Usted está ahí sentado porque está en un gobierno absolutamente de. < /span>(La senyora presidenta desconnecta el micròfon)
+
+(La senyora presidenta desconnecta el micròfon)
+
+La senyora presidenta:
+
+(Inoïble)
+
+(S'interromp la gravació)
+
+El senyor conseller d'Educació:
+
+(Aplaudiments)
+
+ha venido aquí y ha leído lo que le han preparado, que son unas reivindicaciones muy legítimas. Pero la respuesta a su pregunta estaba clara: no ha habido ninguna voluntad de hacer esto. Sencillamente le he dicho: ha habido una incidencia administrativa que se ha corregido. Es más, los destinatarios de los fondos han sido personalmente contactados por la secretaría autonómica y se les ha dicho que se inician los trámites ya, están en marcha, para corregir esto.
+
+(Aplaudiments)
+
+(Aplaudiments)
+
+Pregunta 660 al conseller d'Educació, senyor Alejandro Font de Mora Turón, sobre les classes en valencià, que formula la diputada senyora M. ª Vicenta Crespo Domínguez (GP Socialista) (RE número 51. 063).
+
+La senyora presidenta:
+
+La senyora Crespo Domínguez:
+
+Gràcies, senyora presidenta.
+
+Senyories.
+
+Senyor conseller, per quina raó a hores d'ara, ben avançat el curs 2009-2010, continuen alumnes sense rebre classe de valencià?
+
+La senyora presidenta:
+
+El senyor conseller d'Educació:
+
+Gràcies, senyora Crespo, per la seua pregunta.
+
+En primer lloc, he d'assenyalar-li que un dels objectius fonamentals del treball i esforç diari de la conselleria és d'oferir als alumnes la millor formació, el major nivell de competitivitat i les oportunitats de futur a través del coneixement i de l'ús de les nostres llengües oficials, així com de les llengües estrangeres.
+
+Té vosté de tindre clar que este govern aposta per un model d'educació plurilingüe i per donar-li al nostre alumnat una resposta adequada a les seues necessitats. Una resposta que exigix fets i no simplement intencions i que fa necessari la voluntat de tots, gràcies a unes polítiques responsables i compromeses que han permés que des de l'any 1995 s'haja incrementat en un 184% el nombre d'alumnes que a hores d'ara cursen els seus estudis en valencià.
+
+Per tant, senyora Crespo, estarà d'acord amb mi que els resultats avalen este treball dut a terme en els últims anys i que dia a dia potencien i protegixen l'ús de les dos llengües oficials que tenim a la nostra comunitat.
+
+Per tant, puc assegurar-li que tot el món té garantit el seu dret a utilitzar el valencià en el sistema.
+
+(S'interromp la gravació)
+
+La senyora Crespo Domínguez:
+
+Gràcies, senyora presidenta.
+
+Senyor Font de Mora, no sóc rica com vosté. Per tant, no li puc fer regals com li fan altres. Però de segur que si m'escolta traurà profit personal i viurà millor. Així que acabe amb el seu valencianisme de carxot.
+
+Mire, a vosté li fallen moltes coses: la vista, perquè de tant de jugar amb els ordinadors del senyor Zapatero, es quedà miop. I resulta que hui també li falla l'oïda, perquè vindre ací i fer com que no passa res, quan hi ha 60 places no cobertes que esperen un docent de valencià en els instituts de la Comunitat Valenciana, amb la conseqüència acadèmica per a tots els alumnes que, amb tot el dret del món i emparats per la llei, triaren estudiar en valencià, és una poca vergonya.
+
+Deixe's d'ocurrències i de decisions arbitràries, que si convocatòria extraordinària, que si provincialització de la borsa. De tot farà menys admetre com a vàlida la titulació de Filologia Catalana reconeguda per llei.
+
+Senyor Font de Mora -que nadar contra corrent fora de la llei ja s'ha convertit en un costum del Consell-, senyor Font de Mora, ja que vosté no vol fer-ho, li demanaria que no s'ofenguera, perquè jo vaig a contar la realitat de l'assumpte que hui ens ocupa.
+
+La Conselleria d'Educació té 26 sentències condemnatòries del Tribunal Superior de Justícia recordant-li que no existeix cap raó jurídica que permeta demostrar que el títol de Filologia Catalana no siga una titulació vàlida per a poder optar a una plaça en la Comunitat Valenciana, ja que eixa llicenciatura avala sobradament el coneixement de la llengua.
+
+Per tant, si vosté a hores d'ara és capaç de deixar a centenars d'alumnes sense classe de valencià, sols pot tindre una explicació: que vosté és un inconscient i en estos moments no té capacitat suficient per continuar ocupant el càrrec de conseller. Perquè davant la falta de docents en general, però sobretot de docents en valencià, vosté continua afirmant que les convocatòries de la conselleria són conforme a dret i que estan complint amb la Llei 4/1983. Llei ben feta, perquè en 26 anys no han pogut canviar-li una coma. D'ahí que es vegen obligats a traure's de la mànega ordres malintencionades, com el Decret 62/2002, de 25 d'abril, que el faculta a vosté per a dictar les disposicions necessàries que regulen els procediments per acreditar els coneixements de valencià.
+
+I ahí comença la manipulació, senyor Font de Mora, que no ha tingut encara temps d'adonar-se'n, per exemple, que un terç dels instituts de la província d'Alacant manquen de professors de valencià i que molts alumnes no aniran a la selectivitat preparats com Déu mana, perquè ja han perdut un trimestre de classe, perquè vosté s'ha esperat fins a gener per a provincialitzar la borsa de forma urgent i extraordinària. De tot farà menys anar per la via legal i fàcil, que seria acabar amb la insubmissió que practica des de l'any 2003.
+
+I per a més inri, en estos moments de crisi, tots els valencians hem de pagar uns 60. 000 euros, perquè vosté es nega a combregar amb una terminologia avalada pel Tribunal Suprem, que de nou el passat 11 de gener va reconéixer «llengua catalana» com a sinònim de «llengua valenciana» i que el títol universitari de Filologia Catalana és més que suficient per accedir a la docència.
+
+Així que siga coherent, i pel bé dels xiquets i xiquetes d'esta comunitat, que no es mereixen continuar en la cua dels indicadors educatius per culpa de la
+
+dels seus governants, i deixe de temptar el dimoni amb actituds insubmises com les que està portant a la pràctica, desatenent centenars d'alumnes que han optat per estudiar en valencià, llengua cooficial d'esta terra.
+
+Senyor conseller, diga'm vosté com explica a tots els valencians que estan esperant un professor, que encara no s'ha assabentat que per damunt de vosté hi ha òrgan anomenat Tribunal Suprem que ha dictat sentència ferma i cite: «El tribunal no admet recurs i obliga la conselleria a reconéixer la titulació de Filologia Catalana en futures convocatòries d'oposicions. »
+
+Si donara eixe primer pas, senyor conseller, li sobrarien docents. Així que corregisca eixa actitud d'insubmissió que sols li porta maldecaps, com són la falta de docents, per a cobrir les places de valencià, però també el deute que acumulen les arques públiques de La Generalitat, que no estan per a bromes de 60. 000 euros, i menys amb la crisi que s'arrossega ací a la Comunitat Valenciana, que és on més ha crescut l'atur de tota Espanya.
+
+Ara, estic convençuda que una persona rica i intel·ligent com és vosté, de segur que té intenció de pagar-ho de la seua butxaca per a no caure en una possible malversació de fons públics. I també no estaria malament, de pas, fer un exercici de cultura democràtica, acatant per fi tot el rosari de sentències.
+
+Vosté, senyor conseller, ha de donar exemple, diga el que diga el senyor Camps, i ser el primer a demostrar, pel càrrec que ocupa, igual que ho ha fet el Tribunal Suprem, que sols li preocupa parlar de capacitació lingüística, de coneixement de la llengua i de títols acadèmics vigents, com són el certificat de Mestre de Valencià, els certificats de la junta qualificadora i, per suposat, el títol universitat de Filologia Catalana, que per a vosté seria en estos moments la solució per acabar amb el problema de centenars d'alumnes que estan sense classe de valencià des que s'ha encetat el curs.
+
+Res més i moltes gràcies.
+
+(Aplaudiments)
+
+La senyora presidenta:
+
+El senyor conseller d'Educació:
+
+Senyora diputat, a banda de la riquesa material, també hi ha una riquesa moral. Vosté sabrà com va en eixe compte corrent.
+
+En la meua primera intervenció li afirmava que oferir una resposta adequada a la realitat educativa exigix fets, i els fets del valencià estan ahí: 211. 436 alumnes estudien en valencià, 184% més que quan vostés governaven. És un fet que en estos moments 1. 070 centres oferixen ensenyança en valencià, davant dels 950 que els oferien quan vostés governaven. I és una realitat que en tota la comunitat comptem amb 3. 789 línies o grups en valencià, davant les 2. 121. Per tant, tenim un avanç molt important fet.
+
+D'altra banda, cal destacar, per manifestacions que ha fet vostés, l'esforç que fa esta administració en matèria de personal docent per atendre aquelles substitucions o incorporacions que puguen produir-se cada curs escolar a causa de circumstàncies relacionades amb baixes laborals, permisos, llicències i per altres conceptes que afecten el professorat titular dels centres.
+
+Hem agilitzat d'una manera extraordinària les comunicacions i la burocràcia relativa a este fet, i en este sentit, a més, el passat més d'octubre va procedir la conselleria a convocar l'obertura de la borsa d'interins docents de llengua i literatura valenciana, a fi de donar cobertura a aquelles vacants.
+
+La senyora presidenta:
+
+El senyor conseller d'Educació:
+
+Dia, senyora presidenta, que després de complir tots els terminis de presentació de sol·licituds, baremació, etcètera, etcètera, va ser activada a partir del passat 7 de gener.
+
+En estos moments, la Conselleria d'Educació, a fi de tramitar les baixes més urgents, ha assignat i està assignant personal docent d'altres borses que reunixquen els requisits necessaris, professors de llengua castellana i literatura amb el diploma de mestre de valencià. Estes mesures, senyoria, han propiciat que, a hores d'ara, la pràctica totalitat de les mencionades vacants hagen segut cobertes per a continuar portant a terme amb total normalitat la impartició d'estes ensenyances.
+
+Per tant, la seua inquietud, senyoria, ha segut absolutament coberta, i tinc de dir-li que pràcticament, en este moment, gràcies a estes mesures que s'han pres, estes dificultats que tenim inherents a la mateixa burocràcia administrativa educativa, s'han pogut resoldre amb tota normalitat.
+
+Moltes gràcies, senyora presidenta.
+
+Pregunta 797 al Consell, que respon la consellera de Justícia i Administracions Públiques, senyora Paula Sánchez de León Guardiola, sobre mesures que s'adoptaran en relació amb el personal de RTVV, que formula la diputada senyora Nuria Espí de Navas (GP Socialista) (RE número 53. 872).
+
+La senyora presidenta:
+
+Senyora Espí.
+
+La senyora Espí de Navas:
+
+La senyora presidenta:
+
+La senyora consellera de Justícia i Administracions Públiques:
+
+La senyora Espí de Navas:
+
+(ininte l·ligible)
+
+, sin más, sin que la administración valenciana le exija ninguna responsabilidad y no permitiendo a los valencianos saber ni satisfacer el derecho de que les sea devuelto aquello que les ha sido usurpado de forma ilícita y, sobre todo, el comprobar que los cargos públicos tienen el mismo trato que un delincuente común, que ni en sueños sustrae de golpe casi un millón de euros de una empresa pública, con dinero de todos los valencianos, para gozo y trajín del dinero supuestamente en paraísos fiscales.
+
+ex tunc,
+
+(ininte l·ligible)
+
+, además de todo esto, ustedes lo defienden y lo jalean, usted lo acaba de hacer con su respuesta: mientras les haga el trabajo de empresa de comunicación para el Partido Popular, aquí no pasa nada, todo está bien. Este señor y su nombramiento tiene el mismo vicio jurídico que el nombramiento del señor García, es decir, que puede
+
+(ininte l·ligible)
+
+Señoras y señoras del Consell, están cometiendo demasiadas tropelías, creen que la impunidad es el efecto natural de tener mayoría absoluta. Y, miren ustedes, no lo es. Esto les lleva a saltarse la ley de creación de la Televisión Valenciana, en este caso en cuanto a la forma de elección del director general. Lo eligen, insisto, a dedo y ya está, todo se acabó. Y, por si fuera poco, tras la sentencia del tribunal de justicia de la Comunidad Valenciana, no enmiendan y, de forma urgente, proceden a la elección de un nuevo director general. ¿Cuánto, señora
+
+(Aplaudiments)
+
+La senyora presidenta:
+
+La senyora consellera de Justícia i Administracions Públiques:
+
+Y todo, desde luego, lo que no les gusta que aparezca en la pequeña pantalla,
+
+pero a ustedes realmente, señoría, no les importa si el Consejo de Administración de Radiotelevisión Valenciana ha cumplido los trámites formales de la Ley 7/1984 en la propuesta de nombramiento del director general. Lo que realmente a ustedes les importa es que esos directores generales no sean simpatizantes del Partido Socialista, como les hubiera gustado, en cuyo caso, no sé si hubieran sembrado esta duda sobre su nombramiento.
+
+(Aplaudiments)
+
+Pregunta 796 a la consellera de Benestar Social, senyora Angélica Such Ronda, sobre el Patronat Intermunicipal Francisco Esteve, que formula el diputat senyor Josep Maria Pañella Alcàcer (GP Esquerra Unida-Bloc-Verds-IR: Compromís) (RE número 53. 757).
+
+La senyora presidenta:
+
+El senyor Pañella Alcàcer:
+
+Senyora presidenta.
+
+Senyora consellera, ja sé que en data 15 d'aquest mes s'ha produït el pagament pel qual jo preguntava. , ho fea en la meua pregunta, lògicament, però la mantinc, la mantinc perquè segueix vigent l'explicació de les causes que han originat aquest retard en el pagament. Per tant, com dia, li mantinc la pregunta almenys en allò que fa referència al que són les causes, inclús també per saber per què s'ha retardat tant el pagament del centre de dia del Patronat Francisco Esteve.
+
+Gràcies.
+
+La senyora presidenta:
+
+La senyora consellera de Justícia i Administracions Públiques:
+
+El senyor Pañella Alcàcer:
+
+(Inoïble)
+
+. consellera, lamente que la pregunta. , que la part més important s'ha quedat sense contestar, que era els motius. , els motius pels quals s'ha retardat tant el pagament al Patronat Intermunicipal Francisco Esteve, com vosté ha dit, que regenta tres centres. Les dades també les tinc, 189 usuaris, tots els discapacitats intel·lectuals, en un centre de dia en el qual hi han 27 persones adultes amb discapacitat intel·lectual greu. Però vostés tenien d'haver aportat a primers d'any el 60% de les aportacions, com és costum, del 100%. No ho han aportat a primers d'anys, l'han portat fa molt pocs dies, fa quinze dies, i ho han pagat fa quinze dies després d'una situació. , d'haver creat i, per tant, li pregunte les causes, perquè la responsabilitat és total seua, com a cap de la conselleria, d'haver creat un greu problema. No en este, el problema és que no és este, que este problema el podem extrapolar a molts més centres. I, parlem-ne.
+
+¿Vosté sap les conseqüències que ha tingut? Bé, doncs, febrer i març, els professionals que treballen allí no van cobrar. , no van cobrar. Però, damunt, han retardat el pagament a transport, menjadors, combustibles, neteja, material higiènic. ¿És eixa la contribució del Consell a augmentar la crisi? Vull dir, els impagaments a les empreses, com ja hem parlat reiteradament, i jo mateixa li he fet a este. , bé, a este Consell, diverses preguntes al respecte, i li'n seguirem fent.
+
+Mire, esta és una empresa privada. Perdó, és una empresa. ,
+
+(ininte l·ligible)
+
+. és una empresa d'una associació sense ànim de lucre, que no té una capacitat de finançament com puga tindre una empresa privada.
+
+Vaig a recordar una pregunta que fera, no a vosté sinó al seu antecessor, per al centre de malalts mentals de Castelló, ¿eh? , que gestionava també un centre de dia i al qual li van endarrerir la seua subvenció de manera que va estar a punt de tancar, i diversos mesos els seus treballadors sense cobrar.
+
+Mire, estan fent aixina, ¿és la seua tàctica per a afavorir els centres privats enfront dels centres gestionats per les associacions sense ànim de lucre? . , és fent-los arribar al límit d'allò que poden aguantar. És així com ho estan tractant? Recorde, senyora consellera, que és una de les primeres preguntes que jo li vaig fer quan vosté va entrar, si continuaria amb eixa mateixa dinàmica. Pareix que sí.
+
+Vosté m'ha parlat del centre ocupacional i del centre d'atenció primerenca. Que sí que ja està aprovat. Bé, jo he comprovat avui que no han rebut els diners. I vosté ho ha dit. No han rebut tampoc els diners! O siga, ha pagat alguna part però no estan eixos diners encara. Vosté, ara, ens ha donat una notícia que ja estan aprovats i tal. totes les. amb data avui. Però, estem parlant del retard de les subvencions. I no li he de recordar que el compromís que assumix la consellera és després que el dia 30 hi haja una concentració de pares, de professors, de persones -diguem-, usuaris, i de familiars, a la porta de la mateixa conselleria. Vostés es van comprometre a pagar el dia 15, i aixina ho han fet. Però, mire, el retardament és un maltractament dels centres i de totes les persones que estan ahí. Per tant, jo li demane explicacions.
+
+Però, han esgrimit, encara que ací no ho ha dit, problemes de pressupost. Perdone, senyora consellera, problemes de pressupost en el mes de febrer? Vol explicar quins són els problemes de pressupost que vosté tenia en el mes de febrer per a no poder pagar el que estava contemplat en pressupostos? Vol explicar-los? Estava mal fet el pressupost o és que l'han utilitzat el pressupost que hi havia per a pagar despeses de l'any passat que no van poder ser pagades? O una o l'altra? O una tercera que vosté m'explicarà.
+
+Problemes d'impagaments. Mire, he parlat jo ací en este mateix lloc del retard dels pagaments de les ajudes de menjadores escolars i transport escolar. He parlat dels impagaments de l'empresa adjudicatària de neteja de la Conselleria de Justícia. D'impagaments parlarem -perquè hem presentat avui una altra pregunta-, sobre els impagaments de les subvencions als jutjats de pau en els municipis de menors de 100. 000 habitants, impagaments de sanitat. És la característica del Consell l'impagament? Reitere. És la seua aportació a aquesta crisi perquè no deixe de ser-ho i vaja augmentat més? És la forma de créixer en treball? És el seu pla Confiança?
+
+La senyora presidenta:
+
+La senyora consellera de Benestar Social:
+
+Pregunta 803 al conseller de Medi Ambient, Aigua, Urbanisme i Habitatge, senyor Juan Gabriel Cotino Ferrer, sobre el Cabanyal, que formula la diputada senyora Mónica Oltra Jarque (GP Esquerra Unida-Bloc-Verds-IR: Compromís) (RE número 55. 795).
+
+La senyora presidenta:
+
+La senyora Oltra Jarque:
+
+Gràcies, senyora presidenta.
+
+Senyor conseller, si és vosté tan amable de contestar la següent pregunta: Quina és la posició del Consell davant els enderrocaments que suposen espoli d'edificis singularment protegits pel seu interés històric, artístic, cultural o monumental, del barri del Cabanyal en el mes d'abril de 2010?
+
+La senyora presidenta:
+
+El senyor conseller de Medi Ambient, Aigua, Urbanisme i Habitatge:
+
+La senyora presidenta:
+
+La senyora Oltra Jarque:
+
+Gràcies, senyora presidenta.
+
+Senyor conseller, no sé si és que ha estat vosté fora de València estos dies de Pasqua, perquè si vosté no té coneixement del que ha passat al Cabanyal deu ser de les poques persones de València que no s'ha enterat, perquè açò ha estat fins i tot a la premsa i als mitjans de comunicació estrangers. De totes maneres, jo li vaig a fer memòria, ja que vosté no té coneixement, o vaig a intentar pal·liar el seu desconeixement. I vaig a fer-ho intentant fer un poc d'història.
+
+Mire, al 2007 un jutge evita l'enderroc de 10 edificis afectats per l'ampliació de Blasco Ibáñez. Eixe any n'hi ha eleccions municipals -per si de cas vosté té la temptació de dir-me que és que el PP guanyà a la ciutat de València-. Efectivament, hi ha una victòria electoral del PP. Ara bé, el districte dels poblats marítims va ser el de major abstenció de tot València amb vora del 37%. Si apliquem la lògica
+
+-del senyor Rajoy, vull dir- respecte, per exemple, al referèndum de l'Estatut de Catalunya, podríem dir que dos de cada tres cabanyalers amb dret de vot no donen suport explícit a la prolongació, i, encara més, que només un de cada quatre habitants del barri han anat a depositar la papereta. Això, per si té vosté la temptació d'escudar les seus il·legalitats en la
+
+victòria electoral.
+
+En el 2008, el Suprem se pronuncia a març i determina que la prolongació és compatible, la qual cosa és qualificada com a descabellada per la gent que s'estima el patrimoni. Eixe mateix any, tots els promotors privats que estan en Cabanyal 2010 -inclosa alguna empresa vinculada a la seua família, senyor Cotino- abandonen Cabanyal 2010, quedant-se només l'IVHSA i AUMSA, i rebent més del 10% en plusvàlues; que ja m'explicarà vosté, quan tinga a bé, per què se li van donar eixes plusvàlues, a banda d'un enriquiment personal i familiar, però crec que no pot ser almenys el motiu que s'explica en públic.
+
+Al 2009, el Tribunal Superior de Justícia estima alguns recursos d'apel·lació de l'ajuntament, efectivament, quant els enderrocaments, però el Tribunal Suprem obri novament la via per a revisar la legalitat perquè no hi ha hagut un procediment específicament referit a l'espoli ni un pronunciament al respecte de l'administració competent. L'administració competent, és a dir, el Ministeri de Cultura, a finals d'eixe any -i es publica a principis d'enguany- diu -en un informe que conté una resolució- que «enderrocar en el Cabanyal és espoli i que, per tant, el PEPRI no se pot dur endavant, i que qualsevol enderrocament suposarà espoli».
+
+Que jo sàpiga, que jo sàpiga -vostés reaccionaren molt prompte, amb un decret llei, i, després, amb una llei que derogà el decret llei-, però, que jo sàpiga, vostés encara no tenen competències per a legislar sobre allò que és delicte i el que no és delicte. I l'article 321 del Codi penal diu que l'espoli és un delicte. I vostés, sabent que hi ha una ordre ministerial que ninguna llei valenciana pot derogar ni pot contravindre, perquè no és competència nostra, van, des de l'Ajuntament de València, donant l'ordre d'enderrocaments el dia 6 i 8 d'abril d'enguany, sabent que n'hi havia espoli. Igual que vostés ací no poden decidir que l'homicidi queda derogat durant deu dies.
+
+I vostés estan escudant-se en una legalitat que, a més, el Tribunal Constitucional fa pocs dies ha admés a tràmit el recurs d'inconstitucionalitat del govern i ha deixat ben clar, enfront de les parts i enfront de tercers, que se paralitza qualsevol actuació que supose enderrocaments en el Cabanyal, vostés continuen insistint. A mi me queden algunes preguntes. Me queden les preguntes de les plusvàlues que ja li he fet: per què les plusvàlues a les empreses privades? A més, quina valoració fa sobre la possible punibilitat de les persones que donaren les ordres d'enderroc sabent que n'hi havia espoli, amb posterioritat a l'informe del Ministeri de Cultura? I si és conscient que càrrecs públics rellevants i alts dirigents del Partit Popular poden acabar en un procés penal per espoli per esta causa? I si pensa vosté que és prudent que el Consell tolere possibles delictes en la política urbanística?
+
+Però, després de formular totes estes preguntes, doncs, la veritat és que jo mateixa me responc i dir que només cal pegar-se un
+
+pels autos de la trama Gürtel per a adonar-se'n que, no és que no més vostés no preserven la legalitat, ni urbanística ni l'altra, sinó que, ans al contrari, són especialistes en burlar i trencar precisament la legalitat vigent, almenys, la cúpula del seu partit, algunes persones que se seien en la bancada blava, amb l'únic objectiu de perpetuar-se en el poder.
+
+La senyora presidenta:
+
+El senyor conseller de Medi Ambient, Aigua, Urbanisme i Habitatge:
+
+parany
+
+La senyora presidenta:
+
+Interpel·lació, pel procediment especial d'urgència, al conseller de Medi Ambient, Aigua, Urbanisme i Habitatge, senyor Juan Gabriel Cotino Ferrer, sobre la política general de la conselleria en matèria d'ordenació del territori a les grans àrees metropolitanes de la Comunitat Valenciana, que formula el diputat senyor Adolf Sanmartín Besalduch (GP Socialista) (RE número 51. 198, BOC número 209)
+
+La senyora presidenta:
+
+El senyor Sanmartín Besalduch:
+
+Gràcies, presidenta.
+
+El senyor Blasco, -ara dirà, «no va amb mi»; ara li ho recordaré-, jo era també, aleshores, portaveu de Medi Ambient. El senyor Blasco recordarà com, fa sis anys, en aquesta mateixa cambra, vàrem aprovar la Llei d'ordenació del territori i protecció del paisatge. Almenys, teòricament havia de ser una legislació d'avantguarda capaç d'introduir tota una sèrie de criteris i de principis d'aquell modern ordenament territorial i urbanístic propi dels països europeus; criteris com participació ciutadana, responsabilitat o coresponsabilitat entre les parts, eficàcia i, sobretot, coherència.
+
+El cert és que el balanç d'esta legislació, després de sis anys, ha estat tremendament -i pense que sóc objectiu- tremendament decebedor.
+
+Per una banda, ens trobem amb l'estratègia territorial de la Comunitat Valenciana. Una estratègia que va ser presentada fa uns mesos, els 23 volums o volumenets -menuts- que intentaven harmonitzar tota una sèrie de criteris territorials urbanístics dels plans d'acció territorial de la Comunitat Valenciana. Vostés saben millor que jo que ha decebut a tots, ha decebut a tots perquè s'ha quedat simplement en una sèrie de criteris i directrius generalistes sense cap tipus de concreció i eficàcia.
+
+Si passem. , en el cas concret dels plans d'acció territorial, aprovats a l'empara de la llei d'ordenació del territori, la decepció encara és més gran. Tots ells han quedat inconclusos, malgrat ser sotmesos a informació pública, malgrat presentar-se les pertinents al·legacions, que, per cert, mai han estat contestades per la conselleria. Tenim el cas dels plans d'acció territorial del litoral, el pla d'acció territorial de l'horta o, el que ens porta hui aquí, els plans d'acció territorial de caràcter metropolità o de l'entorn metropolità de les ciutats d'Alacant i Elx, el Patemae, o el Pla d'acció territorial de l'entorn metropolità de Castelló, el Patecas.
+
+Insistisc, sis anys després, aquella aposta ha estat un rotund fracàs. Però és que, a més a més, ni tan sols han estat contestades les al·legacions en estos plans d'acció territorial de caràcter metropolità; al·legacions presentades pels ciutadans, al·legacions presentades pels ajuntaments que ni tan sols, ni tan sols han estat contestades.
+
+Clar, aleshores el plantejament que ens fem és: per a què es van plantejar estos plans d'acció territorial, per què es va fer participar a una gran quantitat de gent, quan ha quedat tot en una cortina de fum i en molt poqueta cosa. En una cortina de fum, en molt poqueta cosa, des d'un punt de vista de desenvolupament sostenible, des d'un punt de vista de cohesió territorial, des d'un punt de vista de participació ciutadana i, sobretot, des d'un punt de vista de transparència administrativa. Ha sigut un rotund fracàs, perquè això no s'ha complit.
+
+Anem pel cas. Pla d'acció territorial de l'entorn metropolità d'Alacant i Elx: es va presentar. , -no, perdonen- el van anunciar el. , no recorde si va ser el 2001 o l'any 2000, es va encarregar el projecte a la conselleria -que els va costar una burrada- a l'any 2002, es va sotmetre a informació pública el 2005, es van presentar al·legacions per part dels ciutadans i dels ajuntaments, i no ha estat contestada ¡ni una sola! , ni una sola de les al·legacions. És dir, deu anys després d'haver anunciat el Patemae, el pla d'acció territorial de l'entorn metropolità d'estes dos ciutats, encara no sabem res.
+
+I ho recorde i ho dic perquè les propostes que feien este Patemae eren lògiques i coherents, i en conseqüència, van ser aprovades per tots. Pretenia per a l'entorn metropolità d'Alacant, Elx, incloent altres municipis, evidentment, com Sant Vicent del Raspeig, Santa Pola, el Campello, etcètera, pretenia una cosa tan lògica i coherent com crear una xarxa de transport integrat de caràcter metropolità, lògic, perquè cada un no anara a la seua; un desenvolupament racional i equilibrat dels entorns urbans, però també dels rurals; una valoració dels recursos mediambientals d'aquesta província d'Alacant, i, sobretot, una planificació seriosa del litoral allí on no s'havia desenvolupat.
+
+Clar, què hi ha de tot això? Què s'ha fet a Alacant, a Elx i al seu entorn metropolità? Aquí l'únic que ha posat alguna cosa de la seua butxaca ha segut el govern central. El govern central, en el cas concret d'Alacant, ha incidit encara més amb una projecció internacional de la ciutat quan se creara, quan s'executara el que és la Casa de la Mediterrània, que, per cert, el Consell no volia que anara a la CAM, volia que anara a València. Des d'un punt de vista de comunicacions exteriors o externes, el govern central ha executat tot el que és la nova terminal de l'aeroport de l'Altet, o des d'un punt de vista de comunicacions interiors, seguirà invertint en tot el tema de l'arribada de l'AVE a Alacant i el ramal que connectarà amb Elx i Múrcia.
+
+Clar, La Generalitat, a canvi, què ha fet? No ha fet absolutament res. La famosa Vía Parque encara està per a finalitzar, sobretot en la ciutat d'Alacant pense que és per tema d'expropiacions. El tema d'aquell famós passeig d'Europa, dins de la conurbació d'Alacant, Elx i Crevillent, s'ha quedat com una promesa. I el famós tramvia d'Alacant fins a l'aeroport i la seua connexió amb Elx encara seguix sent una simple promesa. És a dir, des del punt de vista d'inversions, absolutament res per part de La Generalitat.
+
+Des del punt de vista ambiental és l'exemple més clar de deixadesa i inactivitat; totalment tenim l'illa de Tabarca, les salines de Santa Pola o el tema del paratge Hondo que no ha fet absolutament res La Generalitat.
+
+Però el més fort és des del punt de vista urbanístic. Des del punt de vista urbanístic, la descoordinació ha estat tremendament exagerada. Però, encara més, justament el Consell, justament els ajuntaments governats pel Partit Popular han fet tot el contrari al que dia el Patemae, tot el contrari, no és que no l'hagen complit, és que han fet tot el contrari. I com a exemple il·lustratiu, li posa el tema del pla Rabassa, un pla. , -vostés saben- un pla parcial que pretén executar una nova ciutat urbana de quasi quatre milions de metres quadrats al nord de la ciutat d'Alacant, amb una previsió de 14. 000 vivendes. I, clar, és que justament este pla Rabassa és incompatible amb tot el que marca el Patemae, tant en àrees i nivell de protecció, com en classificacions i usos donats al sòl.
+
+Clar, el ciutadà normal el que es pregunta és que no solament no han executat una cosa que vostés van proposar, sinó que han fet tot el contrari d'allò que van proposar. I, per tant, això no té absolutament cap sentit. Menys mal que, per part del Tribunal Superior de Justícia de la Comunitat Valenciana. , ha suspés provisionalment aquest pla.
+
+Si seguim en el tema del Patecas, ciutat de Castelló, l'entorn metropolità de Castelló -Vila-real, Almassora, Onda, Borriana, Betxí i tal- ens trobem el mateix: se va presentar, se va sotmetre a informació pública, se van presentar al·legacions, i
+
+Però el més fort és que en el cas del Patecas, l'entorn metropolità de Castelló, les errades, les llacunes i les imprecisions eren tan fortes que resultava infumable, inclús des del moment de la seua presentació.
+
+Adone's, mire, en el cas de Borriana no tenia en compte creiximents urbanístics aleshores ja vigents, com era el tema de Sant Gregori, Santa Bárbara o els Jardins de la Malva-rosa. En el cas de Vila-real no tenia present ni la Ciutat del Taulell, quan era una cosa que aleshores s'estava executant. En el cas de Castelló no parlava per a res del tema de la Marjaleria, quan tots sabem que hi havia un pla parcial per a ordenar aquesta zona de la ciutat de Castelló. En definitiva, cinc anys d'imprecisions, d'errades de
+
+que s'hagueren pogut solucionar simplement consultant amb els ajuntaments.
+
+Per tant, i acabe estos díhuit segons que em queden fent-li una pregunta: què pensen fer vostés del Patemae? Què pensen fer del Patecas, després de deu anys de la seua presentació? El que no me val és que me diguen «és que ara està l'estratègia territorial de la Comunitat Valenciana que, com està zonificada per sectors, ho substituirà. » Per què? Perquè això és l'excusa per esperar deu anys més -fins al 2020- per a saber com ordenaran, des d'un punt de vista territorial i urbanístic, aquestes àrees metropolitanes tan importants.
+
+a senyora presidenta:
+
+El senyor Sanmartín Besalduch:
+
+. de la Comunitat Valenciana.
+
+Gràcies.
+
+(Aplaudiments)
+
+a senyora presidenta:
+
+El senyor conseller de Medi Ambient, Aigua, Urbanisme i Habitatge:
+
+Senyor Sanmartín.
+
+Mire, potser, a la millor és que. , vosté diu que no li val l'estratègia territorial que està dissenyant el govern valencià i que, com vosté sap, està explicant-se per totes les comarques, i les seues senyories i els grups parlamentaris, en el seu moment, quan se va fer, varen rebre la documentació pertinent. Mire, possiblement per a vostés no els val, però per a mosatros sí que mos val.
+
+El Consell ha assumit el compromís d'aprovar en esta legislatura eixa estratègia territorial de la Comunitat Valenciana, i és l'instrument fonamental que preveu la Llei d'ordenació del territori i protecció del paisatge, i en estos moments el compliment d'este compromís s'està avançant en ell.
+
+Com saben, des de mitjan del 2008, la conselleria ha estat impulsant un procés d'elaboració de propostes d'ordenació territorial, de consulta als ciutadans i de celebracions de reunions i jornades tècniques. A partir d'estos treballs, eixa participació, hem elaborat un document de metes i propostes de l'estratègia territorial que el president presentà a finals del 2009 i que està, en estos moments, en fase de participació social i avaluació ambiental. Se tracta d'un document obert a tots els valencians, tots poden conéixer les nostres propostes i fer arribar tots aquells suggeriments per a millora pertinents.
+
+I també estem duguent avant una estratègia en totes les comarques de la comunitat, celebrant reunions en les quals s'invita els alcaldes i els agents socials d'esta. Per tant, senyor Sanmartín, en estos documents de l'estratègia territorial crec que és un compendi del que s'ha fet i del que se deu fer en un període de temps llarg, en el qual dissenyem tot el conjunt de la Comunitat Valenciana amb una previsió fins a l'any 2030.
+
+En eixe tema s'està treballant, i molt especialment, en València, Alacant, Elx i Castelló, en les seus àrees d'influència més pròxima, d'una forma molt especial, i que en els mencionats documents ho redacten de la manera apropiada.
+
+Per tant, què se vol? Doncs mantindre i consolidar un sistema urbà que siga ampli i divers; reforçar les relacions amb les grans àrees metropolitanes, amb les xarxes de ciutats mitjanes i amb la comunicació adequada en el sistema rural, i potenciar el paper dels distints nuclis en l'interior de les pròpies àrees metropolitanes. És dir que volem desenrotllar un territori que estiga equilibrat, basat en l'ús racional, en una eficiència del sòl, de l'aigua i de l'energia, i que contribuïsca a la millora de la qualitat de vida de tots els valencians.
+
+En este sentit, l'estratègia territorial planteja com a meta que la població que actualment viu en ciutats mitjanes, entre 20. 000 i 100. 000 habitants, que és el 40%, seguisca mantenint-se en un nivell en l'any 2030, i igualment que la proporció entre les poblacions que residixen en municipis de menys de 20. 000 habitants i a la que residix en les ciutats de més de 100. 000, se mantinga en un nivell actual durant els pròxims vint anys.
+
+Esta estratègia territorial proposa politiques i línies d'actuació, tant per a potenciar el desenrotllament de les grans àrees metropolitanes, com per a impulsar el creiximent de les àrees urbanes intermèdies, com Gandia, Elda, Petrer, Vinaròs, Benicarló, Sagunt, Xàtiva, Novelda, Alcoi, Alzira, les poblacions que tenim, grans o intermèdies, en la nostra comunitat.
+
+Per tant, el Consell està treballant en un projecte que jo crec que és un projecte ambiciós, crec que és un projecte important, un projecte que s'està donant a conéixer a tots els ajuntaments i a tots els agents socials i que és un projecte que, al nostre entendre, definirà o projectarà el que tots voldreu o, el que la immensa majoria de gent vullga, el que deu ser la nostra comunitat en una projecció fins l'any 2030 i, molt especialment, el que són les tres capitals -el cas concret d'Alacant, el nucli Alacant-Elx-, per un futur on la qualitat de vida siga un tema predominant en tot el desenvolupament d'allò que La Generalitat ha d'impulsar en les distintes àrees, des de l'àrea de vivenda fins a l'àrea de polígons industrials, transport o de qualsevol cosa que puga millorar -com deia abans- la qualitat de vida dels ciutadans.
+
+En això estem treballant i en això volem seguir avançant.
+
+Moltes gràcies.
+
+(Aplaudiments)
+
+La senyora presidenta:
+
+El senyor Sanmartín Besalduch:
+
+Gràcies, presidenta.
+
+Conseller, cinc notes he pres del que vosté ha dit en estos cinc minuts.
+
+A vore, jo li recorde que la Llei d'ordenació del territori i protecció del paisatge és del 2004, han passat sis anys. Vostés no han executat cap dels plans d'acció territorial, siguen de caràcter sectorial o no, que preveia la Llei d'ordenació del territori i protecció del paisatge. Però, com se pot estranyar que hui vinga a queixar-me aquí que dos dels plans d'acció territorials bàsics per a l'ordenació urbanística del servei territorial de dos de les principals àrees metropolitanes de la Comunitat Valenciana hagen desaparegut del mapa després de deu anys? No sé sap res. El que no val és que vosté me vinga aquí -per això jo he acabat d'esta manera, perquè pensava que me contestaria això- i que me diga «no, és que ara en lloc de pla d'acció territorial de l'entorn metropolità, siga d'Alacant o d'Elx, o siga de Castelló, ara li diem en l'estratègia territorial de la Comunitat Valenciana d'una altra manera». A mi, això, no me serveix, no me serveix, per què? Perquè mentrestant anem embolicant la troca fem plans d'acció territorial de caràcter metropolità, de caràcter sectorial, del que siga. Estratègia territorial de la Comunitat Valenciana?
+
+L'administració pública valenciana està permetent un desgavell brutal del territori en la nostra comunitat. Li comentava el pla Rabassa com exemple il·lustratiu. És que no m'ho invento jo, conseller. El pla Rabassa és justament el contrari del que diu el Pla d'acció territorial de l'entorn metropolità d'Alacant i Elx, justament el contrari -ja li dic.
+
+Per tant, ara, deu anys més per a l'estratègia territorial de la Comunitat Valenciana -deu, que em portaven abans, 20- i d'ací 20 anys, quant estarà tot socarrat, quan no quedarà res, arribarem a les últimes conclusions. Per tant, això és el que li critique jo.
+
+Mire, com pot parlar -segona qüestió- de participació pública? El que li demano jo és una cosa tan coherent. -no li demano la lluna-, el que li demano jo és que la participació pública siga en la fase inicial de la formulació dels objectius; si no, no val per a res. Si vosté me dóna una cosa feta i després me diu: «Afegisca els punts i la coma que m'he deixat», allò no val per a res. Si realment vol una participació pública d'acord amb la
+
+governança
+
+territorial i urbanística pròpia de la Unió Europea, el que vosté m'ha de permetre és que jo puga formular objectius com a alcalde d'un ajuntament, com a regidor o com a ciutadà, però el que no me val és que vosté m'ho done fet i que me digue: «Ara afegix la coma i a la millor t'afegisc mitja línia. » Això no és participació pública seriosa, sobretot, perquè estan vulnerant el que és el principi bàsic de qualsevol ordenança urbanística moderna i contemporània, que és el principi de participació. Segona qüestió que li conteste.
+
+Tercera. Jo li demano quatre coses molt senzilletes, quatre coses. Per què no arriba a un acord, amb aquest grup parlamentari, de planificació territorial i urbanística que seguisca quatre regles mínimes? Mire si li demano, quatre regles mínimes: desenvolupament sostenible, primer; cohesió territorial, segon; participació ciutadana, tercer, y, transparència administrativa, quart. Mire si és senzill, mire si és senzill.
+
+Vosté diga'm que ara seguirà estos principis i mos tindrà al vostre costat. El que no pot ser és que no fem res, que anem embolicant la troca, que si allò, que si l'altre, i després fan, justament, el contrari. I després passa el que passa, diuen: «És que per culpa del socialistes valencians el nom de la Comunitat Valenciana està tremendament malbaratat a nivell de la Unió Europea. »
+
+Me'n recorde quan fèiem la llei urbanística valenciana, estava de portaveu de Medi Ambient, i jo li deia: «No passarà un o dos anys que a través de la llei d'acompanyament de pressupostos anirem canviant la llei urbanística valenciana. » Doncs, passa el mateix aquí.
+
+Per tant. Clar que sí. No, i ha passat això i el senyor Blasco era conseller, aleshores d'Urbanisme, i jo era portaveu i me se'n reia -recorde-. «No, que durarà molt anys», tants anys que n'ha durat un any i mig o dos.
+
+En definitiva, i acabe, la proposta que li faig és tan senzilla que, deixen d'embolicar la troca, i ordenen, definitivament, el territori, establisquen, diguen-li com vullga, pla d'acció territorial de caràcter sectorial, estratègia territorial de la Comunitat Valenciana, com siga, però ordenem d'una vegada el nostre territori, independentment de les formacions polítiques que puguen governar en La Generalitat, en les diputacions, o en el ajuntaments, aixina de senzill. I que seguisca quatre principis.
+
+La senyora presidenta:
+
+El senyor Sanmartín Besalduch:
+
+. -i acabo presidenta- quatre principis: participació ciutadana, transparència administrativa i cohesió territorial.
+
+Gràcies.
+
+(Aplaudiments)
+
+La senyora presidenta:
+
+El senyor conseller de Medi Ambient, Aigua, Urbanisme i Habitatge:
+
+Jo, la veritat és que si no donar participació a la gent és el fer un projecte, el exposar-lo en els ajuntaments, on cada u puga suggerir aquelles coses que crega oportunes per a millorar-ho, el donar eixa participació, no solament als ajuntaments, sinó a tota la gent social que se convoca en cada una de les comarques, doncs poden haver altres maneres possibles, però jo crec que eixes maneres són les maneres perquè tot el món s'assabente d'allò que s'està fent i que, per tant, si té idees i vol millorar-les se poden rebre eixes idees i, igual, els grups parlamentaris -com no podia ser d'altra manera.
+
+Mire, vosté diu que és que no hem fet res ací en els últims anys. Aleshores jo li recorde coses que s'han fet, o estan fent-se en l'actualitat. Per exemple, en Alacant: la segona circumval·lació d'Alacant, les rondes de la circumval·lació d'Elx, la xarxa del tramvia d'Alacant i el tram Alacant-Altea, la zona logística d'Alacant, la incorporació del pla general d'Alacant en l'àrea
+
+(inintel·ligible)
+
+. en el parterre, l'espai científic d'Alacant i Elx, el desenvolupament de la Vía Parque d'Alacant a Elx com eix de la integració dels dos nuclis de l'entorn metropolità, el corredor d'innovació Elx-Alacant que s'està desenvolupant entorn a la Vía Parque, regeneració ambiental i paisatgística del passeig de Calabarda, l'ampliació de la IFA, l'actuació de la regeneració i millora paisatgística de la serra Grossa i de l'Albufera.
+
+En l'àrea de Castelló: el tram de Castelló, el port de Castelló, l'aeroport de Castelló, la regeneració de la platja del Pinar, el bulevard de Benicàssim, el parc logístic de Castelló, la prolongació de l'autovia de la Plana fins a Catalunya, el bulevard d'Onda inclou el pla general, el bulevard de Castelló-Grao, el parc litoral de Borriana-Arenal, l'ampliació del port de Castelló, el parc científic de la UJI.
+
+Bé, i el llistat de València podriem seguir-lo exactament igual. Per tant, pense jo que este govern ha estat fent coses, i tenim clar que seguirem fent-les, doncs, jo no sé fins quin any. Fins que l'electorat mos done la confiança, però idees i propostes les tenim clares i si, vostés creuen oportú donar idees i suggeriments per a millorar, seran molt ben benvingudes i arribarem als acords que siguen pertinents.
+
+Moltes gràcies.
+
+(Aplaudiments)
+
+La senyora presidenta:
+
+Moltes gràcies, honorable conseller.
+
+Se suspén la sessió fins demà a les deu del matí.
+
+(La senyora presidenta colpeja amb la maceta)
+
+(Se suspén la sessió a les 18 hores i 45 minuts)
+
