@@ -1,0 +1,614 @@
+Comissió de Sanitat i Consum realitzada el dia 3 de desembre de 2013. Comença la reunió a les 10 hores i 40 minuts. Presideix la diputada senyora Esther Mártires Franco Aliaga. Reunió número 23.
+
+La senyora presidenta:
+
+(El secretari passa llista per tal de comprovar si hi ha quòrum)
+
+Proposició no de llei sobre la unificació del sistema informàtic de tota la gestió sanitària, presentada pel Grup Parlamentari Compromís (RE número 62. 560, BOC número 187)
+
+La senyora presidenta:
+
+La senyora Oltra Jarque:
+
+Moltíssimes gràcies, senyora presidenta.
+
+Bon dia, senyories.
+
+Este és un tema del qual ja hem parlat ací. Açò va ser també objecte d'una compareixença del conseller, d'una petició de compareixença al conseller sobre la qüestió del sistemes informàtics en el sistema sanitari, els diferents programes, el desgavell de la desconnexió entre els centres gestionats per empreses privades i els gestionats per empreses públiques.
+
+Nosaltres entenem que si les decisions s'adoptaren en interés general, i del bon funcionament dels serveis públics, no haguera segut mai necessari arribar a proposar una cosa que els efectes pràctics resulten evidents. I el que resulta pràctica inversemblant és que tingam d'aplegar a proposar açò des de l'oposició, i és la unificació dels múltiples i molt costosos programes informàtics en este moment encara inconnexos.
+
+El més famós és l'Abucasis, que ara sabem que el va gestionar l'empresa del senyor Tauroni, amic del senyor Blasco. Amb el seu govern, sempre tot acaba en algun conseller i tot acaba fent un poquet de mala olor.
+
+Notícia del Levante: «Dimensión Informática, l'empresa adjudicatària de l'Abucasis en 2007 i 2008, va condicionar la subcontractació de la firma de l'empresari pres pel cas de les ONG, Augusto César Tauroni, al fet que la Conselleria de Sanitat li donara un concurs d'1,6 milions d'euros. »
+
+És a dir, sembla ser que les prioritats a l'hora de contractar les empreses adjudicatàries també en el tema informàtic no han anat tant per la qualitat i els seus coneixements en l'àmbit de la informàtica, sinó més bé per altra cosa.
+
+I de fet, este programa ha donat i dóna múltiples problemes de funcionament, segurament perquè en lloc de pensar en l'eficàcia, es van adoptar les decisions pensant en qui treia partit i quin partit treia partit.
+
+La proposta de hui pretén corregir les deficiències de la gestió i reparar els danys causats. Es fa necessària una unificació del sistema informàtic de tota la xarxa sanitària.
+
+La manca d'interconnexió hospitalària i centre d'atenció primària i centre d'especialitats i hospital provoca la descoordinació i la duplicitat de proves diagnòstiques, augmentant la despesa.
+
+Mentres se fa la unificació informàtica completa, cal exigir als nous centres que opten pel sistema informàtic majoritari, l'Abucasis. Estem parlant òbviament dels centres de gestió privada que es neguen a emprar aquest sistema informàtic.
+
+Perquè, al nostre entendre, el que cal afavorir al màxim és la connexió entre els centres, de manera que el metge que entre en el punt de la xarxa que entre tinga l'historial mèdic i tinga a l'abast les últimes proves diagnòstiques d'un pacient i la medicació que estiga prenent i tot el que siga rellevant medicament d'eixe pacient. L'objectiu, òbviament, és avançar a un sistema integrat de salut públic.
+
+Cal desenvolupar els primers passos per a avançar cap a un sistema d'informació integrat que comprenga els sistemes implants i els que ho estan sent: conjunt mínim de bases de dades, indicadors de costos -com GRDS en hospitalària i APGS en primària-, sistemes de prescripció vinculats a la recepta electrònica i a l'Abucasis en atenció primària -ineficient totalment pel consum excessiu de temps que precisa. Alguns ja diuen que el personal sanitari ha de passar més temps davant la pantalla de l'ordinador que davant el pacient. I això no sembla una bona idea. A més, que tampoc funciona en valencià. I Orion en atenció especialitzada.
+
+La conselleria ha de posar a l'abast de tots els professionals que tinguen relació amb la salut de les persones un sistema d'informació i de gestió de ciutadans-pacients eficient, intuïtiu, en valencià, descentralitzat però intercomunicat, basat en el concepte de la història clínica electrònica única, alimentada per múltiples i diverses aplicacions federades.
+
+Hem de tendir cap que les diferents branques del sistema d'informació aprenguen a dialogar entre elles i se convertisquen en un autèntic sistema integrat de formació.
+
+Facilitar les tecnologies d'ajuda a l'accés de guies de pràctica clínica i guies farmacoterapèutiques també ha de ser un dels objectius a complir per un sistema informàtic.
+
+La integració i la creació de sistemes d'informació en cada unes de les àrees i nivells del sistema s'ha de realitzar a partir d'estratègies, del consens i incentivació dels diversos professionals i gestors, estant els recursos tecnològics sempre al servei d'aquella visió.
+
+La ficada en marxa del sistema informàtic d'algoritmes en contra del criteri mèdic també és una errada.
+
+La Generalitat hauria de construir una base de dades amb indicadors d'activitats, indicadors d'utilització, qualitat, eficiència i resultats de salut, on es mostren els diversos indicadors, persones i unitats del sistema, pública i accessible.
+
+Per això, nosaltres en la nostra proposta el que plantegem és el següent:
+
+Acordar la unificació del sistema informàtic de tota la gestió sanitària, inclosa la connexió entre hospitals i atenció primària i especialitzada, de manera que la informació dels pacients siga accessible des de qualsevol punt del sistema sanitari públic autoritzat, executant totes les accions necessàries per assolir esta finalitat.
+
+Incloure en esta xarxa informàtica totes les proves diagnòstiques que hagen estat sufragades amb diners públics, mitjançant concerts, plans de xoc, etcètera, de manera que aquestes siguen accessibles des de qualsevol punt del sistema sanitari públic autoritzat.
+
+És a dir, si algú en un pla de xoc es va a fer alguna prova diagnòstica en una clínica privada, esta no és raó perquè…, que siga en la clínica privada no és raó perquè eixa prova no estiga dintre del sistema, a l'abast dels professionals que vullguen entrar dintre de la xarxa pública a vore quines proves s'ha fet eixe pacient, perquè eixes proves s'han pagat amb diners públics. I, per tant, no poden ser únicament utilitzades o sabudes per eixa clínica privada que les haja realitzat, perquè, com dic, s'han sufragat amb diners públics.
+
+I així mateix, incloure les proves diagnòstiques realitzades en la xarxa sanitària privada, incloses les no sufragades amb diners públics, sempre que aquestes hagen implicat radicació als pacients.
+
+És a dir, fins i tot aquelles proves que s'hagen fet en les clíniques o hospitals privats que impliquen radiació, han d'estar a l'abast de la xarxa sanitària pública. ¿Per què? Perquè l'excessiva radiació en un pacient pot tindre conseqüències de salut en eixe pacient. I, per tant, per una qüestió de salut pública, les proves que impliquen radiació, encara que no hagen estat sufragades amb diners públics, també haurien d'entrar en aquesta…, en aquest sistema informàtic general.
+
+Esta és la proposta que nosaltres entenem que és del més raonable, sobretot si tenim en compte els diners que ja s'han gastat en intentar muntar esta xarxa pública informàtica, amb l'èxit més que qüestionable que ha tingut i, per tant, l'eficiència més que qüestionable. I nosaltres plantegem que d'una vegada per totes s'assolisca un sistema unitari, com dic, accessible des de qualsevol punt de la xarxa i en els termes que hem plantejat i que hem explicat en esta moció, en esta proposició.
+
+Moltes gràcies.
+
+La senyora presidenta:
+
+La senyora Albiol Guzmán:
+
+Gràcies.
+
+Bé. És evident que el sistema informàtic de la sanitat valenciana necessita millores. I jo crec que moltes de les millores que necessita el nostre sistema informàtic vénen apuntades en aquesta proposició no de llei, especialment pel que fa al tema de la coordinació entre primària i especialitzada, pel que fa al tema de les millores en l'Abucasis, que no sols és que les demanem des de l'oposició, sinó que, fonamentalment, i el que és més important, les estan demanant els professionals sanitaris, que en moltes ocasions ja han manifestat que dediquen més temps del desitjable a fer els processos que tenen de fer en l'Abucasis. I en un moment on només tenen cinc minuts per pacient, realment tot el temps que li dediquen a l'ordinador és temps que li lleven a tot el que és l'exploració i el diagnòstic del pacient. I, per tant, estan demanant eixes millores els professionals.
+
+Jo crec que cal… Nosaltres des d'Esquerra Unida recolzem eixes peticions de millora de l'Abucasis i també eixa exigència d'aquesta proposició no de llei, que aquelles centres que siguen de gestió privada, però sufragats amb diners públics utilitzen els mateixos sistemes. Jo crec que és una proposta de caixó. I és que la informació d'un pacient siga accessible des de qualsevol punt del sistema sanitari públic. Jo crec que és l'ideal, és el que seria més convenient. I per això anem a recolzar aquesta proposició no de llei.
+
+I els altres dos punts, el punt b y c, el que parla que qualsevol prova que haja segut sufragada amb diners públics, encara que s'haja fet en una clínica privada, també ha de ser accessible, i el que evidentment quan una persona se fa una prova que implica radiació aquesta també siga utilitzada per la resta i que no se li tinga de repetir, ens semblen realment dos punts interessants, ens semblen dos punts justos. I per això anem a recolzar aquesta proposició no de llei.
+
+Res més.
+
+La senyora presidenta:
+
+La senyora Valero Ferri:
+
+La senyora presidenta:
+
+La senyora Martínez Tarazona:
+
+Pero, señorías, les he de explicar también al respecto algo que es sumamente importante para entender el tema que estamos hablando. Un sistema de información es el conjunto de elementos orientados al tratamiento y administración de datos e información, organizados y listos para su uso posterior, generados para cubrir una necesidad u objetivo.
+
+Abucasis está formado por diversos sistemas de información perfectamente interrelacionados y conectados. Entre otros, forman parte de Abucasis el SIA, el Gaia, (ininte l·ligible) . , el Resi, el . (ininte l·ligible), el SIA, etcétera.
+
+En una segunda premisa, instan a la Conselleria de Sanitat diciendo que ha creado distintos sistemas informáticos para la atención primaria, hospitalaria, urgencias y emergencias de los sistemas centrales y salud pública. Mire, consecuencia del error conceptual de sistema informático versus el sistema de información como les acabo de explicar, es lógico que se pueda llegar a dudar de los distintos sistemas informáticos que tenemos implantados. El todo en uno, señorías, no existe, ni creemos que podamos llegar a verlo en sistemas de información y, mucho menos, en el ámbito. el cual aquí estamos tratando, el sanitario.
+
+En una tercera premisa instan diciendo que los profesionales han de manejar múltiples sistemas informáticos inconexos como son Abucasis I, Abucasis II, Iris, (ininte l·ligible) . , etcétera, y ustedes dicen que la mayoría de estos programas no se comunican entre sí ni comparten información y que esto hace que sea una descoordinación y que sea inviable para un mejor aprovechamiento de los recursos. Mire, señoría, es normal que los profesional manejen múltiples sistemas de información, pero su número no es tan amplio como se indica aquí, en la premisa que ustedes han plasmado en la proposición no de ley, ya que todos pertenecen a ámbitos asistenciales o no asistenciales completamente distintos.
+
+Mire, deberíamos de saber que Abucasis I es un sistema de información que dejó de existir en 2006; que Abucasis II son los sistemas de información de ámbito ambulatorio extendidos principalmente en primaria, ya que cubre a la perfección los procesos asistenciales de primaria; que Iris o (ininte l·ligible) . son los sistemas de información hospitalario, solo existe en cada hospital de la Agencia Valenciana de Salud; el SIR es el sistema de información de informado en radiodiagnóstico que está bajo el servicio de radiodiagnóstico de los departamentos de salud. Y así así les podría ir relatando cada uno y a qué departamentos pertenecen, pero, por tiempo, lo dejaré de relatar.
+
+La senyora presidenta:
+
+La senyora Oltra Jarque:
+
+Sí, molt breu, perquè crec que no. , quan algú nega la realitat d'una manera tan palmària, és difícil argumentar, ¿no?
+
+Jo, mire, que no siga possible fer un sistema informàtic on els historials, medicacions i tota la informació sanitària rellevant d'un pacient estiguen a l'abast en qualsevol punt de la xarxa primària especialitzada i hospitalària de qualsevol personal mèdic que tinga d'accedir-hi, que això siga impossible, jo, ¿què volen que els diga? (Veus) O siga, estem en una era on enviem robotets a Mart, ¿eh? , aterren allí, agarren pedretes i coses, les analitza, envien fotos, i vostés me volen dir a mi que podem enviar un robot a Mart i no podem tindre un sistema informàtic pel qual un metge, una metgessa, entren a l'historial del pacient que. , de la persona que tenen davant i vegen la informació rellevant, i que siga àgil i que ni tinguen d'estar una hora davant de la pantalla i que no se penge i que se comuniquen amb primària i amb. ¿Vostés me volen dir a mi que això és impossible? Això no és impossible, la que passa és que s'ha de tindre voluntat política, la que passa és que s'ha de contractar empreses no perquè siguen els amics de Blasco, sinó perquè sàpiguen fer les coses, que és el que vostés han prioritzat.
+
+Jo no reconec que vostés han fet un gran esforç, jo el que dic és que s'han gastat molts diners des de La Generalitat, que s'ha realitzat un esforç econòmic, però que eixe esforç econòmic no se correspon amb els resultats, perquè, ací, eixos diners. , açò és un altre d'eixos forats negres, que els diners, en comptes d'haver anat a un programa eficient, han anat, doncs, a on tots sabem que han anat, a les butxaques d'algú, ¿eh? , molt ben relacionats. I, per tant, vosté ara va i explica al món. , (remors) vostés ara van i expliquen al món que no és possible això que estem demanant, que és una cosa tan senzilla com obrir l'ordinador i dir «ací tinc Pepe Pérez Pérez», a vore Pepe Pérez Pérez, Pepe Pérez Pérez tal dia va estar hospitalitzat, té esta operació, se pren esta medicació i té este diagnòstic. ¿I això me diuen que és impossible? . Home, en una cosa tenen raó, amb el govern del Partit Popular és impossible, perquè porten vostés quasi vint anys i no han segut capaços. , i encara s'escuden que és «que açò. ¡fa vint any! » ¡Clar! , vint anys que porten vostés en el govern, i encara s'escuden no sé de quines herències, ¿eh? , no sé de quines herències.
+
+Aleshores, facen vostés el favor, efectivament, és impossible amb vostés al front, perquè la seua prioritat, per descomptat, no és l'eficiència, almenys aixina ho han demostrat durant els vint últims anys que han governat, i, bé, i en tot cas, se farà perquè tecnològicament és possible, se farà quan tingam un govern en este territori que antepose els interessos dels ciutadans als interessos propis.
+
+Moltes gràcies.
+
+La senyora presidenta:
+
+La senyora Martínez Tarazona:
+
+Miren, senyories, les vuelvo a reiterar, si hoy tuviéramos que montar una nueva Conselleria de Sanidad, (veus) sería distinta en materia de tecnología, apostaríamos por la creación de unos sistemas de información totalmente distintos a los que tenemos en la actualidad, pero esto ha sido una adaptación, una evolución adaptativa. Empezar a construir de nuevo los sistemas, tirar todo lo construido, para llegar al objetivo que Compromís, en este caso, se marca, es imposible. Sí, señoría, es una irresponsabilidad por varios motivos: la extensión en el tiempo que ello implicaría, el coste económico y la falta de aclimatación del personal a los nuevos procesos asistenciales que aparecen en toda nueva puesta en marcha de un sistema de información conviviendo con los actuales.
+
+Y un pequeño apunte, señorías, una vez más ustedes dejan aquí la lazada de los amigos de conselleria. Les recuerdo, en la última comparecencia que tuvo el secretario autonómico en esta misma cámara respecto al sistema Orion, que la compañera doctora Masip les hizo ver a sus señorías la empresa contratada por la Conselleria de Sanidad pertenecía a Everis Health, y les recuerdo, como se les recordó aquí, que no ha sido contratada simplemente por la Generalitat valenciana, que también muchos servicios sanitarios de todo el ámbito nacional habían hecho uso de la misma, el servicio andaluz de salud, la Generalitat de Cataluña, salud de Madrid, salud de castilla y León, Xunta de Galicia, gobierno de Cantabria, etcétera, etcétera. Les hago memoria, porque eso también se demostró con datos en esta cámara.
+
+La senyora presidenta:
+
+Proposició no de llei sobre l'adopció de les mesures necessàries per a garantir la gratuïtat de la prestació farmacèutica i ortoprotètica per a les persones amb discapacitat, presentada pel Grup Parlamentari Compromís (RE número 62. 561, BOC número 187)
+
+La senyora presidenta:
+
+La senyora Oltra Jarque:
+
+Sí, gràcies, senyora presidenta.
+
+La veritat és que hui estem tractant temes que venim tractant des de fa molt de temps, ¿no? De fet, esta proposició no de llei és del 14 de febrer de 2013, la que acabem de debatre la presentàrem en novembre de 2012. Açò també dóna un poc una idea de l'agilitat a l'hora de debatre les propostes, perquè, clar, des de febrer fins ara ha passat molt de temps, ¿no? , i molt de patiment, perquè ací estem parlant. , miren, açò és la web del ministeri de sanitat, (soroll de papers) ¿eh? En esta web del ministeri de sanitat, l'enllaç que diu «Les claus de la reforma sanitària», «Las claves de la reforma sanitaria», es dóna compte d'un. , compte del nivell que pot aconseguir la senyora Mato, ¿eh? . , i el Partit Popular, en la mentira, l'engany i el frau, ¿eh?
+
+En concret, si punxen vostés l'enllaç trobaran el següent text: «Una sanidad gratuita. Con la reforma, el gobierno cumple su compromiso de no introducir el copago en la asistencia sanitaria. » ¡Això ho posa en la web del ministeri de sanitat! , ¿eh? , senyories, a dia de hui. Això ho anomenen una sanitat més justa: «La reforma establix un sistema més just, perquè ara es tindran en compte la renda, l'edat i el grau de malaltia dels ciutadans. » Això, a rengló seguit de dir que no s'introduïx el copagament, ¿eh?
+
+«També es mantenen les exempcions per a malalts crònics, discapacitats i afectats per la síndrome tòxica», una altra mentira. La decisió del Consell de deixar les persones discapacitades sense la prestació farmacèutica gratuïta ha suposat deixar sense medicació necessària milers de persones que han de triar, senyories, entre menjar o medicar-se. Ja sé que vostés van escarafalls, perquè vostés tenen una renda que els permetria menjar i medicar-se, però n'hi ha gent que no té eixa renda, i esta decisió ha segut denunciada com a il·legal pels afectats en relació a la Lismi, la llei d'integració social dels minusvàlids, que regula la dispensació de medicaments d'este col·lectiu en el seu article 13, i diu, assistència sanitària i farmacèutica del sistema de prestacions socials i econòmiques per als minusvàlid, article 13: «L'assistència sanitària i farmacèutica prevista en l'apartat 2. a de l'article anterior serà prestada pels servicis sanitaris del sistema de la seguretat social amb l'extensió, duració i condicions que reglamentàriament es determinen. Els beneficiaris del sistema especial de prestacions assistencials i econòmiques descrits en l'article anterior, estaran exempts d'abonar. d'aportació pel consum d'especialitats farmacèutiques. » Exempts.
+
+En el debat d'investidura. , Rajoy va afirmar: «És competència de les comunitats autònomes i són elles les que decidixen quants fons destinen a esta matèria. » És a dir, va posar la pilota en la teulada del govern valencià. , de tots els governs autonòmics, però, en el nostre cas, del Consell. I també, en resposta a la diputada Uxue Barkos, portaveu de Geroa Bai, va parlar de la llei de la dependència, i va dir el senyor Rajoy: «No és veritat que haja dit que la dependència no és viable. » I va assegurar que la seua voluntat és que siga la quarta pota de l'estat de benestar.
+
+De fet, el president del govern, el senyor Rajoy, va remarcar que tant la sanitat com la dependència eren prioritàries per al PP, però també va reconéixer que la situació econòmica dificultaria el treball, i per això seria el temps el que diguera si se podien permetre i què es podria fer.
+
+El temps, malauradament, el que ha dit és que ens podem permetre rescatar la banca, però que les persones amb discapacitat i amb dependència han de pagar-se els seus medicaments.
+
+En el cas valencià, fins la seua derogació, La Generalitat ha estat incomplint la Llei 8/2008, de Llei de dret de salut de xiquets i adolescents en la Comunitat Valenciana,, que en el seu article 20 arreplegava el següent. Perdó, fins a la derogació de l'Estatut del discapacitat va incomplir l'obligació de la prestació farmacèutica gratuïta per als menors de díhuit amb un grau de minusvalidesa a partir del 33% i del 65% per a majors de díhuit anys. I en el cas de la Llei 8/2008 està incomplint l'article 20 de drets específics, que és que La Generalitat assumirà gratuïtament la prestació farmacèutica dels menors, amb un grau de minusvalidesa igual o superior al 33%.
+
+La suma de la derogació de l'estatut, l'incompliment legal, més el repagament farmacèutic i ortoprotèsic han suposat la ruïna econòmica de moltes famílies valencianes, així com la ruïna moral en molts casos, perquè açò ha suposat un colp que difícilment és assumible per a un ésser humà. La norma per al material ortoprotèsic és la mateixa que per als medicaments i s'apliquen els mateixos percentatges de renda i pagament.
+
+El pagament avançat és un mecanisme de finançament de La Generalitat vigent des de 2010, és a dir, utilitzen els ciutadans com a bancs. De fet, la gent se queixa de l'incompliment dels terminis per a retornar els diners indegudament pagats, i a més de cada persona se queden un euro o cèntims que, multiplicat per tots, doncs ja saben, eh, tacita a tacita, doncs, van fent diners.
+
+I a això cal sumar els medicaments, excloure de la cartilla múltiples medicaments, que a més han multiplicat el seu preu des de llavors. La suma de les mesures del Partit Popular és un drama social. Els pares de xiquets amb discapacitats severes han passat de pagar zero euros pels seus bolquers, sondes i medicaments a abonar entre el 40 i el 50% del seu preu. Una dràstica mesura que ha vingut unida del retall brutal en la llei de dependència, que també ha decidit el Consell. Ja fa dies que estan pagant 2. 500 euros mensuals en medicaments i material que necessiten per als seus fills amb severa dependència.
+
+D'esta manera, les polítiques del Consell estan fent recaure les seues retallades sobre els més vulnerables i els més necessitats de l'estat social, i ho estan fent des de la il·legalitat i la mentida.
+
+Les associacions han fet un model de reclamació i una denúncia a fiscalia, però mentres moltes famílies s'estan arruïnant per a poder pagar els medicaments, i també tenim coneixement d'abandonaments de pautes de medicaments.
+
+Són més de tres mil persones afectades amb malalties greus i elevat gasto farmacèutic.
+
+La declaració dels drets de les persones amb discapacitat diu, en els seus articles 2, 3, 4, 5, 6, 7, 8, 9 i 10, que l'impedit té dret a les mesures destinades a permetre-li aconseguir la major autonomia possible. L'impedit té dret a rebre atenció mèdica, psicològica i funcional. L'impedit té dret a la seguretat econòmica i social, a un nivell de vida decorós. Té dret en la mesura de les seues possibilitats a obtindre i conservar una ocupació i a exercir una ocupació útil, productiva i remunerada i a formar part d'organitzacions sindicals.
+
+També l'Estatut d'autonomia, en l'article 10. 3, diu que en tot cas l'actuació de La Generalitat se centrarà primordialment en els següents àmbits: la no-discriminació i dret de les persones amb discapacitat i les seues famílies, a la igualtat d'oportunitats, a la integració i a l'accessibilitat universal en qualsevol àmbit de la vida pública, social, educativa o econòmica.
+
+I també l'article 13 de la Carta dels drets socials garantirà, en tot cas, a tota persona afectada de discapacitat, el dret a les prestacions públiques.
+
+Per tant, els drets estan clars, la pràctica és el que no està clara. Si a això unim a les últimes decisions també de copagament de medicaments hospitalaris, el drama ja té visos. , en fi, de pel·lícula de neorealisme italià, com a mínim.
+
+Nosaltres el que proposem està ben clar, i és que se complisca amb estos tres que estan establerts en l'ordenament jurídic i que tots els dies són conculcats i vulnerats. Que s'adopten les mesures i accions necessàries per a garantir la gratuïtat de la prestació farmacèutica i ortoprotèsica per als menors de díhuit anys amb un grau de minusvalidesa a partir del 33% i del 65% per a majors de díhuit anys a les persones amb discapacitat. I adoptar a més esta mesura a efectes retroactius, abonant als afectats el desembossament que hagen hagut de realitzar fins al dia d'avui.
+
+Creiem que és una proposta justa, creiem que és una proposta que ve a pal·liar el patiment d'un dels col·lectius més vulnerables de la societat i que és un dels col·lectius més necessitats de justícia i de dret social. I, per tant, demanem, òbviament, el recolzament d'aquesta proposta.
+
+Moltes gràcies.
+
+La senyora presidenta:
+
+La senyora Albiol Guzmán:
+
+Gràcies.
+
+Doncs sí, els qui aproven amnisties fiscals per als defraudadors, els qui tenen comptes en Suïssa, els amics d'Urdangarin, els de la Gürtel, els de Brugal, doncs estos són els mateixos que en desembre de 2012 van aprovar que les persones amb discapacitat han de pagar els medicaments. En una mà estan repartint diners per a banquers, per a corruptes, i amb l'altra fan que qui no té diners pague els medicaments.
+
+En la llei d'acompanyament els pressupostos de l'any passat, bé, de 2013, concretament l'article 160, van aprovar que suprimia el paràgraf segon de l'article 16, de la Llei 11/2013, d'1 d'abril, sobre l'Estatut de les persones amb discapacitat.
+
+I què dia eixe article 16 de l'Estatut del discapacitat? Doncs el que ja ha comentat la senyora Oltra, que La Generalitat garantirà el finançament gratuït per als productes inclosos en la prestació farmacèutica, el catàleg ortoprotèsic i les ajudes tècniques als malats menors de díhuit anys, amb un grau de minusvalidesa igual o superior al 33% i als majors de díhuit anys amb un grau de minusvalidesa igual o superior al 65%.
+
+Doncs bé, el Partit Popular en desembre de 2012 va condemnar les persones amb discapacitat del País Valencià a una pitjor qualitat de vida per a d'ells, per a d'elles i per a les seues famílies.
+
+En la llei d'acompanyament dels pressupostos, sense un debat específic, de tapadillo, sense donar la cara, com sol fer el Partit Popular tot el que fa, sense donar la cara i sense debat, li van llevar la gratuïtat dels medicaments i les persones amb discapacitat. I l'excusa va ser, i supose que ara després ho tornaran a dir, perquè és el que diuen sempre, que és que els obligava Madrid. El govern central els obligava i per això ho van fer. I això és mentida, i això és mentida, perquè no és veritat. I una cosa que no és veritat és mentida.
+
+Perquè no hi ha ni cap llei, ni cap reial decret que obligue a fer això, cap, cap. De fet el País Valencià és l'únic territori de tot l'estat que li va llevar la gratuïtat dels medicaments de les persones amb discapacitat. No hi ha cap altre territori de l'estat espanyol que ho ha fet.
+
+Clar, podíem pensar, no, és el que el govern central només obliga al País Valencià. Home! Només obliga al País Valencià? El govern central només mos obliga a mosatros? Bé, doncs no, eixa no és una realitat, ni ens obliga a nosaltres ni ens obliga a ningú, i per això la resta no ho hem fet.
+
+El que passa és que el Partit Popular de Fabra ha convertit al País Valencià en líder de la insolidaritat i en líder de la inhumanitat. Som líders en el retrocés de drets de les persones amb discapacitat. I, per tant, li haurem de donar al senyor Alberto Fabra la medalla de campió de la insolidaritat, perquè aquesta mesura està condemnant les famílies dels menors de díhuit anys a desembutxacar en molts casos quantitats absolutament desorbitades. Perquè són xiquets i xiquetes que en molts casos, per la seua discapacitat, necessiten cadires de rodes, crosses, necessiten evidentment molts més medicaments que la resta de la seua edat i sobretot aquells que tenen discapacitat psíquica, tenen moltes voltes associats determinats síndromes, que comporten també malalties físiques, ajudes tècniques per aquells que tenen ceguera, o sordera i un llarg etcètera.
+
+I del govern l'únic que troben és la porta tancada i fer-los la vida més difícil, que és el que està fent i al que s'està dedicant el Partit Popular: a fer la vida més difícil a la ciutadania, especialment les persones amb discapacitat. Sembla que és el seu objectiu i sembla que és el seu propòsit, fer la vida difícil, posar-los les coses més complicades del que ja les tenen.
+
+I, evidentment, per a les persones adultes, amb una discapacitat igual o superior al 65%, estem parlant de persones que tenen gran discapacitat, més del 90% d'eixes persones no tenen treball, gràcies, evidentment, a les nul·les polítiques que aplica el seu govern en matèria d'ocupació per a les persones amb discapacitat. La majoria d'aquestes persones viuen amb els pares, amb les mares, amb els germans, les germanes, estan cobrant pensions no contributives de menys de 400 euros. I ara, damunt, han de pagar pels medicaments.
+
+I a tot açò, evidentment, cal sumar el retrocés en l'aplicació de la llei de dependència, que ara també van a introduir el copagament. Com dic, tot va orientat a fer la vida més difícil als discapacitats, tot. Evidentment, espere que no siga per una qüestió que els agrada fer mal, perquè el que és, el que hi ha darrere, és que vostés tenen altres prioritats i que vostés han preferit donar-li els diners a altres i no a aquestes persones.
+
+Després, el Partit Popular els vorem quan arribe la campanya electoral participant dels actes de caritat, fent-se la foto. Els mateixos que després voten llevar-li la gratuïtat dels medicaments. I les persones amb discapacitat no volen la seua caritat, no volen la seua almoina, el que volen són drets, els drets que vostés els estan furtant. Volen tindre una millor qualitat de vida. I vostés els ho estan negant. I nosaltres, des d'Esquerra Unida, evidentment, recolzarem totes les voltes que faça falta aquest tema. Avui recolzarem la proposició no de llei de Compromís, igual que ho hem defensat sempre que ha fet falta i on faça falta.
+
+Gràcies.
+
+La senyora presidenta:
+
+El senyor Subías Ruiz de Villa:
+
+Como les he dicho en más ocasiones, no es cierto además, pues en el real decreto se recoge que quedarán exentos de aportación los usuarios y beneficiarios que pertenezcan a una de las siguientes categorías: a) afectados por síndrome tóxico y personas con discapacidad en los supuestos contemplados en su normativa específica.
+
+Pero todo esto se agrava más dado que a este copago a discapacitados y dependientes se unen otros: transporte sanitario no urgente, dietas terapéuticas, previsiones en tratamientos de oxigenoterapia y ventiloterapia domiciliaria, rebajas en la aplicación de la ley de la dependencia, incumplimientos de pago de la retroactividad, medicamentos de uso habitual que les han quitado la prestación, la cobertura, como pomadas antiescaras para las úlceras, colirios, mucolíticos de uso habitual en estas personas.
+
+Están ustedes excluyendo a los más desfavorecidos del sistema. Están excluyendo a los más desfavorecidos de esta sociedad. Les están quitando el derecho a una vida digna.
+
+Les pedimos una vez más, les pido que voten a favor, en este caso, de esta proposición no de ley por dignidad, por respeto y por justicia social.
+
+La senyora presidenta:
+
+La senyora Amorós Granell:
+
+Aquí, de verdad que oyéndoles a ustedes… Aquí alguien ha dicho que se mentía. No es que se miente, es que se falta a la verdad. Se falta a la verdad, y las personas que han intervenido lo saben perfectamente. No es cuestión de insumisión. Aquí no es que tengamos que ser insumisos. Es que aquí, como vienen saben ustedes…, pero lo que no les interesa no lo dicen, lo que no les interesa no lo dicen.
+
+¿Ahora qué quieren, que seamos insumisos, que seamos insumisos y digamos a la ley que no? O sea, a ustedes cuando les interesa es fraude de ley y cuando no les interesa insumisión. Pues, mire, una ley estatal es superior, sí, señora Albiol, (la senyora Albiol parla amb el micròfon desconnectat)… Perdón, señora Albiol, cuando usted ha hablado…
+
+La senyora presidenta:
+
+La senyora Amorós Granell:
+
+La senyora presidenta:
+
+La senyora Amorós Granell:
+
+Y yo, para que digan que no les doy datos sobre el tema y hable de otras cosas, le voy a dar unos datos, que esos sí que son reales y además los pueden ver ustedes porque están en la Conselleria de Sanidad, nada más tienen que verlos ustedes, simplemente.
+
+Y no me quiero olvidar de lo de los pañales, porque ustedes dicen que se pagan. No es cierto. No. Se les da en su centro de salud y no hay ningún tipo de aportación. Se dispone de la entrega directa de pañales a través de los centros de salud, iniciada en 2002. Y ustedes están diciendo aquí que se están pagando. Mienten una vez más. No se están pagando los pañales. Se les dan en los centros de salud, como no podía ser de otra manera.
+
+La senyora Oltra Jarque:
+
+Sí, mire, «¿tiene sentido que un enfermo crónico viva gratis del sistema? », Patricia Flores, viceconsejera de Sanidad de la Comunidad de Madrid. Clar, no m'estranya que després en la xarxa hi haja gent que pregunte si té sentit que estem governats per esta gentola -literal, eh! , jo me vaig dedicar a retwittejar-ho.
+
+¿Tiene sentido que tingam governants que mentixen obertament sobre les decisions que prenen? Perquè vosté sap perfectament, senyora Amorós, que la llei estatal no prohibix que se paguen els medicaments a les persones amb discapacitat. (Veus) Clar. Sí, si. , no, jo no me vaig a escarotar com vosté.
+
+Anem a vore, la llei estatal, llisca vosté l'article en què prohibix que les comunitats autònomes se facen càrrec dels medicaments de les persones amb discapacitat. On ho posa? Diga'm l'article. Llisca'l.
+
+Vostés manipulen dient que és la llei estatal qui els obliga. És mentida, i vosté ho sap. I, si és veritat, llisca l'article, llisca'l. No pot llegir-lo. Perquè vostés s'escuden i diuen: «No, és Rajoy. » Però és que Rajoy els ha deixat a vostés en el trasero a l'aire, perquè Rajoy ha dit, «esto es cuestión de la comunidades autónomas», i li he llegit exactament les declaracions de Rajoy. Rajoy: «Es competencia de las comunidades autónomas. Y son elles las que deciden cuántos fondos destinan a esta materia». És el govern valencià, és Alberto Fabra, són vostés que sostenen el govern que no volen fer-se càrrec dels medicaments dels discapacitats perquè pensen com esta senyora, com la senyora Patricia Flores, pensen que no tiene sentido que un enfermo crónico viva gratis del sistema. Perdone? Què? Gratis? Que no paguen impostos? Això que vostés parlen de gratuïtat. No és gratis. Ací tot el món paguem els impostos per a tindre serveis públics. Comencem per ahí. Comencem per ahí.
+
+Després, diuen vostés: «És que no saben el deute que hi ha en esta comunitat? ». Escolte! , vostés passaven per ahí? ¿Que vostés no saben el deute que vostés han generat per gastar-se els diners por su mala cabeza? Clar. Fan com en Canal 9: «Ai! , quin escàndol! Quin escàndol! Quin deute! ». Però qui ha desviat els diners? Qui ha pagat obres innecessàries? Qui ha encomanat aeroports per a vianants? Qui ha desviat els dinerets als seus amics? Si és que açò és un escàndol.
+
+¿No poden tindre un mínim, un mínim de sensibilitat? Ja no els demane empatia, els demane un mínim de sensibilitat i de correcció política, escolte! , encara que només siga. Pensen-ho, pensen-ho, en les seues cases: «Mira quina gent més abusadora! Están enfermos y se gastan el dinero de los contribuyentes. » Pensen-ho, però no ho diguen, escolte! , perquè això està lleig. Mire, als xiquets des de xicotets se'ls ensenya que no se diuen eixes coses tan lletges. Si volen, vostés ho pensen en sa casa i ho parlen, en el sopar de Nadal se diuen vostés eixes coses horribles que vostés pensen, però no ho diguen públicament perquè és lleig. És lleig culpabilitzar el malalt de la seua malaltia. És lleig culpabilitzar una persona amb discapacitat de la seua discapacitat. És lleig. La gent de bé no ho fa això. Això no se fa. Això quan un és xicotet li diuen: «Esto no se hace. » Això no se fa.
+
+I vostés, en les seues polítiques, s'entesten en culpabilitzar les persones majors per ser majors, els malalts per ser malalts, les persones amb discapacitat per tindre la discapacitat. I ja està bé, home! , ja està bé!
+
+Isquen al carrer, mos diuen a nosaltres. Vagen vostés, parlen amb la gent.
+
+Vosté creu que mosatros mos inventem açò? Açò mos ho diu la gent, amb tota l'angoixa que estan vivint. Famílies que estan vivint un calvari, calvari que vostés provoquen quan vénen ací a votar en contra de propostes d'estes o quan governen per a l'oligarquia i no governen per a la gent que està patint.
+
+Aixina és que ja està bé de donar-mos a nosaltres lliçons de què hem de fer. Que mosatros isquem al carrer? Vagen vostés a parlar amb les famílies. I no se creguen que se creuen el conte que Rajoy els obliga. És mentira i ho saben. Estan organitzats, estan en associacions. Què se pensen? Que tenen discapacitat i per això no s'enteren de res? Doncs, no. Tenen discapacitat, però s'enteren de tot.
+
+I sap vosté què? Un altre concepte de gratis. Gratis és el que no els eixirà a vostés les malifetes que estan fent. Perquè vostés van a pagar molt car el patiment que ara estan infligint a la gent.
+
+Gràcies.
+
+La senyora presidenta:
+
+La senyora Amorós Granell:
+
+Espero que se haya quedado usted a gusto con la que ha dicho. (La senyora Oltra parla amb el micròfon desconnectat) Bueno, pues, menos mal, menos mal. (Veus)
+
+Mire, yo si escuchara, si escuchara… (Veus) Bueno, y si no escucha, pues, me da exactamente igual, porque no escucha nunca, con lo cual no voy a pretender que escuchen hoy porque sería…, (la senyora Oltra diu: «Le estoy escuchando. ») sería algo raro y algo que no sería dentro de lo normal.
+
+Por lo tanto, si escuchara, le he dicho que había una norma superior. No le he hablado de ningún artículo. Escúcheme cuando le hablo, escúcheme. (La senyora Oltra diu: «Le estoy escuchando. ») No, no le digo ahora, le digo antes, cuando le hablaba antes.
+
+Y si quiere que hablemos de dependencia, también podemos hablar de dependencia, porque también estaba yo de concejal cuando se hizo la ley de la dependencia que también, también, les recuerdo, por si no se acuerdan ustedes, que se dejaba fuera a los niños con graves discapacidades de cero a tres años porque, según la izquierda, esos niños no tenían que estar contemplados. Gracias a gobiernos del Partido Popular, mal que les pese, esos niños se recogieron, con una enmienda en el Senado.
+
+Pero ustedes, para sacar un rédito político, que a mí, de verdad, me daría vergüenza… Es que me daría vergüenza utilizar a personas con discapacidad, utilizar lo que ustedes utilizan, a todo el mundo. Si es que les da igual. Si es que les da exactamente igual. Si con eso consiguen votos, pues, adelante, vamos a presentarlo.
+
+Mire, yo, si me da tiempo, si me da tiempo, le voy a decir, concretando con el tema… Y ahora vamos a hablar no de porcentajes, de personas. Mire, aproximadamente 6. 000 ciudadanos siguen con total gratuidad. 6. 000 ciudadanos, señora Oltra. Cerca de 16. 170 personas con discapacidad aportan un 10%, con topes mensuales de 8 y 18 euros. Hay que saber que la mayoría de medicamentos para personas con discapacidad son tratamientos crónicos, y por tanto la aportación es reducida, cosa que usted ya sabe. Y La Generalitat, aunque usted no se lo crea, es sensible a estas situaciones de estos ciudadanos. Ordenó la entrega de determinados productos en los centros de salud para mayor comodidad del enfermo o sus familiares. Caso como los lesionados medulares que ha hablado usted, espina bífida, se les da los absorbentes y los pañales directamente en sus centros de salud. No mienta, señora Oltra, se está haciendo. Yo no sé qué ganan ustedes con decir que no se les está entregando y que están pagando ese dinero, y que no podrán comer para tener que pagarlo. Es que faltan a la verdad, y yo creo que los ciudadanos de esta comunidad no se merecen el que ustedes les estén mintiendo de esa manera.
+
+Por eso, no les vamos a aprobar esa proposición no de ley. No porque ustedes piensen que a nosotros no nos preocupan los discapacitados, sino porque ustedes, una vez más, faltan a la verdad.
+
+La senyora presidenta:
+
+Proposició no de llei sobre el restabliment dels horaris i l'activitat de les unitats de transport sanitari urgent de SAMU i SVB, presentada pel Grup Parlamentari Esquerra Unida (RE número 64. 578, BOC número 194)
+
+La senyora presidenta:
+
+La senyora Albiol Guzmán:
+
+El Consell en general i la Conselleria de Sanitat en concret s'han convertit en màquines de retallar, de retallar en serveis públics, de retallar en assistència, de retallar en qualitat de vida. Les retallades de la seua conselleria, de la conselleria del Partit Popular, de sanitat, afecten a tots els nivells. Han retallat en atenció primària, han retallat en especialitat, han retallat en els hospitals, i han retallat també en urgències mèdiques i han retallat també en transport mèdic urgent.
+
+De fet, el mes de març de 2013 van entrar en vigor les reduccions en el transport sanitari urgent. Tres unitats de servei vital bàsic van ser eliminades, les situades en la Malva-rosa, Castelló de Rugat i Elx. 22 unitats de servei vital bàsic van passar de prestar servei vint-i-quatre hores a dotze hores, com per exemple en Ibi, en Villajoyosa, en Crevillent, en Bunyol, en Picassent. 10 unitats SAMU que prestaven servei catorze hores passaren a dotze hores. Esta és la realitat de la retallada que se va aplicar en març de 2013 i encara roman. Evidentment, retallar en transport mèdic urgent suposa posar en perill vides humanes, i és això el que està fent la Conselleria de Sanitat. La vida d'una persona no pot dependre de si una ambulància arriba un minut més prompte o més tard, i vostés amb aquestes mesures estan allargant eixos temps d'espera, els estan allargant. De fet, ens ha arribat ja de moltíssims llocs moltes queixes perquè les ambulàncies estan tardant entre trenta i quaranta-cinc minuts en moltes ocasions, quan el conseller de Sanitat es va comprometre que no serien més de vint minuts.
+
+Va dir que amb aquesta -ell no li diu reducció ni retallada, ell li diu reorganització, però bé-, en aquesta retallada va dir que ell assegurava que ninguna ambulància, ninguna unitat de transport mèdic urgent tardaria més de vint minuts en arribar al lloc, i no s'ha complit. I ja tenim moltíssims casos on dic que s'estan tardant trenta, trenta-cinc, quaranta i quaranta-cinc minuts en anar a atendre una urgència mèdica, i per això dic que estan vostés amb aquestes retallades posant en perill vides humanes. Perquè el Partit Popular pot controlar moltes coses. Amb la seua majoria absoluta pot controlar moltes coses. Pot controlar les Corts Valencianes, pot controlar tots els òrgans que depenen de Les Corts, pot controlar-ho quasi tot amb la seua majoria absoluta. Però no pot controlar a quina hora se posen malalts els valencians i valencianes. Això no ho poden controlar. Han deixat més de vint municipis sense la unitat de suport vital bàsic per les nits. Què van a fer després? Van a traure un decret prohibint a la gent que li agafe un infart a les tres del matí? Això és el que van a fer? Un decret perquè la gent no se pose malalta per la nit?
+
+Miren, la salut i la malaltia no responen als seus càlculs economicistes, no responen, no responen. Per la nit en Bunyol, o en Crevillent, o en Picassent, la gent continuarà necessitant, continua necessitant transport mèdic urgent, malgrat tots els seus càlculs. Malgrat això que fan de «pues aquí, como se usa poco, hay que trasladarla allí, y entonces quitamos este y ponemos, quitamos la de allí, quitamos la de allí, y dejamos una para diez pueblos». Malgrat els seus càlculs, és que això no funciona aixina. És que si a algú li ha de pegar un infart, li pega, per la nit, a les tres del matí, en un poble on vostés han llevat la unitat de servei vital bàsic.
+
+L'argument que vostés utilitzen, que és el que va dir el conseller, «es que es un recurso con baja actividad asistencial en horario nocturno». Eixe argument, que és el que utilitza el conseller, el que fa és castigar els pobles més menuts. Castiga els habitants de les zones menys poblades. Clar que sí, clar que una ambulància de l'Olleria o de Castelló de Rugat, o de Novelda, s'utilitza menys que una de València ciutat. Clar que sí, perquè tenen menys població, és que és normal. Però eixe no és un argument per a llevar-les. No, és que mire, com ací s'utilitza poc, perquè n'hi han pocs habitants, doncs anem a llevar-la. Però, eixe és un argument? No se pot deixar sense ambulància per les nits un poble, per molt menut que siga. O una comarca, que és el que estan fent. Deixant comarques sense servei. Les vides humanes han de tindre totes el mateix valor. Totes. Visquen on visquen. I hem de tindre la mateixa atenció, i hem de tindre una ambulància en vint minuts, visca on visca la persona. En València ciutat o en Crevillent, o en Novelda. Dóna igual. O en Morella, o en Forcall, ha de tindre una assistència sanitària. Tenim els mateixos drets, sigam d'un poble gran, o d'un poble menut, els hem de tindre. I vostés, amb aquesta mesura, tenen totes les comarques en peu de guerra, des del nord fins al sud. Des de l'interior a la costa. Tots en peu de guerra contra aquesta decisió que va prendre la conselleria el mes de març d'enguany, d'eliminar i reduir els horaris de les unitats de suport vital bàsic i de SAMU.
+
+En la zona de la Vila Joiosa, Guardamar i Crevillent, en Callosa del Segura, la Vega Baja del Segura, l'Olla de Bunyol, la zona de Bétera, en Ibi, en Novelda, en Sant Vicent, en Cullera, en Picassent, etcètera, etcètera, etcètera. Estan tots en peu de guerra. S'han organitzat fins i tot en plataformes per a demanar tornar a tindre les ambulàncies vint-i-quatre hores. I el que no anem a acceptar, i que crec que no és tolerable, és que se'ns diga que n'hi ha el mateix servei amb 103 unitats de suport vital bàsic amb dos de vint-i-quatre hores que les mateixes en dos de dotze hores. És que no és el mateix. No dóna el mateix servei una ambulància vint-i-quatre hores que una ambulància dotze hores, i això és de calaix. Per tant, no ens poden dir que és que tenim el mateix servei. Si n'hi han 22 unitats que han reduït de 24 a 12, no tenim el mateix servei. No el tenim. I si, a més, estem comprovant que els temps d'espera s'estan allargant i que n'hi ha gent que està esperant entre trenta i quaranta-cinc minuts una ambulància, no tenim el mateix servei, per molt que s'obstine el senyor conseller de Sanitat.
+
+Per tant, el que estem demanant és molt clar, és que se rectifique. Que se rectifique, que no se pot estalviar a costa de baixar la qualitat i de donar un pitjor servei, que no podem tardar més en donar la resposta a una urgència mèdica. Que se rectifique. És el que demanem en aquesta proposició no de llei. «Les Corts insten el Consell a restablir els horaris i l'activitat de les unitats de transport sanitari urgent de SAMU i de servei vital bàsic que patiren reduccions o eliminacions del servei al març de 2013. » Una rectificació, perquè no tot val, no tot val per a estalviar diners.
+
+No tot val per estalviar diners i, per tant, no poden pagar ara els malalts tot allò que vostés van malgastar en temps de bonança econòmica. No és possible que ara una persona haja d'esperar quaranta-cinc minuts una ambulància perquè vostés se van gastar els diners de les ambulàncies en els Ferrari. No és possible, i per això el que demanem és el vot favorable de tots els grups a aquesta proposició no de llei.
+
+Gràcies.
+
+La senyora presidenta:
+
+El senyor Ponce Guardiola:
+
+Frente a todo esto ha habido movilizaciones en los municipios afectados, en Picassent, en Tavernes de Valldigna, en Buñol. Ha habido recortes del servicio de atención médica urgente, del SAMU, en Paterna, Utiel y Oliva, que pasarán de catorce a doce horas. También se han producido cambios en las unidades de soporte vital básico, de manera que se eliminan cinco: Malvarrosa, Gestalgar, Castelló de Rugat, Chiva, L'Olleria y Navarrés. Y un total de ocho unidades pasan de veinticuatro a doce horas: Peset, Bétera, Cullera, Tavernes de Valldigna, Ayora, Moixent, Godella y Picassent.
+
+En la provincia de Castellón, con la reestructuración se produce la retirada del SAMU de Vilafranca, que pasará a depender del personal de helicóptero, que cuenta con una jornada de doce horas. Se verá también reducida así la atención en dos horas, porque actualmente el SAMU funciona catorce horas. Burriana, L'Alcora y Vila-real no tendrán soporte básico por la noche. Y, por otro lado, el servicio que atendía las poblaciones de Alcocebre y Vilafranca se ve reducido a un conductor y portacamillas, y el soporte básico estará en Sant Mateu, localidad que está situada a una hora y cuarto de las otras dos, de Alcocebre y de Vilafranca.
+
+Bien, todo esto no es más que el reestudio para ahorrar costes a costa de la salud de la gente. Y ustedes están eligiendo entre vivir y morir directamente. Porque aquí la actuación rápida es fundamental y, como vemos, a ustedes no les importa ir reduciendo y dilatando tiempos de reacción por intentar ahorrar algo. El helicóptero medicalizado cumple una función vital para salvar vidas, ya que en él los traslados interhospitalarios y los que se realizan en casos de accidente son mucho más rápidos que por la vía urbana, sobre todo cuando se habla de grandes distancias. Bien, pues el Consell ha reorganizado el servicio territorial y funcional de los helicópteros de la comunidad en el marco de una política de ahorro y optimización de recursos, y se ha suprimido el de Castellón y el de Alicante. En Valencia dicen que son helicópteros de gobernación.
+
+La senyora presidenta:
+
+El senyor Ponce Guardiola:
+
+La senyora presidenta:
+
+El senyor Subías Ruiz de Villa:
+
+La atención de urgencias es un pilar básico en el sistema sanitario que da seguridad a los ciudadanos. Ustedes este año se han cebado en la disminución de unidades de transporte sanitario de urgencia; inicialmente pensaron disminuir, las primeras medidas eran más fuertes todavía de las que tomaron después, dada la contestación que hubo, básicamente, por alcaldes y concejales de todos los colores políticos ante la querella que se les venía encima, no a ellos, sino a sus ciudadanos, y la propia respuesta política que hubo también, aquí, en las Cortes, pues ustedes las medidas que tomaron fueron inferiores pero importantes. En definitiva, han eliminado 3 unidades de soporte vital básico y han disminuido 20 unidades de veinticuatro a doce horas habitualmente afectando a horario nocturno.
+
+He recorrido municipios, he recorrido comarcas donde les están provocando todos estos problemas, y les puedo asegurar la indignación de los responsables públicos, sean del partido que sean, y, desde luego, de las personas que se pueden ver afectadas, sobre todo los enfermos y los mayores, en zonas como la Vega Baja, o como en Ibi, o como en Crevillent, o como en Buñol, o como en Sueca, o como en Picasent, entre otros, donde los tiempos de respuesta ante una urgencia nocturna se van a prolongar en tiempos superiores a lo razonable, como ya está ocurriendo. Les voy a poner el ejemplo de Picasent, podría poner cualquier, pero Picasent.
+
+La senyora presidenta:
+
+El senyor Ibáñez Gadea:
+
+La senyora presidenta:
+
+La senyora Albiol Guzmán:
+
+«Ajustar horarios, optimizar, reasignación de recursos y resituar unidades», són les quatre fórmules que ha utilitzat vosté per a no parlar de retallades, ¿no? Se veu que allò de les retallades en el manual eixe que els passen doncs ho tenen prohibit. Paraules que no se poden dir: retallades. Utilicen ustedes ajustar horarios, optimizar, reasignación y resituar. Doncs, bé, m'és igual, ens entenem nosaltres.
+
+I la ciutadania, a més, no és tonta, la ciutadania sap que si abans tenia una unitat de servei vital bàsic en el seu poble vint-i-quatre hores i ara la té dotze, doncs sap el que és, i sap que li han retallat en el transport sanitari urgent, li diga vosté com li vullga dir, la ciutadania sap el que estan fent.
+
+I, a més, el que vosté diu és que, a més, no és veritat perquè «resituar unidades» seria que de les 103 unitats de servei vital bàsic vint-i-quatre hores se quedaren les 103 les vint-i-quatre hores però alguna, doncs, en compte d'estar en un poble estiguera en el del costat perquè hem vist que la resposta des d'aquí és més ràpida. Però, ¡és que no és això! És que no tenim les 103 unitats les vint-i-quatre hores, és que no és una resituació, una reubicació o una reassignació, és que tenim 3 unitats menys, en tenim 22 de servei vital bàsic que han passat de vint-i-quatre a dotze hores i tenim 10 SAMU que han passat de catorze a dotze hores. Això no és resituar, això és retallar. I, per tant, estaria bé que utilitzàrem tots un vocabulari correcte en aquesta comissió, no és resituar, és retallar.
+
+I vosté diu, «¡home! , sí, clar, n'hi havia unitats que només feien trenta serveis al mes». ¡Ah! , és que són trenta vides a la millor, doncs sí, enfront de quatre-cents són menys, però dic jo que cada una de les vides serà important, siga d'on siga eixa vida, digo yo. Eixe no és un argument.
+
+I vosté diu, «es que, además, esos servicios no se dejan de hacer». ¡No! , evidentment, no se dejan de hacer, però abans tenien una resposta de deu o quinze minuts i ara té una resposta de trenta-cinc, quaranta o quaranta-cinc minuts. ¡Clar! , no se dejan de hacer, però és que tardar deu, quinze, vint o trenta minuts més en donar resposta, vosté sabrà millor que jo el que suposa; i suposa… ja no parle de si s'arriba o no s'arriba a temps, sinó que pot suposar que una cosa que poguera ser una qüestió lleu, se pot agreujar i pot tindre unes conseqüències molt pitjors per augmentar eixe temps de resposta.
+
+Per tant, no és un argument, que eixes s'utilitzaven poc per la nit no és un argument, perquè cada vida té el mateix valor, i, a més, no és cert. Vosté diu, «tenemos unas isocronas de respuesta que se sitúan de media en veinte minutos». Mire, és que no és cert, és que no és cert, és que coneixem ja massa casos de massa pobles de moltes comarques que ens estan dient que s'està tardant més de trenta minuts en atendre i en donar resposta.
+
+I vosté diu: «Hombre, será un caso aislado. » ¿Un caso aislado? Doncs, quina casualitat que mos han contat el mateix cas al senyor Subías, al senyor Ponce i a mi. Per a un cas que n'hi ha en el País Valencià, ¿i va i mos el conten als tres? ¡Home, per favor! ¿Un caso aislado? ¿Un caso aislado? Que jo me patege el País Valencià de dalt a baix, i que he estat en Crevillent i m'han dit el que estan tardant en Crevillent, i he estat en Bunyol, i he estat en Picassent, i he estat en els pobles d'interior de Castelló, i m'estan contant el que està passant i m'estan contant. , i un dia me conten que trenta minuts, i un dia me conten que trenta-cinc, i un dia que quaranta. A vore, no és un «caso aislado», per favor. No és un «caso aislado».
+
+No és un «caso aislado», és una cosa que està succeint al nostre país, i està succeint perquè el govern va decidir que un lloc d'on se podien estalviar quatre duros, perquè damunt l'estalvi tampoc és el no va más, era el transport sanitari urgent. I això és una temeritat, i això és una temeritat i és posar en perill les vides humanes i és fer que s'agreugen malalties que podrien no ser tan greus.
+
+I per això el que estem demanant és, primer, que assumisquen la realitat, que utilitzen un llenguatge adequat, que deixen de parlar de «resituación», i de «reasignación», i d'«optimización», i d'«ajustar», que utilitzen el llenguatge que toca, i és que vostés han retallat i que vostés siguen capaços de rectificar, de rectificar, perquè vosté ja ho ha dit, portem huit mesos amb aquesta mesura.
+
+Bé, doncs, jo crec que huit mesos és temps suficient per a comprovar que no, que no és efectiva. A la millor estalviar, estalvien, però no se pot estalviar a costa de tot. No val tot per a estalviar. Rectifiquen.
+
+Gràcies.
+
+La senyora presidenta:
+
+El senyor Ibáñez Gadea:
+
+La senyora presidenta:
+
+Proposició no de llei sobre la suspensió de l'aplicació de la Resolució de 10 de setembre de 2013, de la Direcció General de Cartera Bàsica de Serveis del Sistema Nacional de Salut i Farmàcia, mitjançant la qual s'introdueix el copagament dels fàrmacs que subministren als hospitals, presentada pel Grup Parlamentari Esquerra Unida (RE número 65. 479, BOC número 194)
+
+La senyora presidenta:
+
+La senyora Albiol Guzmán:
+
+L'altre dia, en el ple, parlant ja d'aquest tema, jo començava la meua intervenció dient que el Partit Popular, encara que no ho semble, sols porta dos anys governant en el govern central.
+
+I dia que encara que no ho semble, perquè en dos anys ho han desmantellat. , o estant desmantellant-ho absolutament tot. Tots els serveis públics de l'estat espanyol els estan desmantellant. I, concretament, l'atac en sanitat és un atac sense precedents i és un atac d'unes dimensions que realment ens fan retrocedir quaranta anys.
+
+Estem retrocedint en serveis públics, en drets democràtics, laborals, social. s'estan esvaint moltes de les conquestes de moltes lluites de la classe treballadora i, a més, s'està tocant tots els àmbits, educació, dependència, drets de les dones, sistema de pensió, política fiscal, etcètera, etcètera. No n'hi ha absolutament res que s'escape a la piconadora del Partit Popular.
+
+Com dic, en sanitat, la destrossa està sent gravíssima. L'última és eixa. , l'última proposta és eixa Resolució del 10 de setembre de 2013, de la Direcció General de la Cartera Bàsica de Serveis del Sistema Nacional de Salut i Farmàcia, per la qual es procedix a modificar les condicions de finançament de medicaments inclosos en la prestació farmacèutica del sistema nacional de salut mitjançant l'assignació d'aportació de l'usuari, és a dir, la resolució que introduïx el copagament per als fàrmacs que subministren els hospitals.
+
+L'aprovació va ser per sorpresa, perquè el dia d'abans la ministra, la senyora Mato, havia estat en una compareixença en el Congrés dels Diputats i va ocultar la intenció que tenia el govern de traure, a l'endemà, eixa resolució. I se va fer sense cap tipus d'avaluació del copagament o del repagament farmacèutic hospitalari i, per això, tot açò ha provocat un escàndol que està absolutament justificat.
+
+Les conseqüències del copagament farmacèutic, lluny de qualsevol dissuasió o lluny de tindre una rellevància recaptatòria, que no la té, les conseqüències, dic, poden ser dramàtiques, perquè s'acarnissa amb les persones més malaltes i amb les persones més cròniques.
+
+El copagament de la farmàcia hospitalària és una mesura pròpia d'un genocidi social. Ja ho vaig dir l'altre dia, és un genocidi social, perquè estan posant un impost a les persones malaltes, a les persones que tenen les malalties més greus, a les persones amb hepatitis o als malalts de càncer o als crònics. Realment és una mesura. , jo crec que és una de les mesures més inhumanes que s'han pres. Vull dir, és una mesura que va directament contra els que pitjor ho estan passant, directament contra ells.
+
+Ara, per a sostindre el sistema sanitari, no paga més qui més té i qui més guanya, que ha segut sempre la base del nostre sistema sanitari. És un sistema sanitari que se nodrix dels impostos que paga la ciutadania, uns impostos que malgrat que calen modificacions, però uns impostos que se suposa que són progressius, i qui més diners guanya i qui més diners té, doncs paga més i, per tant, col·labora més en el sosteniment del servei públic.
+
+¡Però ara no! Ara pagarà més qui més malalt estiga. Qui més malalt estiga, pagarà més diners per a poder ell comprar-se els seus medicaments en l'hospital. Per això diem que és una política absolutament perversa i és una política que assenyala les persones que tenen menys recursos i a les persones més desafavorides i, en este cas, a les més malaltes, a més.
+
+Nosaltres, des d'Izquierda Unida, vam presentar un recurs al ministeri contra el copagament de la farmàcia ambulatòria hospitalària, un recurs motivat per moltes. , n'hi han molts arguments. Jo vaig a exposar-ne alguns.
+
+Aquesta mesura té una falta de participació i aprovació en els àmbits de cooperació institucional. Aquesta mesura incomplix. , o l'aplicació d'aquesta mesura incomplix almenys l'article 71 de la Llei 16/2003, de 28 de maig, de cohesió i qualitat del sistema nacional de salut, perquè aquesta llei, en l'article 71, disposa que és funció del Consell Interterritorial del Sistema Nacional de Salut emetre recomanacions sobre els criteris generals de finançament públic de medicaments i productes sanitaris i les seues variables. És a dir, aquesta mesura no va passar per l'òrgan que havia de passar, que és el Consell Interterritorial del Sistema Nacional de Salut. I per això també s'han trobat amb l'oposició de moltes comunitats autònomes a aplicar aquesta mesura.
+
+A més, no se va a complir el preceptiu tràmit de consulta amb les societats científiques i associacions de pacients afectats. Evidentment, no ho van fer, perquè ja sabien que anaven a tindre un «no» rotund, tant de les societats científiques com de les associacions de pacients afectats.
+
+També diem en el recurs que no existix efecte dissuasori possible, ni objectiu de racionalització del consum farmacèutic, perquè se tracta de medicaments essencials per a patologies complexes, com l'hepatitis C, com tumors o com altres malalties cròniques.
+
+El seu argument que tot açò ho fan per a racionalitzar i per a optimitzar en l'ús dels medicaments no ens val. No ens val, perquè aquestes persones no prenen estos medicaments perquè volen, li'ls recepta un metge i, a més, van a adquirir-los, ara els hauran de comprar, perquè els hauran de pagar, en l'hospital. Vull dir, no se pot reduir d'ahí, no se pot racionalitzar, no se pot permetre que estes persones utilitzen menys medicaments, perquè estan utilitzant els que han d'utilitzar, els que toca, els que els recepten. Per tant, no n'hi ha efecte dissuasori possible amb aquesta mesura. I, a més, la recaptació és ridícula per l'import de milions d'euros que estem parlant.
+
+Estem parlant que només se recaptaran cinc milions d'euros, cinc milions. Per tant, és una recaptació que no. , que no se sosté esta mesura per la recaptació que puga implicar.
+
+I, després, també dubtem d'aquesta resolució perquè no s'aclarix si aquest és el primer pas per a estendre el cobrament a altres prestacions que puguen ser incloses en la cartera de serveis complementària, no sabem si aquest és el primer pas o se tracta d'un primer pas, un pla pilot per a l'aplicació de copagaments assistencials hospitalaris, podria ser això també.
+
+I, a més, també motivem el nostre recurs perquè no s'ha complit la llei general de salut pública, que, en el seu article 35, disposa que les administracions públiques hauran de sotmetre a avaluació d'impacte en salut les normes, plans, programes i projectes que seleccionen per tindre un impacte significatiu en la salut en els termes previstos en la mateixa llei.
+
+I no n'hi ha dubte que aquesta mesura té un impacte més que significatiu en la salut, i vostés o el govern central no ha fet eixe estudi perceptiu. Per tant, hi ha arguments més que de sobra per al que demanem en la nostra proposició no de llei. En la nostra proposició no de llei el que diem és que no s'aplique en el territori valencià aquesta resolució, per tots els arguments que hem dit: perquè resulta perillosa per als malalts, perquè hi ha malalts que no poden permetre's el pagar per eixos medicaments. I que un pacient amb hepatitis C o un pacient amb càncer no prenguen la medicació perquè no se la puguen pagar, és un genocidi social.
+
+Per això demanem que no s'aplique aquesta resolució en el nostre territori. Per això demanem que deixen de ser els més submisos de tot l'estat i per això demanem que li planten cara al govern central, li planten cara a la senyora Mato, que li planten cara al senyor Mariano Rajoy i que diguen no, que diguen no, que ací els malalts no van a pagar pels medicaments que arrepleguen de la farmàcia hospitalària. Diguen no, però diguen-ho alt i clar, alt i clar.
+
+Si vostés avui voten en contra d'aquesta proposició no de llei, la votaran i estaran dient que sí, que sí que van a aplicar-ho, perquè aquesta l'únic que diu és això, «no aplicar en el territori valencià la Resolució d el 10 de setembre de 2013».
+
+Per tant, si realment vostés estan en contra i no ho volen aplicar, voten a favor d'aquesta proposició no de llei.
+
+Gràcies.
+
+La senyora presidenta:
+
+El senyor Ponce Guardiola:
+
+Limitar el acceso a los medicamentos para retardar la progresión en cáncer de mama avanzado, como el Afinitor o el (inintel·ligible) . ; para tratar el cáncer de riñón avanzado o extendido a otros órganos, como Votrient. O para el tratamiento de tumores cerebrales, como Temodal, además de otros fármacos prescritos para leucemia, tratamiento de tumores malignos, artritis reumatoide, degeneración macular, etcétera, etcétera, etcétera. Esto es lo que nos ha legado de esta ministra.
+
+Pero los que más repagan son los de la tercera edad y los enfermos graves. Ellos son los que ahora también se les bajan las pensiones. Entonces, señores del Partido Popular, ¿esto es ideología o no es ideología? ¿Es o no es privatización? ¿Es copago o es repago?
+
+Es una privatización de la sanidad, y es totalmente injusto. El dinero que se está exigiendo a los pensionistas para pagar las medicinas a los enfermos crónicos, para sobrevivir, son los dineros que regalan la banca a fondo perdido, a la trama Gürtel para financiar sus campañas electorales llenas de mentiras. Son el dinero que no se recauda del fraude fiscal a las grandes empresas y a determinadas familias españolas. Es pura ideología neoconservadora del «sálvese quien pueda». Es privatizar la sanidad porque si parte del coste del servicio lo sufraga el que lo usa, es privatizar. Y su partido, el del gobierno, ha instaurado un impuesto indirecto a la enfermedad y a la vejez. Están privatizando la sanidad en contra de lo que quiere la mayoría.
+
+El Partido Popular ha decidido acabar con las fuentes de energía limpias, ¿eh? , y apostar por las sucias. Les importa un pimiento lo que tenga que respirar nuestros hijos y nuestros nietos. Les importa un pimiento lo que tengan que beber, lo que tengan que comer nuestros hijos y nuestros nietos, ¿eh? Porque con ese tipo de política solamente salen beneficiados cuatro y pierde toda la población, presente y futura. Y para Compromís es absolutamente perverso.
+
+La senyora presidenta:
+
+El senyor Subías Ruiz de Villa:
+
+Por todo ello, volvemos a mostrar nuestro rechazo frontal ante esta medida que supone un ataque a los derechos de los enfermos, que los castiga de forma indigna y que les hace más vulnerables.
+
+La senyora presidenta:
+
+El senyor Ibáñez Gadea:
+
+La senyora presidenta:
+
+La senyora Albiol Guzmán:
+
+Gràcies.
+
+Bé, diu el senyor Ibáñez que és que l'oposició ens dediquem a hablar mal del sistema. Bé, jo aleshores el que crec és que vosté no ha entés absolutament res no des de que ha començat esta comissió d'avui, sinó que no ha entés res des de fa molt de temps.
+
+Vaig a dir-li-ho claríssimament: no parlem mal del sistema, parlem mal del govern. ¿Està clar? Parlem mal del govern del Partit Popular. I parlem mal del govern del Partit Popular perquè no se pot parlar bé. No se pot parlar bé perquè el govern del Partit Popular, tant a nivell central com a nivell autonòmic, està fent unes polítiques que van en contra dels més malalts i dels que menys recursos tenen. I per això parlem mal del govern, però no del sistema.
+
+El sistema som nosaltres els que l'estem defensant. Defensem un sistema que funciona bé, que és eficient, i el defensem de les seues retallades, dels seus repagaments i de les seus privatitzacions, perquè són vostés els que s'estan carregant el sistema, són vostés els que estan en contra del sistema i en contra dels professionals. I el millor favor que li podrien favor al sistema sanitari valencià i de l'estat espanyol és que se n'anaren a casa, el senyor Alberto Fabra, el senyor Llombart, la senyora Mato, el senyor Rajoy i tots els seus governs, autonòmic i central. Que se n'anaren a casa, és el millor favor que li podrien fer al sistema sanitari valencià i de l'estat espanyol.
+
+I m'agradaria saber, perquè no ho ha explicat vosté, quin és l'objectiu perquè els malalts tinguen de pagar els medicaments que recullen en la farmàcia de l'hospital. ¿Quin és l'objectiu? ¿L'objectiu és que es mediquen menys? ¿És estalviar en medicament, és que se mediquen menys, és que el malalt de càncer o el d'hepatitis no agafe el medicament de la farmàcia hospitalària? ¿Eixe és l'objectiu? Perquè estaria bé saber-ho. ¿L'objectiu és eixe, senyor Ibáñez? Espere que després em conteste.
+
+O ¿l'objectiu és estalviar 5 milions d'euros? ¿L'objectiu és estalviar 5 milions d'euros? ¿De veres? ¿Estan fent aquesta mesura per a estalviar 5 milions d'euros? 5 milions d'euros és el que vostés se gasten en la propaganda de l'aeroport de Castelló en un any. ¡Per favor! Per 5 milions d'euros, que això és una ínfima part del que s'han quedat les butxaques de Brugal, de Gürtel o de Blasco. És una ínfima part. I ¿per 5 milions d'euros han de pagar els medicaments les persones amb càncer i els més malalts? ¿Però vostés no veuen que açò no té ningun trellat? ¿Vostés no veuen que estan castigant a les persones més malaltes…? I per favor, senyor Ibáñez, no se'n riga quan estem parlant d'un tema tan seriós. (Veus) Deixe vosté el paperet, ja el llegirà vosté després, però no se'n riga, que estem parlant d'un tema molt seriós. ¡Per favor! (Veus) Tranquil·la, no. És que no puc estar tranquil·la. Mire, senyora, no puc estar tranquil·la.
+
+La senyora presidenta:
+
+Senyora Albiol, por favor, no hable con el público.
+
+La senyora Albiol Guzmán:
+
+No puc estar tranquil·la quan estem parlant que n'hi ha gent que no va a poder medicar-se, que no va a poder prendre els seus medicaments, i estos senyors s'estan rient. No puc estar tranquil·la.
+
+I damunt diu que «con esto se consigue la equidad de todos los españoles». ¡Perdó, perdó! ¿La equidad de todos los españoles? ¡Però si a l'hora d'anar a arreplegar un medicament a la farmàcia de l'hospital pagarà el mateix pràcticament el senyor Botín que mon pare! Senyories. ¿què m'estan contant de la equidad de todos los españoles? La equidad, la igualtat, s'aconseguix mitjançant els impostos que se paguen segons la declaració de la renda, segons les propietats, segons és el salari. Ahí sí, perquè el que més té, paga més; el que menys té, paga menys. Però l'equitat no s'aconseguix quan tots van a pagar en la farmàcia de l'hospital. És que l'equitat no va per ahí i la igualtat no va per ahí. És que vosté no ho ha entés.
+
+És que tenim un sistema que nosaltres el defensem, perquè és un sistema just quan se finança mitjançant els impostos. I deixa de ser just des que vostés estan clavant mà en el sistema, ahí és quan deixa de ser just, i quan vostés comencen a posar totes aquestes desigualtats, quan s'ha de pagar, repagar pels medicaments en la farmàcia de l'hospital, quan s'ha de pagar…, o quan els discapacitats han de pagar pels seus medicaments, o quan els pensionistes. Ahí és quan comença a deixar de ser just el sistema, quan vostés claven la mà. Quan el Partit Popular clava la mà en el sistema sanitari és quan comença a deixar de ser just. Però nosaltres defensem el sistema sanitari públic com està, i el defensem de vostés.
+
+Gràcies.
+
+La senyora presidenta:
+
+El senyor Ibáñez Gadea:
+
+La senyora presidenta:
+
+El senyor Ibáñez Gadea:
+
+La senyora presidenta:
+
+Proposició no de llei sobre la implantació d'un servei de psiquiatria en el departament de l'Hospital General d'Alacant, presentada pel Grup Parlamentari Socialista (RE número 65. 766, BOC número 197)
+
+La senyora presidenta:
+
+El senyor Subías Ruiz de Villa:
+
+Por el contrario, los servicios precarios y poco atentos a las necesidades de los pacientes, favorecen la cronicidad y pueden conducir a desenlaces dramáticos. Las personas con enfermedades mentales y sus familias tienen necesidades complejas siempre a las que lamentablemente solo se les ofrecen soluciones simples. Una vez analizada la problemática de forma muy somera, evidentemente, no he podido. , el tiempo no permite otra cosa, sobre qué pasa con la enfermedad mental, vamos a ver qué pasa en Alicante.
+
+Ejemplos tales como el cierre del centro de día, que se trasladó al Hospital San Juan, en una zona que no reúne las condiciones, o la entrega de un edificio a la Asociación Pro Deficientes Psíquicos de Alicante, para la atención a personas con discapacidad intelectual, que ahora tiene difícil su puesta en marcha por la falta de recursos de la propia asociación. Es evidente que se podía hacer una mejor utilización de los recursos, desde el aprovechamiento, por ejemplo, del complejo Doctor Esquerdo, hasta utilizar los recursos de la diputación. Mientras los esté utilizando, debiera de haber. , debieran de realizarse convenios, pero yo les animo, ¿eh? , el señor Ibáñez una vez me dijo «hablen ustedes conmigo», pues, ya que usted se convierte en portavoz, yo le animo, ¿eh? , a que se realice un calendario de negociación en salud mental que garantice los medios técnicos, humanos, infraestructuras y de calidad.
+
+En segundo lugar, pedimos que se implante una unidad de hospitalización infantil separada de la de adultos. Les quiero recordar, como ya he dicho, que la única unidad de hospitalización infantil que existe está en Orihuela, y, como ya he comentado, es básico que estén cerca los niños y sus familias, que estén cerca, y es evidente. , y si la única de hospitalización infantil está en Orihuela, no están cerca. ¿Qué es lo que ocurre? Que cuando tiene que ingresar un adolescente, ingresa en una unidad de adultos, y eso, señoras y señores del Partido Popular, no es razonable.
+
+En sexto lugar, pedimos que se cree una unidad de atención temprana a pacientes con trastornos del espectro autista. Miren, el otro día estaba en Alicante, en unos premios que daban los colegios profesionales, y a una de las asociaciones que dieron el premio. , fue precisamente a la de los padres de niños afectados por enfermedad de. , por el autismo, padres con hijos con trastornos autistas. Allí fue la consellera de bienestar social, les dio el premio. Todo eso está muy bien, pero lo que les tienen que dar son recursos, lo que les tienen que dar son recursos, y, por lo tanto, esta unidad es necesario que se implante.
+
+La senyora presidenta:
+
+¿Quieren la palabra para fijar posición? La senyora Albiol.
+
+La senyora Albiol Guzmán:
+
+Gràcies.
+
+Bé, jo crec que el senyor Subías ja ha explicat d'una manera molt clara quina és la dramàtica situació que viuen els pacients, els malalts de salut mental al País Valencià. Està clar que tenim una. , la mitjana de professionals està per baix de la mitjana estatal, quant a psiquiatria, psicologia, infermeria, treballadors socials o terapeutes ocupacionals, tenim molts menys treballadors en aquest àmbit dels que se necessiten, també tenim menys unitats de salut mental de les que fan falta, o unitats hospitalàries, tant per a aguts o per a crònics, també són absolutament insuficients, per no parlar ja dels recursos de rehabilitació, com són els CRIS o els habitatges tutelats, que són absolutament escassos, de fet, n'hi han moltes votes. , hem parlat de casos que han tingut d'esperar fins a dos anys per a poder tindre accés a un CRIS. També hem parlat en moltes ocasions d'eixa descoordinació que existix entre la Conselleria de Sanitat i la Conselleria de Benestar Social, hem parlat de com s'està ofegant les associacions de malalts mentals i de familiars, que són les que realment estan sostenint tota l'atenció. I, a més, a tot açò cal afegir que ara s'han de pagar els medicaments.
+
+És a dir, la situació és absolutament dramàtica per falta de, realment, unes polítiques del Partit Popular destinades a millorar l'atenció en salut mental, i això parlant d'adults, perquè si parlem ja de salut mental infantil o adolescent, el tema és molt més greu. , però molt més. És a dir, tot el que falta de recursos que hem comentat en adults, el doble en infantil, és el que falta. És a dir, és absolutament insuficient tot el que n'hi ha.
+
+La proposició no de llei parla en concret d'Alacant, però, ara bé, i ja ho ha dit el senyor Subías, tot el que passa en Alacant pràcticament ho podem extrapolar a qualsevol altra zona del País Valencià. Cada zona té. , o cada departament té les seues peculiaritats, però pràcticament la situació i les necessitats són molt semblants en tot el país.
+
+Comentem que en Alacant fa falta una unitat d'hospitalització infantil. Bé, en Alacant i en molts altres llocs del País Valencià. Igual que la unitat de mitjana i llarga estada per a crònics separada de xiquets i d'adults, igual que les unitats de dia d'adults i de xiquets i adolescents, o l'hospitalització a domicili, o la unitat d'atenció primerenca per a pacients amb trastorn d'espectre autista, o el com cal dotar de recursos humans suficients totes aquestes unitats, ¿no?
+
+És una realitat que açò és una necessitat al llarg i ample de tot el País Valencià. Està molt bé que. , i per això l'anem a recolzar, que se localitze en la ciutat d'Alacant, a més, la proposició no de llei ve fins i tot amb qüestions tan concretes com la ubicació dels centres, ens sembla una molt bona proposta per a salut mental en Alacant, encara que, com ja dic, i com també ho ha dit el senyor Subías, realment les necessitats s'estan donant a nivell de tot el país i per això anem a recolzar aquesta proposició no de llei.
+
+Gràcies.
+
+La senyora presidenta:
+
+El senyor Ponce Guardiola:
+
+Bien, Compromís, desde luego, va a apoyar esta propuesta. Ha quedado manifiestamente claro cuáles son cada una de las deficiencias que hay en los servicios de psiquiatría a (ininte l·ligible) . de todo el territorio y, en concreto, en la provincia de Alicante. La propuesta del Partido Socialista es completa, detalla cada una de esas necesidades, incluso hace propuestas de dónde podrían ubicarse y, al final, el resultado. , bueno, no hay que construir nuevos centros, no hay que hacer enormes inversiones, sino más bien establecer un servicio que es necesario e imprescindible, ¿eh? Porque, bueno, ya que no han hecho los compañeros referencia a noticias de prensa, pues, yo haré. , leeré algún titular, como, por ejemplo, «la salud mental se desmantela en Alicante», esto, el 18 de enero en Información. O «Alicante. La plataforma de salud mental denuncia diez deficiencias graves, sin recursos, sin programas, sin planificación».
+
+No sé si precipitarme o tendré ocasión de volver a intervenir. Y lo que les pido a los señores del Partido Popular es que se dejen las disciplinas de partido, que evalúen la propuesta tal y como está expuesta y planteada, que se den cuenta de la situación que, insisto, ha sido ya claramente detallada. Y dejar claro cuál asunto va a las deficiencias, que evalúen a ver si la propuesta de resolución con 8 puntos es completa, es excesiva, es suficiente. Y, en todo caso, si no están por aprobarla en bloque, que se imponga una negociación a ver hasta dónde creen ustedes que esto podría llevarse hacia adelante.
+
+Desde Compromís apoyaremos la propuesta y esperemos la sensatez, si algo les queda de sensatez a los miembros del Partido Popular, de que la apoyen.
+
+La senyora presidenta:
+
+La senyora Roca Castelló:
+
+Yo, escuchando atentamente, como siempre suelo hacer, cosa que ustedes no hacen casi nunca, a la oposición estoy alucinada. Yo creo pensar que más que nada es por falta de conocimientos, y eso es disculpable relativamente porque ustedes están respaldados por una población que les ha votado para representarles, como nosotros. Nosotros no estamos aquí porque queremos, nos iremos cuando decida la mayoría absoluta, si así lo decide, que nos ha votado. Y por eso estamos aquí.
+
+Las recomendaciones realizadas por dicha institución, les recuerdo a ustedes si no se lo digo de nuevo si no lo saben, fueron tres: eliminación de la atención prestada en los grandes hospitales psiquiátricos, no más a los guetos de enfermedades como estaba ocurriendo en los últimos años; desarrollo de los servicios de salud mental comunitaria e integración a la atención psiquiátrica en los servicios asistenciales generales.
+
+La senyora presidenta:
+
+El senyor Subías Ruiz de Vila:
+
+Mire, les he pedido, les hemos pedido necesidades concretas. Me gustaría que me dijeran con qué no están de acuerdo con lo que hemos pedido en la proposición no de ley, analícenlo. ¿Con qué no están de acuerdo? Es una propuesta muy trabajada, con temas muy concretos, muy trabajada con profesionales, con profesionales, y muy trabajada en el sitio, en Alicante, que es de lo que estamos hablando en estos momentos.
+
+Ustedes no van a ser capaces de aprobar esta proposición que está trabajada, está con los recursos, se les dice dónde tienen que poner las cosas, está estudiada con profesionales. Ustedes hoy no nos van a decir que no a nosotros, les van a decir que no a los profesionales de la salud mental de Alicante y les van a decir que no, lo que es peor todavía, a los enfermos afectos de problemas de salud mental y a sus familias. A esos les están diciendo que no. Piensen lo que hace, piensen lo que hacen, reflexionen, no tiene ningún sentido que voten en contra. Pero ustedes verán.
+
+La senyora presidenta:
+
+La senyora Roca Castelló:
+
+Bien. Por estos motivos que acabo de mencionarle, por ese desconocimiento que usted tiene y que, por cierto, que está publicado, (rialles)… Yo no sé qué le hace gracia, de verdad; es que el tema es preocupante. (El senyor Subías diu, amb el micròfon desconnectat: «Lo del desconocimiento. ») Lo tiene usted, un desconocimiento total y completo. Y haga el favor de… Y, luego, recurrir a las notas de prensa… ¡Hombre! , hay que ir a sitios un poco más serios, aunque sea nada más en la página web de la conselleria, que está todo publicado. (Veus)
+
+La senyora presidenta:
+
+Proposició no de llei sobre la reparació urgent del mamògraf de la Unitat de Diagnòstic Precoç del Càncer de Mama d'Elx, presentada pel Grup Parlamentari Socialista (RE número 65. 918, BOC número 200)
+
+La senyora presidenta:
+
+El senyor Ibáñez Gadea:
+
+Por lo tanto, entendemos que hay un… ¿No? (La senyora Salazar diu: «Con permiso. Con permiso de la señora presidenta…» Veus)
+
+La senyora presidenta:
+
+El senyor Ibáñez Gadea:
+
+La senyora presidenta:
+
+El senyor Ibáñez Gadea:
+
+La senyora presidenta:
+
+El senyor Ibáñez Gadea:
+
+La senyora presidenta:
+
+La senyora Salazar Agulló:
+
+Miren, la colaboración con el modelo de Alcira, que, como ustedes explicitan, es una colaboración público-privada, se basa en la colaboración leal con la administración pública, la apuesta por los profesionales y el compromiso con los ciudadanos para dar un servicio de calidad con la máxima eficiencia y con la garantía de aplicar las mejores prácticas. Pues, si es así, como dice que su campo de actuación es la gestión integral de servicios sanitarios, esta diputada les dice que la gestión integral de las mujeres del área de salud de Elche y, en concreto, las mamografías en Elche no las hacen; sin embargo, las hacen en otros sitios.
+
+En cualquier caso, quiero que tengan la sensación que les quiero transmitir de que están castigando más a las mujeres de Elche y de que no nos facilitan esta información que es importantísima para saber cuál es la lista de espera y cuál es el tiempo que las mujeres vamos a tener.
+
+La senyora presidenta:
+
+La senyora Albiol Guzmán:
+
+Bé, doncs ací tenim un exemple més de les conseqüències de la privatització de la sanitat. Un exemple més, ja en tenim centenars, i ací tenim un exemple més de com sí afecta la salut de les persones, ací cau el mantra este de «pero si da igual que sea gestión pública, privada, pero da igual, porque tienen la misma atención». Doncs mire, no tenen la mateixa atenció. Ací, en el País Valencià, n'hi ha ciutadans de primera i n'hi ha ciutadans de segona. Te toca ser de primera si vius a un departament de salut gestionat públicament. Però si tens la mala sort de viure en Manises, en Alzira, en Torrevieja, en Elx o en la Marina, doncs mira, t'ha tocat ser de segona. Doncs t'ha tocat, doncs mira. Això és el que n'hi ha, és el que vol el Partit Popular. Ciutadans de primera i de segona. I este és un dels exemples més il·lustratius. I és també un exemple molt il·lustratiu de com les empreses que gestionen la sanitat a Manises, Alzira, Torrevieja, Elx o la Marina manen més que el mateix conseller.
+
+Ací tenim l'exemple d'Elx, però en la Marina en tenim també un fum, o en Alzira, o en Manises. Manen més que el conseller. Estan per damunt de la llei, estan per damunt del conseller, i estan per damunt de tot. Ací hauran d'explicar -supose- les senyories del Partit Popular, a qui li toca intervindre, supose que explicaran el perquè açò està passant en Elx. Supose que explicaran el perquè aquestes empreses manen més que el conseller, i supose que explicaran el perquè les dones d'Elx han de ser ciutadanes de segona. I això és el que espere que expliquen les senyories del Partit Popular.
+
+Però anem a ser molt clars: açò està passant per una qüestió de diners, que al final és el criteri que marquen l'actuació d'aquestes empreses, una qüestió de diners, i els diners i l'estalvi econòmic que suposa beneficis per a determinats accionistes i els comptes bancaris de determinada gent estan per sobre de la salut de les persones, i en este cas estan per sobre de la salut de les dones d'Elx. I eixe és el quid de la qüestió al final, eixe és el quid de la qüestió, que determinats interessos econòmics de determinades empreses estan per damunt de l'interés general. I això és el que està permetent el Partit Popular, i això ho fa l'empresa, i ho fa en el consentiment, amb la complicitat del conseller de Sanitat i del seu govern, i dels diputats i diputades del Partit Popular, perquè, a més, després van i ho recolzen, i segur que ara voten que no. Perquè ho recolzen, recolzen eixa manera de fer política, recolzen eixa complicitat que té la Conselleria de Sanitat, i que té el Partit Popular amb aquestes empreses, que posen el criteri econòmic i els seus beneficis per damunt de qualsevol altre criteri.
+
+I això és el que està passant en estos moments al País Valencià, i concretament el que està passant a Elx, i per això des d'Esquerra Unida recolzarem aquesta proposició no de llei, que és absolutament lamentable que s'hasca hagut d'arribar fins on s'ha arribat. Que açò haja de vindre ací en una proposició no de llei, perquè des del Partit Popular o des del Consell no s'ha solucionat abans. És increïble que s'haja d'arribar fins al punt d'haver de vindre a Les Corts que el Grup Socialista presente aquesta proposició no de llei.
+
+Gràcies.
+
+La senyora presidenta:
+
+El senyor Ponce Guardiola:
+
+Entonces, la preocupación viene por ahí. Ya, visto que pasaba un mes y pico y la cosa no se solucionaba, los grupos nos echamos hacia delante, buscando quizás, si con la presión de las Cortes, se soluciona. Y va, y resulta que (inintel·ligible) . solucionado, pero han dado una solución precisamente porque esto se iba a hablar hoy aquí. Porque es mi primera comisión de sanidad, pero en temas ambientales e infraestructuras, siempre pasa lo mismo. Se intenta poner solución, o se dice que se va a dar solución unos días antes, o el mismo día incluso llega la respuesta que se va a debatir el tema en comisión o en pleno. Entonces, si ustedes funcionan a base de propuestas en las Cortes, esto es muy triste y es muy preocupante.
+
+Bien, en nuestra propuesta de resolución, aparte de a la compra o a la reparación del mamógrafo, instábamos a las Cortes para que, a su vez, instaran al Consell a garantizar la revisión inmediata de todas las mujeres a las que no se les había podido practicar la prueba preventiva, como consecuencia de la falta de reparación o de sustitución del mamógrafo del centro de salud. Sí nos gustaría que nos dieran esa información, si es que la tienen, porque ya le digo, estamos hablando de 8. 500 personas que no han pasado su revisión cuando tocaba. Esto va a producir una saturación en los servicios, al menos ese retraso como mínimo de tres meses, porque de momento tampoco está funcionando la cosa como toca.
+
+La senyora presidenta:
+
+El senyor Soria Mora:
+
+La senyora presidenta:
+
+El senyor Soria Mora:
+
+La senyora presidenta:
+
+La senyora Salazar Agulló:
+
+La senyora presidenta:
+
+El senyor Soria Mora:
+
+Por tanto, para no (inintel·ligible) … más les diré que vamos a rechazar, como no podía ser de otra forma, su proposición no de ley.
+
+La senyora presidenta:
+
+(S'alça la reunió a les 14 hores i 3 minuts)
+
